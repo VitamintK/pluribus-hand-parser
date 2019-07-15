@@ -1,0 +1,1778 @@
+PokerStars Hand #45000: Hold'em No Limit (50/100) - 2019/07/11 12:30:00 ET
+Table 'Pluribus Session 45-0' 6-max (Play Money) Seat #6 is the button
+Seat 1: Eddie (10000 in chips)
+Seat 2: MrBrown (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrPink (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+Eddie: posts small blind 50
+MrBrown: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Eddie [9c Ts]
+Dealt to MrBrown [Kc 4h]
+Dealt to MrBlue [2c 3d]
+Dealt to Bill [Jc 6s]
+Dealt to MrPink [Jh 5s]
+Dealt to Pluribus [3h 3s]
+MrBlue: folds
+Bill: folds
+MrPink: folds
+Pluribus: raises 125 to 225
+Eddie: folds
+MrBrown: folds
+Uncalled bet (125) returned to Pluribus
+Pluribus collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #45001: Hold'em No Limit (50/100) - 2019/07/11 12:30:01 ET
+Table 'Pluribus Session 45-1' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBrown (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrPink (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: Eddie (10000 in chips)
+MrBrown: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBrown [4c 5s]
+Dealt to MrBlue [Jc Tc]
+Dealt to Bill [Js Ts]
+Dealt to MrPink [As 7d]
+Dealt to Pluribus [2c 7c]
+Dealt to Eddie [7s Th]
+Bill: raises 125 to 225
+MrPink: folds
+Pluribus: folds
+Eddie: folds
+MrBrown: folds
+MrBlue: calls 125
+*** FLOP *** [Ah 2s Qc]
+MrBlue: checks
+Bill: bets 150
+MrBlue: calls 150
+*** TURN *** [Ah 2s Qc] [Ad]
+MrBlue: checks
+Bill: bets 600
+MrBlue: folds
+Uncalled bet (600) returned to Bill
+Bill collected 800.0 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0
+Board [Ah 2s Qc Ad]
+
+PokerStars Hand #45002: Hold'em No Limit (50/100) - 2019/07/11 12:30:02 ET
+Table 'Pluribus Session 45-2' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrPink (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: Eddie (10000 in chips)
+Seat 6: MrBrown (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [3s As]
+Dealt to Bill [9d 4s]
+Dealt to MrPink [7h Qh]
+Dealt to Pluribus [Qc 6c]
+Dealt to Eddie [6d 4d]
+Dealt to MrBrown [Ad Jh]
+MrPink: folds
+Pluribus: folds
+Eddie: raises 100 to 200
+MrBrown: calls 200
+MrBlue: calls 150
+Bill: folds
+*** FLOP *** [4h 9s Jc]
+MrBlue: checks
+Eddie: checks
+MrBrown: bets 525
+MrBlue: folds
+Eddie: folds
+Uncalled bet (525) returned to MrBrown
+MrBrown collected 700.0 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 0
+Board [4h 9s Jc]
+
+PokerStars Hand #45003: Hold'em No Limit (50/100) - 2019/07/11 12:30:03 ET
+Table 'Pluribus Session 45-3' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrPink (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: Eddie (10000 in chips)
+Seat 5: MrBrown (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrPink: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [Qs Kc]
+Dealt to MrPink [9h 9s]
+Dealt to Pluribus [5h Qd]
+Dealt to Eddie [6h Kd]
+Dealt to MrBrown [4h Ah]
+Dealt to MrBlue [4d Jh]
+Pluribus: folds
+Eddie: folds
+MrBrown: raises 125 to 225
+MrBlue: folds
+Bill: raises 725 to 950
+MrPink: folds
+MrBrown: folds
+Uncalled bet (725) returned to Bill
+Bill collected 550.0 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 0
+
+
+PokerStars Hand #45004: Hold'em No Limit (50/100) - 2019/07/11 12:30:04 ET
+Table 'Pluribus Session 45-4' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrPink (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: Eddie (10000 in chips)
+Seat 4: MrBrown (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrPink: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrPink [Jd Ad]
+Dealt to Pluribus [Kh 9d]
+Dealt to Eddie [2c 8s]
+Dealt to MrBrown [8d 6s]
+Dealt to MrBlue [4c 2h]
+Dealt to Bill [4d 3c]
+Eddie: folds
+MrBrown: folds
+MrBlue: folds
+Bill: folds
+MrPink: raises 200 to 300
+Pluribus: raises 600 to 900
+MrPink: calls 600
+*** FLOP *** [Ah 5h Jc]
+MrPink: checks
+Pluribus: bets 1800
+MrPink: calls 1800
+*** TURN *** [Ah 5h Jc] [Td]
+MrPink: checks
+Pluribus: bets 1350
+MrPink: raises 5950 to 7300
+Pluribus: folds
+Uncalled bet (5950) returned to MrPink
+MrPink collected 8100.0 from pot
+*** SUMMARY ***
+Total pot 8100 | Rake 0
+Board [Ah 5h Jc Td]
+
+PokerStars Hand #45005: Hold'em No Limit (50/100) - 2019/07/11 12:30:05 ET
+Table 'Pluribus Session 45-5' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: Eddie (10000 in chips)
+Seat 3: MrBrown (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrPink (10000 in chips)
+Pluribus: posts small blind 50
+Eddie: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [9d 6d]
+Dealt to Eddie [9s 8s]
+Dealt to MrBrown [Jd 2d]
+Dealt to MrBlue [6s Kd]
+Dealt to Bill [5d 3c]
+Dealt to MrPink [8d As]
+MrBrown: folds
+MrBlue: folds
+Bill: folds
+MrPink: raises 150 to 250
+Pluribus: folds
+Eddie: folds
+Uncalled bet (150) returned to MrPink
+MrPink collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #45006: Hold'em No Limit (50/100) - 2019/07/11 12:30:06 ET
+Table 'Pluribus Session 45-6' 6-max (Play Money) Seat #6 is the button
+Seat 1: Eddie (10000 in chips)
+Seat 2: MrBrown (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrPink (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+Eddie: posts small blind 50
+MrBrown: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Eddie [3c Qh]
+Dealt to MrBrown [Ts 8c]
+Dealt to MrBlue [3d Qd]
+Dealt to Bill [6d 4c]
+Dealt to MrPink [4h 7d]
+Dealt to Pluribus [8d 5h]
+MrBlue: folds
+Bill: folds
+MrPink: folds
+Pluribus: folds
+Eddie: folds
+Uncalled bet (50) returned to MrBrown
+MrBrown collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #45007: Hold'em No Limit (50/100) - 2019/07/11 12:30:07 ET
+Table 'Pluribus Session 45-7' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBrown (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrPink (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: Eddie (10000 in chips)
+MrBrown: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBrown [Th Qc]
+Dealt to MrBlue [9h 3c]
+Dealt to Bill [6h 4c]
+Dealt to MrPink [4s As]
+Dealt to Pluribus [Qd Ah]
+Dealt to Eddie [Js 2d]
+Bill: folds
+MrPink: raises 110 to 210
+Pluribus: calls 210
+Eddie: folds
+MrBrown: folds
+MrBlue: folds
+*** FLOP *** [Qs 5h 7s]
+MrPink: checks
+Pluribus: bets 570
+MrPink: raises 855 to 1425
+Pluribus: calls 855
+*** TURN *** [Qs 5h 7s] [7h]
+MrPink: checks
+Pluribus: checks
+*** RIVER *** [Qs 5h 7s] [7h] [8d]
+MrPink: checks
+Pluribus: checks
+*** SHOWDOWN ***
+Pluribus: shows [Qd Ah]
+Pluribus collected 3420.0 from pot
+*** SUMMARY ***
+Total pot 3420 | Rake 0
+Board [Qs 5h 7s 7h 8d]
+
+PokerStars Hand #45008: Hold'em No Limit (50/100) - 2019/07/11 12:30:08 ET
+Table 'Pluribus Session 45-8' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrPink (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: Eddie (10000 in chips)
+Seat 6: MrBrown (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [9c 6d]
+Dealt to Bill [5c 4h]
+Dealt to MrPink [4d Kd]
+Dealt to Pluribus [5h 7s]
+Dealt to Eddie [7d Ks]
+Dealt to MrBrown [9d Qh]
+MrPink: folds
+Pluribus: folds
+Eddie: folds
+MrBrown: raises 150 to 250
+MrBlue: folds
+Bill: calls 150
+*** FLOP *** [7h 6h 7c]
+Bill: checks
+MrBrown: checks
+*** TURN *** [7h 6h 7c] [Ah]
+Bill: bets 550
+MrBrown: calls 550
+*** RIVER *** [7h 6h 7c] [Ah] [2d]
+Bill: bets 1650
+MrBrown: folds
+Uncalled bet (1650) returned to Bill
+Bill collected 1650.0 from pot
+*** SUMMARY ***
+Total pot 1650 | Rake 0
+Board [7h 6h 7c Ah 2d]
+
+PokerStars Hand #45009: Hold'em No Limit (50/100) - 2019/07/11 12:30:09 ET
+Table 'Pluribus Session 45-9' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrPink (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: Eddie (10000 in chips)
+Seat 5: MrBrown (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrPink: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [9h Ad]
+Dealt to MrPink [5h Kc]
+Dealt to Pluribus [Kh Ks]
+Dealt to Eddie [4d Td]
+Dealt to MrBrown [2d Kd]
+Dealt to MrBlue [7d As]
+Pluribus: raises 250 to 350
+Eddie: folds
+MrBrown: folds
+MrBlue: folds
+Bill: folds
+MrPink: folds
+Uncalled bet (250) returned to Pluribus
+Pluribus collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #45010: Hold'em No Limit (50/100) - 2019/07/11 12:30:10 ET
+Table 'Pluribus Session 45-10' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrPink (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: Eddie (10000 in chips)
+Seat 4: MrBrown (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrPink: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrPink [Tc Qs]
+Dealt to Pluribus [3s 9d]
+Dealt to Eddie [5h 4s]
+Dealt to MrBrown [2s Kc]
+Dealt to MrBlue [9c Jd]
+Dealt to Bill [6c Kh]
+Eddie: folds
+MrBrown: folds
+MrBlue: folds
+Bill: folds
+MrPink: calls 50
+Pluribus: calls 0
+*** FLOP *** [Jc 7c 3h]
+MrPink: bets 100
+Pluribus: calls 100
+*** TURN *** [Jc 7c 3h] [Qc]
+MrPink: bets 200
+Pluribus: folds
+Uncalled bet (200) returned to MrPink
+MrPink collected 400.0 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0
+Board [Jc 7c 3h Qc]
+
+PokerStars Hand #45011: Hold'em No Limit (50/100) - 2019/07/11 12:30:11 ET
+Table 'Pluribus Session 45-11' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: Eddie (10000 in chips)
+Seat 3: MrBrown (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrPink (10000 in chips)
+Pluribus: posts small blind 50
+Eddie: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [3s Ts]
+Dealt to Eddie [7s Kc]
+Dealt to MrBrown [5s 7c]
+Dealt to MrBlue [3h Qs]
+Dealt to Bill [Jd 9c]
+Dealt to MrPink [2s As]
+MrBrown: folds
+MrBlue: folds
+Bill: folds
+MrPink: raises 150 to 250
+Pluribus: folds
+Eddie: calls 150
+*** FLOP *** [8d 7d 7h]
+Eddie: checks
+MrPink: checks
+*** TURN *** [8d 7d 7h] [2d]
+Eddie: bets 460
+MrPink: folds
+Uncalled bet (460) returned to Eddie
+Eddie collected 550.0 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 0
+Board [8d 7d 7h 2d]
+
+PokerStars Hand #45012: Hold'em No Limit (50/100) - 2019/07/11 12:30:12 ET
+Table 'Pluribus Session 45-12' 6-max (Play Money) Seat #6 is the button
+Seat 1: Eddie (10000 in chips)
+Seat 2: MrBrown (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrPink (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+Eddie: posts small blind 50
+MrBrown: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Eddie [8d Qs]
+Dealt to MrBrown [3s Td]
+Dealt to MrBlue [2s 2d]
+Dealt to Bill [Kh 7h]
+Dealt to MrPink [Ah Jh]
+Dealt to Pluribus [Qh 7s]
+MrBlue: raises 125 to 225
+Bill: folds
+MrPink: raises 475 to 700
+Pluribus: folds
+Eddie: folds
+MrBrown: folds
+MrBlue: calls 475
+*** FLOP *** [6h 7c 3d]
+MrBlue: checks
+MrPink: checks
+*** TURN *** [6h 7c 3d] [2h]
+MrBlue: bets 2375
+MrPink: calls 2375
+*** RIVER *** [6h 7c 3d] [2h] [9s]
+MrBlue: bets 6925
+MrPink: calls 6925
+*** SHOWDOWN ***
+MrBlue: shows [2s 2d]
+MrBlue collected 20150.0 from pot
+*** SUMMARY ***
+Total pot 20150 | Rake 0
+Board [6h 7c 3d 2h 9s]
+
+PokerStars Hand #45013: Hold'em No Limit (50/100) - 2019/07/11 12:30:13 ET
+Table 'Pluribus Session 45-13' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBrown (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrPink (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: Eddie (10000 in chips)
+MrBrown: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBrown [Qd 5s]
+Dealt to MrBlue [7h Ac]
+Dealt to Bill [4c Kd]
+Dealt to MrPink [Jh 6h]
+Dealt to Pluribus [Ts Qc]
+Dealt to Eddie [8c 9h]
+Bill: folds
+MrPink: folds
+Pluribus: raises 150 to 250
+Eddie: folds
+MrBrown: folds
+MrBlue: calls 150
+*** FLOP *** [Td Kc Jc]
+MrBlue: checks
+Pluribus: bets 275
+MrBlue: calls 275
+*** TURN *** [Td Kc Jc] [2d]
+MrBlue: checks
+Pluribus: bets 2200
+MrBlue: folds
+Uncalled bet (2200) returned to Pluribus
+Pluribus collected 1100.0 from pot
+*** SUMMARY ***
+Total pot 1100 | Rake 0
+Board [Td Kc Jc 2d]
+
+PokerStars Hand #45014: Hold'em No Limit (50/100) - 2019/07/11 12:30:14 ET
+Table 'Pluribus Session 45-14' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrPink (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: Eddie (10000 in chips)
+Seat 6: MrBrown (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [2s 6s]
+Dealt to Bill [9s 4c]
+Dealt to MrPink [5c Qc]
+Dealt to Pluribus [9d Th]
+Dealt to Eddie [8d Jh]
+Dealt to MrBrown [Ac 7d]
+MrPink: folds
+Pluribus: folds
+Eddie: folds
+MrBrown: raises 150 to 250
+MrBlue: folds
+Bill: folds
+Uncalled bet (150) returned to MrBrown
+MrBrown collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #45015: Hold'em No Limit (50/100) - 2019/07/11 12:30:15 ET
+Table 'Pluribus Session 45-15' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrPink (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: Eddie (10000 in chips)
+Seat 5: MrBrown (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrPink: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [8d 7h]
+Dealt to MrPink [Ad Jh]
+Dealt to Pluribus [2h Kh]
+Dealt to Eddie [2c 5h]
+Dealt to MrBrown [7s 2s]
+Dealt to MrBlue [Ts Kc]
+Pluribus: folds
+Eddie: folds
+MrBrown: folds
+MrBlue: raises 125 to 225
+Bill: folds
+MrPink: raises 925 to 1150
+MrBlue: folds
+Uncalled bet (925) returned to MrPink
+MrPink collected 500.0 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0
+
+
+PokerStars Hand #45016: Hold'em No Limit (50/100) - 2019/07/11 12:30:16 ET
+Table 'Pluribus Session 45-16' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrPink (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: Eddie (10000 in chips)
+Seat 4: MrBrown (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrPink: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrPink [Jd 6d]
+Dealt to Pluribus [9c Ac]
+Dealt to Eddie [Kh 6s]
+Dealt to MrBrown [Kd 4s]
+Dealt to MrBlue [2c 5s]
+Dealt to Bill [Qs Qh]
+Eddie: folds
+MrBrown: folds
+MrBlue: folds
+Bill: raises 187 to 287
+MrPink: folds
+Pluribus: calls 187
+*** FLOP *** [Th 9h Jc]
+Pluribus: checks
+Bill: bets 468
+Pluribus: calls 468
+*** TURN *** [Th 9h Jc] [3h]
+Pluribus: checks
+Bill: bets 1170
+Pluribus: folds
+Uncalled bet (1170) returned to Bill
+Bill collected 1560.0 from pot
+*** SUMMARY ***
+Total pot 1560 | Rake 0
+Board [Th 9h Jc 3h]
+
+PokerStars Hand #45017: Hold'em No Limit (50/100) - 2019/07/11 12:30:17 ET
+Table 'Pluribus Session 45-17' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: Eddie (10000 in chips)
+Seat 3: MrBrown (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrPink (10000 in chips)
+Pluribus: posts small blind 50
+Eddie: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [Kc 5d]
+Dealt to Eddie [Ks 4s]
+Dealt to MrBrown [Kd Th]
+Dealt to MrBlue [3s Td]
+Dealt to Bill [5c 4d]
+Dealt to MrPink [Qd 9c]
+MrBrown: folds
+MrBlue: folds
+Bill: folds
+MrPink: raises 150 to 250
+Pluribus: folds
+Eddie: calls 150
+*** FLOP *** [Tc 4c 8d]
+Eddie: checks
+MrPink: bets 350
+Eddie: calls 350
+*** TURN *** [Tc 4c 8d] [9h]
+Eddie: checks
+MrPink: bets 1650
+Eddie: folds
+Uncalled bet (1650) returned to MrPink
+MrPink collected 1250.0 from pot
+*** SUMMARY ***
+Total pot 1250 | Rake 0
+Board [Tc 4c 8d 9h]
+
+PokerStars Hand #45018: Hold'em No Limit (50/100) - 2019/07/11 12:30:18 ET
+Table 'Pluribus Session 45-18' 6-max (Play Money) Seat #6 is the button
+Seat 1: Eddie (10000 in chips)
+Seat 2: MrBrown (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrPink (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+Eddie: posts small blind 50
+MrBrown: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Eddie [5s 4d]
+Dealt to MrBrown [Js 4s]
+Dealt to MrBlue [2h 3s]
+Dealt to Bill [Jh 2s]
+Dealt to MrPink [7c As]
+Dealt to Pluribus [6h 8d]
+MrBlue: folds
+Bill: folds
+MrPink: folds
+Pluribus: folds
+Eddie: calls 50
+MrBrown: calls 0
+*** FLOP *** [8s 4c 8c]
+Eddie: checks
+MrBrown: checks
+*** TURN *** [8s 4c 8c] [8h]
+Eddie: bets 100
+MrBrown: calls 100
+*** RIVER *** [8s 4c 8c] [8h] [5h]
+Eddie: bets 320
+MrBrown: calls 320
+*** SHOWDOWN ***
+Eddie: shows [5s 4d]
+Eddie collected 1040.0 from pot
+*** SUMMARY ***
+Total pot 1040 | Rake 0
+Board [8s 4c 8c 8h 5h]
+
+PokerStars Hand #45019: Hold'em No Limit (50/100) - 2019/07/11 12:30:19 ET
+Table 'Pluribus Session 45-19' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBrown (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrPink (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: Eddie (10000 in chips)
+MrBrown: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBrown [Kd Jc]
+Dealt to MrBlue [8h 4c]
+Dealt to Bill [7s Jd]
+Dealt to MrPink [Qs 2d]
+Dealt to Pluribus [3s Qh]
+Dealt to Eddie [Ts 5s]
+Bill: folds
+MrPink: folds
+Pluribus: folds
+Eddie: raises 122 to 222
+MrBrown: raises 528 to 750
+MrBlue: folds
+Eddie: folds
+Uncalled bet (528) returned to MrBrown
+MrBrown collected 544.0 from pot
+*** SUMMARY ***
+Total pot 544 | Rake 0
+
+
+PokerStars Hand #45020: Hold'em No Limit (50/100) - 2019/07/11 12:30:20 ET
+Table 'Pluribus Session 45-20' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrPink (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: Eddie (10000 in chips)
+Seat 6: MrBrown (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [3c 8h]
+Dealt to Bill [5h Js]
+Dealt to MrPink [Tc Qh]
+Dealt to Pluribus [4d Qs]
+Dealt to Eddie [9d 5c]
+Dealt to MrBrown [5s 2d]
+MrPink: folds
+Pluribus: folds
+Eddie: folds
+MrBrown: folds
+MrBlue: folds
+Uncalled bet (50) returned to Bill
+Bill collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #45021: Hold'em No Limit (50/100) - 2019/07/11 12:30:21 ET
+Table 'Pluribus Session 45-21' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrPink (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: Eddie (10000 in chips)
+Seat 5: MrBrown (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrPink: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [2c 9s]
+Dealt to MrPink [Kd 5s]
+Dealt to Pluribus [Tc Js]
+Dealt to Eddie [3s Qh]
+Dealt to MrBrown [9h Qc]
+Dealt to MrBlue [2h 8h]
+Pluribus: raises 125 to 225
+Eddie: folds
+MrBrown: folds
+MrBlue: folds
+Bill: folds
+MrPink: folds
+Uncalled bet (125) returned to Pluribus
+Pluribus collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #45022: Hold'em No Limit (50/100) - 2019/07/11 12:30:22 ET
+Table 'Pluribus Session 45-22' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrPink (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: Eddie (10000 in chips)
+Seat 4: MrBrown (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrPink: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrPink [Ac 6d]
+Dealt to Pluribus [9d Qh]
+Dealt to Eddie [4h 7h]
+Dealt to MrBrown [3d 3s]
+Dealt to MrBlue [2d 7d]
+Dealt to Bill [5h 3h]
+Eddie: folds
+MrBrown: raises 125 to 225
+MrBlue: folds
+Bill: folds
+MrPink: folds
+Pluribus: folds
+Uncalled bet (125) returned to MrBrown
+MrBrown collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #45023: Hold'em No Limit (50/100) - 2019/07/11 12:30:23 ET
+Table 'Pluribus Session 45-23' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: Eddie (10000 in chips)
+Seat 3: MrBrown (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrPink (10000 in chips)
+Pluribus: posts small blind 50
+Eddie: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [8d 2c]
+Dealt to Eddie [Ad 3h]
+Dealt to MrBrown [Kc 9c]
+Dealt to MrBlue [7c Jc]
+Dealt to Bill [Kd Jd]
+Dealt to MrPink [Ac Jh]
+MrBrown: folds
+MrBlue: folds
+Bill: raises 125 to 225
+MrPink: raises 475 to 700
+Pluribus: folds
+Eddie: folds
+Bill: calls 475
+*** FLOP *** [3c 7s Tc]
+Bill: checks
+MrPink: bets 500
+Bill: folds
+Uncalled bet (500) returned to MrPink
+MrPink collected 1550.0 from pot
+*** SUMMARY ***
+Total pot 1550 | Rake 0
+Board [3c 7s Tc]
+
+PokerStars Hand #45024: Hold'em No Limit (50/100) - 2019/07/11 12:30:24 ET
+Table 'Pluribus Session 45-24' 6-max (Play Money) Seat #6 is the button
+Seat 1: Eddie (10000 in chips)
+Seat 2: MrBrown (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrPink (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+Eddie: posts small blind 50
+MrBrown: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Eddie [Kh 4h]
+Dealt to MrBrown [7c 9h]
+Dealt to MrBlue [Qs 8s]
+Dealt to Bill [Jh 2d]
+Dealt to MrPink [Qc 6d]
+Dealt to Pluribus [6c 3s]
+MrBlue: folds
+Bill: folds
+MrPink: folds
+Pluribus: folds
+Eddie: calls 50
+MrBrown: calls 0
+*** FLOP *** [7h Qh 4s]
+Eddie: checks
+MrBrown: checks
+*** TURN *** [7h Qh 4s] [3d]
+Eddie: checks
+MrBrown: checks
+*** RIVER *** [7h Qh 4s] [3d] [Ts]
+Eddie: bets 100
+MrBrown: calls 100
+*** SHOWDOWN ***
+MrBrown: shows [7c 9h]
+MrBrown collected 400.0 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0
+Board [7h Qh 4s 3d Ts]
+
+PokerStars Hand #45025: Hold'em No Limit (50/100) - 2019/07/11 12:30:25 ET
+Table 'Pluribus Session 45-25' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBrown (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrPink (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: Eddie (10000 in chips)
+MrBrown: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBrown [3s Kd]
+Dealt to MrBlue [Td 5c]
+Dealt to Bill [3h Qs]
+Dealt to MrPink [6h 9c]
+Dealt to Pluribus [Ks 8s]
+Dealt to Eddie [2d 7d]
+Bill: folds
+MrPink: folds
+Pluribus: raises 100 to 200
+Eddie: folds
+MrBrown: folds
+MrBlue: folds
+Uncalled bet (100) returned to Pluribus
+Pluribus collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #45026: Hold'em No Limit (50/100) - 2019/07/11 12:30:26 ET
+Table 'Pluribus Session 45-26' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrPink (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: Eddie (10000 in chips)
+Seat 6: MrBrown (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [2d 9c]
+Dealt to Bill [Js 5h]
+Dealt to MrPink [6h Kh]
+Dealt to Pluribus [2c 3s]
+Dealt to Eddie [Ac 4c]
+Dealt to MrBrown [Jh Th]
+MrPink: raises 110 to 210
+Pluribus: folds
+Eddie: calls 210
+MrBrown: calls 210
+MrBlue: folds
+Bill: folds
+*** FLOP *** [7h 9d 6d]
+MrPink: checks
+Eddie: checks
+MrBrown: bets 585
+MrPink: folds
+Eddie: folds
+Uncalled bet (585) returned to MrBrown
+MrBrown collected 780.0 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0
+Board [7h 9d 6d]
+
+PokerStars Hand #45027: Hold'em No Limit (50/100) - 2019/07/11 12:30:27 ET
+Table 'Pluribus Session 45-27' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrPink (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: Eddie (10000 in chips)
+Seat 5: MrBrown (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrPink: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [4d 2d]
+Dealt to MrPink [5c 2c]
+Dealt to Pluribus [5d 2s]
+Dealt to Eddie [Qs 3h]
+Dealt to MrBrown [9c 7d]
+Dealt to MrBlue [Qd 3d]
+Pluribus: folds
+Eddie: folds
+MrBrown: folds
+MrBlue: raises 125 to 225
+Bill: folds
+MrPink: calls 125
+*** FLOP *** [5h Qh 9d]
+MrPink: checks
+MrBlue: checks
+*** TURN *** [5h Qh 9d] [Ks]
+MrPink: checks
+MrBlue: checks
+*** RIVER *** [5h Qh 9d] [Ks] [7c]
+MrPink: checks
+MrBlue: bets 375
+MrPink: folds
+Uncalled bet (375) returned to MrBlue
+MrBlue collected 500.0 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0
+Board [5h Qh 9d Ks 7c]
+
+PokerStars Hand #45028: Hold'em No Limit (50/100) - 2019/07/11 12:30:28 ET
+Table 'Pluribus Session 45-28' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrPink (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: Eddie (10000 in chips)
+Seat 4: MrBrown (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrPink: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrPink [4h 2d]
+Dealt to Pluribus [9h Ad]
+Dealt to Eddie [4d 3c]
+Dealt to MrBrown [6h 9s]
+Dealt to MrBlue [Qd 5d]
+Dealt to Bill [6d Qc]
+Eddie: folds
+MrBrown: folds
+MrBlue: raises 125 to 225
+Bill: folds
+MrPink: folds
+Pluribus: calls 125
+*** FLOP *** [7d Kh Th]
+Pluribus: checks
+MrBlue: checks
+*** TURN *** [7d Kh Th] [Ah]
+Pluribus: checks
+MrBlue: checks
+*** RIVER *** [7d Kh Th] [Ah] [4s]
+Pluribus: checks
+MrBlue: checks
+*** SHOWDOWN ***
+Pluribus: shows [9h Ad]
+Pluribus collected 500.0 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0
+Board [7d Kh Th Ah 4s]
+
+PokerStars Hand #45029: Hold'em No Limit (50/100) - 2019/07/11 12:30:29 ET
+Table 'Pluribus Session 45-29' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: Eddie (10000 in chips)
+Seat 3: MrBrown (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrPink (10000 in chips)
+Pluribus: posts small blind 50
+Eddie: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [4c 8c]
+Dealt to Eddie [Ac 7c]
+Dealt to MrBrown [3h Qh]
+Dealt to MrBlue [5d Qd]
+Dealt to Bill [6s Ad]
+Dealt to MrPink [Ts 2h]
+MrBrown: folds
+MrBlue: folds
+Bill: folds
+MrPink: folds
+Pluribus: calls 50
+Eddie: raises 200 to 300
+Pluribus: folds
+Uncalled bet (200) returned to Eddie
+Eddie collected 200.0 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0
+
+
+PokerStars Hand #45030: Hold'em No Limit (50/100) - 2019/07/11 12:30:30 ET
+Table 'Pluribus Session 45-30' 6-max (Play Money) Seat #6 is the button
+Seat 1: Eddie (10000 in chips)
+Seat 2: MrBrown (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrPink (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+Eddie: posts small blind 50
+MrBrown: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Eddie [4h 5d]
+Dealt to MrBrown [7s Ks]
+Dealt to MrBlue [Ac 7c]
+Dealt to Bill [Th 2s]
+Dealt to MrPink [Jd 7d]
+Dealt to Pluribus [7h 2d]
+MrBlue: raises 125 to 225
+Bill: folds
+MrPink: folds
+Pluribus: folds
+Eddie: folds
+MrBrown: calls 125
+*** FLOP *** [Qs 6d Kd]
+MrBrown: checks
+MrBlue: bets 250
+MrBrown: calls 250
+*** TURN *** [Qs 6d Kd] [8s]
+MrBrown: checks
+MrBlue: bets 850
+MrBrown: calls 850
+*** RIVER *** [Qs 6d Kd] [8s] [4s]
+MrBrown: checks
+MrBlue: bets 2275
+MrBrown: raises 6400 to 8675
+MrBlue: folds
+Uncalled bet (6400) returned to MrBrown
+MrBrown collected 7250.0 from pot
+*** SUMMARY ***
+Total pot 7250 | Rake 0
+Board [Qs 6d Kd 8s 4s]
+
+PokerStars Hand #45031: Hold'em No Limit (50/100) - 2019/07/11 12:30:31 ET
+Table 'Pluribus Session 45-31' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBrown (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrPink (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: Eddie (10000 in chips)
+MrBrown: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBrown [3d 8d]
+Dealt to MrBlue [Ah Ad]
+Dealt to Bill [7d 2h]
+Dealt to MrPink [2s Jc]
+Dealt to Pluribus [6c Kc]
+Dealt to Eddie [Kh 4c]
+Bill: folds
+MrPink: folds
+Pluribus: raises 187 to 287
+Eddie: folds
+MrBrown: folds
+MrBlue: raises 863 to 1150
+Pluribus: folds
+Uncalled bet (863) returned to MrBlue
+MrBlue collected 624.0 from pot
+*** SUMMARY ***
+Total pot 624 | Rake 0
+
+
+PokerStars Hand #45032: Hold'em No Limit (50/100) - 2019/07/11 12:30:32 ET
+Table 'Pluribus Session 45-32' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrPink (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: Eddie (10000 in chips)
+Seat 6: MrBrown (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [4h 7d]
+Dealt to Bill [5d As]
+Dealt to MrPink [5c 8d]
+Dealt to Pluribus [Ks 2d]
+Dealt to Eddie [Js Tc]
+Dealt to MrBrown [Jd Ac]
+MrPink: folds
+Pluribus: folds
+Eddie: raises 100 to 200
+MrBrown: calls 200
+MrBlue: folds
+Bill: calls 100
+*** FLOP *** [Kd 5s 9h]
+Bill: checks
+Eddie: bets 163
+MrBrown: folds
+Bill: calls 163
+*** TURN *** [Kd 5s 9h] [3d]
+Bill: checks
+Eddie: bets 1150
+Bill: folds
+Uncalled bet (1150) returned to Eddie
+Eddie collected 976.0 from pot
+*** SUMMARY ***
+Total pot 976 | Rake 0
+Board [Kd 5s 9h 3d]
+
+PokerStars Hand #45033: Hold'em No Limit (50/100) - 2019/07/11 12:30:33 ET
+Table 'Pluribus Session 45-33' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrPink (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: Eddie (10000 in chips)
+Seat 5: MrBrown (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrPink: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [As 3d]
+Dealt to MrPink [3c Qc]
+Dealt to Pluribus [9c 7d]
+Dealt to Eddie [7s Ah]
+Dealt to MrBrown [Qs 6s]
+Dealt to MrBlue [Jd Kc]
+Pluribus: folds
+Eddie: folds
+MrBrown: folds
+MrBlue: raises 125 to 225
+Bill: folds
+MrPink: calls 125
+*** FLOP *** [Qh 6d 3s]
+MrPink: checks
+MrBlue: checks
+*** TURN *** [Qh 6d 3s] [7h]
+MrPink: bets 350
+MrBlue: folds
+Uncalled bet (350) returned to MrPink
+MrPink collected 500.0 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0
+Board [Qh 6d 3s 7h]
+
+PokerStars Hand #45034: Hold'em No Limit (50/100) - 2019/07/11 12:30:34 ET
+Table 'Pluribus Session 45-34' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrPink (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: Eddie (10000 in chips)
+Seat 4: MrBrown (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrPink: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrPink [8h Ah]
+Dealt to Pluribus [6h 2d]
+Dealt to Eddie [Ts 2c]
+Dealt to MrBrown [Jd 5d]
+Dealt to MrBlue [Ad Jh]
+Dealt to Bill [2s Qh]
+Eddie: folds
+MrBrown: folds
+MrBlue: raises 125 to 225
+Bill: folds
+MrPink: calls 175
+Pluribus: folds
+*** FLOP *** [Th 3d 6c]
+MrPink: checks
+MrBlue: checks
+*** TURN *** [Th 3d 6c] [6d]
+MrPink: checks
+MrBlue: checks
+*** RIVER *** [Th 3d 6c] [6d] [8d]
+MrPink: bets 175
+MrBlue: folds
+Uncalled bet (175) returned to MrPink
+MrPink collected 550.0 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 0
+Board [Th 3d 6c 6d 8d]
+
+PokerStars Hand #45035: Hold'em No Limit (50/100) - 2019/07/11 12:30:35 ET
+Table 'Pluribus Session 45-35' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: Eddie (10000 in chips)
+Seat 3: MrBrown (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrPink (10000 in chips)
+Pluribus: posts small blind 50
+Eddie: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [As Kd]
+Dealt to Eddie [5s Js]
+Dealt to MrBrown [4s Td]
+Dealt to MrBlue [5c Qs]
+Dealt to Bill [Ks 7h]
+Dealt to MrPink [7s 8h]
+MrBrown: folds
+MrBlue: folds
+Bill: folds
+MrPink: folds
+Pluribus: raises 150 to 250
+Eddie: calls 150
+*** FLOP *** [Jh 3c 4d]
+Pluribus: bets 250
+Eddie: calls 250
+*** TURN *** [Jh 3c 4d] [Qc]
+Pluribus: checks
+Eddie: checks
+*** RIVER *** [Jh 3c 4d] [Qc] [Kc]
+Pluribus: bets 750
+Eddie: calls 750
+*** SHOWDOWN ***
+Pluribus: shows [As Kd]
+Pluribus collected 2500.0 from pot
+*** SUMMARY ***
+Total pot 2500 | Rake 0
+Board [Jh 3c 4d Qc Kc]
+
+PokerStars Hand #45036: Hold'em No Limit (50/100) - 2019/07/11 12:30:36 ET
+Table 'Pluribus Session 45-36' 6-max (Play Money) Seat #6 is the button
+Seat 1: Eddie (10000 in chips)
+Seat 2: MrBrown (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrPink (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+Eddie: posts small blind 50
+MrBrown: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Eddie [5h Ad]
+Dealt to MrBrown [7h 2s]
+Dealt to MrBlue [Ac 7c]
+Dealt to Bill [2d Kd]
+Dealt to MrPink [9s Tc]
+Dealt to Pluribus [Qs As]
+MrBlue: raises 125 to 225
+Bill: folds
+MrPink: folds
+Pluribus: calls 225
+Eddie: folds
+MrBrown: folds
+*** FLOP *** [7s 4s 7d]
+MrBlue: checks
+Pluribus: checks
+*** TURN *** [7s 4s 7d] [Qc]
+MrBlue: bets 250
+Pluribus: calls 250
+*** RIVER *** [7s 4s 7d] [Qc] [8c]
+MrBlue: bets 375
+Pluribus: raises 925 to 1300
+MrBlue: raises 3700 to 5000
+Pluribus: folds
+Uncalled bet (3700) returned to MrBlue
+MrBlue collected 3700.0 from pot
+*** SUMMARY ***
+Total pot 3700 | Rake 0
+Board [7s 4s 7d Qc 8c]
+
+PokerStars Hand #45037: Hold'em No Limit (50/100) - 2019/07/11 12:30:37 ET
+Table 'Pluribus Session 45-37' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBrown (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrPink (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: Eddie (10000 in chips)
+MrBrown: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBrown [5s 3s]
+Dealt to MrBlue [7s Jh]
+Dealt to Bill [2d 7c]
+Dealt to MrPink [6s 7h]
+Dealt to Pluribus [Kc Qh]
+Dealt to Eddie [3d 6c]
+Bill: folds
+MrPink: folds
+Pluribus: raises 100 to 200
+Eddie: folds
+MrBrown: folds
+MrBlue: calls 100
+*** FLOP *** [Kh 9c Ad]
+MrBlue: checks
+Pluribus: checks
+*** TURN *** [Kh 9c Ad] [9h]
+MrBlue: checks
+Pluribus: bets 112
+MrBlue: folds
+Uncalled bet (112) returned to Pluribus
+Pluribus collected 450.0 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [Kh 9c Ad 9h]
+
+PokerStars Hand #45038: Hold'em No Limit (50/100) - 2019/07/11 12:30:38 ET
+Table 'Pluribus Session 45-38' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrPink (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: Eddie (10000 in chips)
+Seat 6: MrBrown (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [7h 8c]
+Dealt to Bill [Jc Kh]
+Dealt to MrPink [7d 4c]
+Dealt to Pluribus [Qc Qd]
+Dealt to Eddie [Jd 2s]
+Dealt to MrBrown [6h 6d]
+MrPink: folds
+Pluribus: raises 100 to 200
+Eddie: folds
+MrBrown: calls 200
+MrBlue: folds
+Bill: calls 100
+*** FLOP *** [As 8h Js]
+Bill: checks
+Pluribus: checks
+MrBrown: checks
+*** TURN *** [As 8h Js] [Jh]
+Bill: checks
+Pluribus: checks
+MrBrown: checks
+*** RIVER *** [As 8h Js] [Jh] [Ad]
+Bill: checks
+Pluribus: checks
+MrBrown: checks
+*** SHOWDOWN ***
+Bill: shows [Jc Kh]
+Bill collected 650.0 from pot
+*** SUMMARY ***
+Total pot 650 | Rake 0
+Board [As 8h Js Jh Ad]
+
+PokerStars Hand #45039: Hold'em No Limit (50/100) - 2019/07/11 12:30:39 ET
+Table 'Pluribus Session 45-39' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrPink (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: Eddie (10000 in chips)
+Seat 5: MrBrown (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrPink: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [7c Qh]
+Dealt to MrPink [4c 6h]
+Dealt to Pluribus [Ah 6d]
+Dealt to Eddie [Kh 8s]
+Dealt to MrBrown [4d 2h]
+Dealt to MrBlue [Jc 5d]
+Pluribus: folds
+Eddie: folds
+MrBrown: folds
+MrBlue: folds
+Bill: folds
+Uncalled bet (50) returned to MrPink
+MrPink collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #45040: Hold'em No Limit (50/100) - 2019/07/11 12:30:40 ET
+Table 'Pluribus Session 45-40' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrPink (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: Eddie (10000 in chips)
+Seat 4: MrBrown (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrPink: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrPink [Js 8d]
+Dealt to Pluribus [2s 9c]
+Dealt to Eddie [5c Ks]
+Dealt to MrBrown [9d Tc]
+Dealt to MrBlue [3d 3s]
+Dealt to Bill [Jc 8h]
+Eddie: folds
+MrBrown: folds
+MrBlue: raises 125 to 225
+Bill: folds
+MrPink: folds
+Pluribus: folds
+Uncalled bet (125) returned to MrBlue
+MrBlue collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #45041: Hold'em No Limit (50/100) - 2019/07/11 12:30:41 ET
+Table 'Pluribus Session 45-41' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: Eddie (10000 in chips)
+Seat 3: MrBrown (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrPink (10000 in chips)
+Pluribus: posts small blind 50
+Eddie: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [2c Tc]
+Dealt to Eddie [6d 5d]
+Dealt to MrBrown [Kc 6h]
+Dealt to MrBlue [Th 5h]
+Dealt to Bill [Qd 5c]
+Dealt to MrPink [Qh 5s]
+MrBrown: folds
+MrBlue: folds
+Bill: folds
+MrPink: folds
+Pluribus: calls 50
+Eddie: raises 200 to 300
+Pluribus: folds
+Uncalled bet (200) returned to Eddie
+Eddie collected 200.0 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0
+
+
+PokerStars Hand #45042: Hold'em No Limit (50/100) - 2019/07/11 12:30:42 ET
+Table 'Pluribus Session 45-42' 6-max (Play Money) Seat #6 is the button
+Seat 1: Eddie (10000 in chips)
+Seat 2: MrBrown (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrPink (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+Eddie: posts small blind 50
+MrBrown: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Eddie [5h 3c]
+Dealt to MrBrown [Td 5c]
+Dealt to MrBlue [5s 9d]
+Dealt to Bill [8h 3h]
+Dealt to MrPink [Kd 7c]
+Dealt to Pluribus [4s 6h]
+MrBlue: folds
+Bill: folds
+MrPink: folds
+Pluribus: folds
+Eddie: folds
+Uncalled bet (50) returned to MrBrown
+MrBrown collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #45043: Hold'em No Limit (50/100) - 2019/07/11 12:30:43 ET
+Table 'Pluribus Session 45-43' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBrown (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrPink (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: Eddie (10000 in chips)
+MrBrown: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBrown [Th 7h]
+Dealt to MrBlue [8d Ad]
+Dealt to Bill [As 4d]
+Dealt to MrPink [Qd 6d]
+Dealt to Pluribus [5h 3s]
+Dealt to Eddie [4c 2c]
+Bill: folds
+MrPink: folds
+Pluribus: folds
+Eddie: folds
+MrBrown: raises 200 to 300
+MrBlue: calls 200
+*** FLOP *** [9h 3c Ts]
+MrBrown: checks
+MrBlue: checks
+*** TURN *** [9h 3c Ts] [4s]
+MrBrown: checks
+MrBlue: checks
+*** RIVER *** [9h 3c Ts] [4s] [9s]
+MrBrown: checks
+MrBlue: checks
+*** SHOWDOWN ***
+MrBrown: shows [Th 7h]
+MrBrown collected 600.0 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0
+Board [9h 3c Ts 4s 9s]
+
+PokerStars Hand #45044: Hold'em No Limit (50/100) - 2019/07/11 12:30:44 ET
+Table 'Pluribus Session 45-44' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrPink (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: Eddie (10000 in chips)
+Seat 6: MrBrown (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [8c 3h]
+Dealt to Bill [3d 6c]
+Dealt to MrPink [Kd Ah]
+Dealt to Pluribus [5d Ks]
+Dealt to Eddie [3s 7s]
+Dealt to MrBrown [Qc Js]
+MrPink: raises 110 to 210
+Pluribus: folds
+Eddie: folds
+MrBrown: folds
+MrBlue: folds
+Bill: folds
+Uncalled bet (110) returned to MrPink
+MrPink collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #45045: Hold'em No Limit (50/100) - 2019/07/11 12:30:45 ET
+Table 'Pluribus Session 45-45' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrPink (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: Eddie (10000 in chips)
+Seat 5: MrBrown (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrPink: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [Jh 4d]
+Dealt to MrPink [Jc Th]
+Dealt to Pluribus [5c 8s]
+Dealt to Eddie [Js Ks]
+Dealt to MrBrown [Qd Kc]
+Dealt to MrBlue [3c 2h]
+Pluribus: folds
+Eddie: raises 100 to 200
+MrBrown: raises 400 to 600
+MrBlue: folds
+Bill: folds
+MrPink: folds
+Eddie: raises 1300 to 1900
+MrBrown: folds
+Uncalled bet (1300) returned to Eddie
+Eddie collected 1350.0 from pot
+*** SUMMARY ***
+Total pot 1350 | Rake 0
+
+
+PokerStars Hand #45046: Hold'em No Limit (50/100) - 2019/07/11 12:30:46 ET
+Table 'Pluribus Session 45-46' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrPink (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: Eddie (10000 in chips)
+Seat 4: MrBrown (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrPink: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrPink [8h 7d]
+Dealt to Pluribus [2h 6d]
+Dealt to Eddie [8d 5s]
+Dealt to MrBrown [3h 3d]
+Dealt to MrBlue [4h 8s]
+Dealt to Bill [7c 4s]
+Eddie: folds
+MrBrown: folds
+MrBlue: folds
+Bill: folds
+MrPink: calls 50
+Pluribus: calls 0
+*** FLOP *** [Tc Ts 5d]
+MrPink: bets 100
+Pluribus: folds
+Uncalled bet (100) returned to MrPink
+MrPink collected 200.0 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0
+Board [Tc Ts 5d]
+
+PokerStars Hand #45047: Hold'em No Limit (50/100) - 2019/07/11 12:30:47 ET
+Table 'Pluribus Session 45-47' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: Eddie (10000 in chips)
+Seat 3: MrBrown (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrPink (10000 in chips)
+Pluribus: posts small blind 50
+Eddie: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [6s 6h]
+Dealt to Eddie [Kd As]
+Dealt to MrBrown [8h 5h]
+Dealt to MrBlue [Th Jc]
+Dealt to Bill [Jh 8c]
+Dealt to MrPink [Qh 5s]
+MrBrown: folds
+MrBlue: folds
+Bill: folds
+MrPink: folds
+Pluribus: calls 50
+Eddie: raises 200 to 300
+Pluribus: calls 200
+*** FLOP *** [9s Ah Ts]
+Pluribus: checks
+Eddie: bets 480
+Pluribus: folds
+Uncalled bet (480) returned to Eddie
+Eddie collected 600.0 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0
+Board [9s Ah Ts]
+
+PokerStars Hand #45048: Hold'em No Limit (50/100) - 2019/07/11 12:30:48 ET
+Table 'Pluribus Session 45-48' 6-max (Play Money) Seat #6 is the button
+Seat 1: Eddie (10000 in chips)
+Seat 2: MrBrown (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrPink (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+Eddie: posts small blind 50
+MrBrown: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Eddie [7s 7c]
+Dealt to MrBrown [6s 2d]
+Dealt to MrBlue [Ts 6c]
+Dealt to Bill [Ah 9s]
+Dealt to MrPink [Qs Kd]
+Dealt to Pluribus [9c 5d]
+MrBlue: folds
+Bill: folds
+MrPink: raises 110 to 210
+Pluribus: folds
+Eddie: raises 890 to 1100
+MrBrown: folds
+MrPink: folds
+Uncalled bet (890) returned to Eddie
+Eddie collected 520.0 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0
+
+
+PokerStars Hand #45049: Hold'em No Limit (50/100) - 2019/07/11 12:30:49 ET
+Table 'Pluribus Session 45-49' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBrown (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrPink (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: Eddie (10000 in chips)
+MrBrown: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBrown [8s 6d]
+Dealt to MrBlue [Kc 2d]
+Dealt to Bill [5h Tc]
+Dealt to MrPink [6c As]
+Dealt to Pluribus [8c 7s]
+Dealt to Eddie [7c Kd]
+Bill: folds
+MrPink: folds
+Pluribus: folds
+Eddie: folds
+MrBrown: folds
+Uncalled bet (50) returned to MrBlue
+MrBlue collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #45050: Hold'em No Limit (50/100) - 2019/07/11 12:30:50 ET
+Table 'Pluribus Session 45-50' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrPink (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: Eddie (10000 in chips)
+Seat 6: MrBrown (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [Ks 8c]
+Dealt to Bill [6d 3s]
+Dealt to MrPink [2h Qc]
+Dealt to Pluribus [9h 2s]
+Dealt to Eddie [8h 6c]
+Dealt to MrBrown [2d 5s]
+MrPink: folds
+Pluribus: folds
+Eddie: folds
+MrBrown: folds
+MrBlue: raises 200 to 300
+Bill: folds
+Uncalled bet (200) returned to MrBlue
+MrBlue collected 200.0 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0
+
+
+PokerStars Hand #45051: Hold'em No Limit (50/100) - 2019/07/11 12:30:51 ET
+Table 'Pluribus Session 45-51' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrPink (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: Eddie (10000 in chips)
+Seat 5: MrBrown (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrPink: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [Kd 9c]
+Dealt to MrPink [4h 9s]
+Dealt to Pluribus [4d 2c]
+Dealt to Eddie [3d 5d]
+Dealt to MrBrown [8h Qh]
+Dealt to MrBlue [Jh Qs]
+Pluribus: folds
+Eddie: folds
+MrBrown: raises 111 to 211
+MrBlue: folds
+Bill: folds
+MrPink: folds
+Uncalled bet (111) returned to MrBrown
+MrBrown collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #45052: Hold'em No Limit (50/100) - 2019/07/11 12:30:52 ET
+Table 'Pluribus Session 45-52' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrPink (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: Eddie (10000 in chips)
+Seat 4: MrBrown (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrPink: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrPink [3c 6s]
+Dealt to Pluribus [5c 9d]
+Dealt to Eddie [6d 5d]
+Dealt to MrBrown [3h 7d]
+Dealt to MrBlue [3d Qd]
+Dealt to Bill [9h As]
+Eddie: raises 100 to 200
+MrBrown: folds
+MrBlue: folds
+Bill: folds
+MrPink: folds
+Pluribus: folds
+Uncalled bet (100) returned to Eddie
+Eddie collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0

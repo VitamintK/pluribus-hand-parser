@@ -2,14 +2,26 @@
 from textwrap import wrap
 from collections import namedtuple
 import re
-
+import datetime
+from os import listdir
+from os.path import isfile, join
 PREFACE_FOR_PLAYER_NAMES = "plur_"
 
-def read_directory():
-    return
+def read_directory(directory_path):
+    onlyfiles = [f for f in listdir(directory_path) if isfile(join(directory_path, f))]
+    sessions = Sessions()
+    for f in onlyfiles:
+        is_log = f.split('.')[-1] == 'log'
+        if not is_log:
+            print("{} does not end with .log, not parsing".format(f))
+            continue
+        session_number = f.split('.')[0].split('_')[-1]
+        sessions.append(read_hands_from_file(join(directory_path, f), session_number))
+    return sessions
+
 
 def read_hands_from_file(hands_filename, session_number):
-    hands = Hands()
+    hands = Hands(session_number)
     with open(hands_filename) as f:
         for l in f:
             line = l.strip()
@@ -20,11 +32,19 @@ def read_hands_from_file(hands_filename, session_number):
         h.parse()
     return hands
 
-
 def read_hands_from_str(hands_str):
     pass
 
+class Sessions(list):
+    def save(self, directory):
+        for session in self:
+            with open("{}/pluribus_{}.txt".format(directory, session.label), 'w') as f:
+                f.write(session.get_poker_stars_str())
+
 class Hands(list):
+    def __init__(self, label):
+        super(list)
+        self.label = label
     def get_poker_stars_str(self):
         return '\n\n'.join([h.get_poker_stars_str() for h in self])
 
@@ -92,7 +112,7 @@ class Hand:
         state, hand_number, actions, cards, profit, player_ids = split
         self.hand_number = hand_number
         self.player_ids = player_ids.split('|')
-        self.profits = [int(p) for p in profit.split('|')]
+        self.profits = [float(p) for p in profit.split('|')]
         self.winners = []
         for i, profit in enumerate(self.profits):
             if profit > 0:
@@ -155,48 +175,46 @@ class Hand:
         return self.hand_text
 
     def get_poker_stars_str(self, pre=''):
-        try:
-            # pre is the preface for player names - if pre="plur_", then then player names will all be e.g. "plur_MrWhite", "plur_Pluribus". This is if you want the players to be alphabetically by each other in pokertracker
-            session = self.session if self.session else 0
-            hh = ''
-            hh += "PokerStars Hand #{}: Hold'em No Limit (50/100) - {} [{}]\n".format(1000*session + int(self.hand_number), '2017/08/08 23:16:30 MSK', '2017/08/08 16:16:30 ET')
-            hh += "Table 'Pluribus Session {}-{}' 6-max (Play Money) Seat #6 is the button\n".format('TODO', self.hand_number)
-            for seat, player_id in enumerate(self.player_ids):
-                hh += "Seat {}: {} (10000 in chips)\n".format(seat+1, player_id)
-            for action in self.actions[0]:
-                hh += action.get_poker_stars_str() + '\n'
-            hh += '*** HOLE CARDS ***\n'
-            for player_id, hole_cards in zip(self.player_ids, self.player_hole_cards):
-                hh += 'Dealt to {} {}\n'.format(player_id, hole_cards.get_poker_stars_str())
-            for action in self.actions[1]:
-                hh += action.get_poker_stars_str() + '\n'
-            titles = ['FLOP', 'TURN', 'RIVER']
-            community_cards_strs = []
-            for street_no, community_cards in enumerate(self.community_cards_by_street):
-                community_cards_strs.append(community_cards.get_poker_stars_str())
-                hh += '*** {} *** {}\n'.format(titles[street_no], ' '.join(community_cards_strs))
-                if len(self.actions)-1 >= street_no+2:
-                    for action in self.actions[street_no+2]:
-                        hh += action.get_poker_stars_str() + '\n'
-            if len(self.community_cards_by_street) == 3 and self.actions[-1][-1].action_type in ['ca', 'ch']:
-                hh += "*** SHOWDOWN ***\n"
-                for player_no in self.winners:
-                    hh += "{}: shows {}\n".format(self.player_ids[player_no], self.player_hole_cards[player_no].get_poker_stars_str())
+        # pre is the preface for player names - if pre="plur_", then then player names will all be e.g. "plur_MrWhite", "plur_Pluribus". This is if you want the players to be alphabetically by each other in pokertracker
+        session = int(''.join(x for x in self.session if x.isdigit())) if self.session else 0
+        base_time = datetime.datetime(2019,7,11) # july 17, 2019 - the day that poker died
+        time = base_time + datetime.timedelta(seconds=1000*session + int(self.hand_number))
+        hh = ''
+        hh += "PokerStars Hand #{}: Hold'em No Limit (50/100) - {}\n".format(1000*session + int(self.hand_number), time.strftime("%Y/%m/%d %H:%M:%S ET"))
+        hh += "Table 'Pluribus Session {}-{}' 6-max (Play Money) Seat #6 is the button\n".format(session, self.hand_number)
+        for seat, player_id in enumerate(self.player_ids):
+            hh += "Seat {}: {} (10000 in chips)\n".format(seat+1, player_id)
+        for action in self.actions[0]:
+            hh += action.get_poker_stars_str() + '\n'
+        hh += '*** HOLE CARDS ***\n'
+        for player_id, hole_cards in zip(self.player_ids, self.player_hole_cards):
+            hh += 'Dealt to {} {}\n'.format(player_id, hole_cards.get_poker_stars_str())
+        for action in self.actions[1]:
+            hh += action.get_poker_stars_str() + '\n'
+        titles = ['FLOP', 'TURN', 'RIVER']
+        community_cards_strs = []
+        for street_no, community_cards in enumerate(self.community_cards_by_street):
+            community_cards_strs.append(community_cards.get_poker_stars_str())
+            hh += '*** {} *** {}\n'.format(titles[street_no], ' '.join(community_cards_strs))
+            if len(self.actions)-1 >= street_no+2:
+                for action in self.actions[street_no+2]:
+                    hh += action.get_poker_stars_str() + '\n'
+        if len(self.community_cards_by_street) == 3 and self.actions[-1][-1].action_type in ['ca', 'ch']:
+            hh += "*** SHOWDOWN ***\n"
             for player_no in self.winners:
-                player_id = self.player_ids[player_no]
-                if self.uncalled_amount:
-                    hh += "Uncalled bet ({}) returned to {}\n".format(self.uncalled_amount, player_id)
-                hh += "{} collected {} from pot\n".format(player_id, self.pot/len(self.winners))
-            hh += "*** SUMMARY ***\n"
-            hh += "Total pot {} | Rake 0\n".format(self.pot)
-            if len(self.community_cards_by_street) > 0:
-                hh += "Board {}".format(sum(self.community_cards_by_street, Cards('')).get_poker_stars_str())
-            # for seat, player_id in enumerate(self.player_ids):
-            #     hh += "Seat {}: {}"
-            return hh
-        except Exception as e:
-            print(self.hand_text)
-            raise e
+                hh += "{}: shows {}\n".format(self.player_ids[player_no], self.player_hole_cards[player_no].get_poker_stars_str())
+        for player_no in self.winners:
+            player_id = self.player_ids[player_no]
+            if self.uncalled_amount:
+                hh += "Uncalled bet ({}) returned to {}\n".format(self.uncalled_amount, player_id)
+            hh += "{} collected {} from pot\n".format(player_id, self.pot/len(self.winners))
+        hh += "*** SUMMARY ***\n"
+        hh += "Total pot {} | Rake 0\n".format(self.pot)
+        if len(self.community_cards_by_street) > 0:
+            hh += "Board {}".format(sum(self.community_cards_by_street, Cards('')).get_poker_stars_str())
+        # for seat, player_id in enumerate(self.player_ids):
+        #     hh += "Seat {}: {}"
+        return hh
 
 class Action(namedtuple('Action', ['player_id', 'action_type', 'amount', 'marginal_amount'], defaults=[None, None])):
     __slots__ = ()
@@ -236,6 +254,7 @@ class Suit:
         self.suit_string = suit_string
 
 if __name__ == '__main__':
+    # reading hands:
     # h1 = 'STATE:102:ffr225cff/cr825f:KcJd|4dTc|8dTh|3h8s|8cQc|5h6h/As5cJs:-50|-100|0|0|-225|375:Budd|MrWhite|MrOrange|Hattori|MrBlue|Pluribus'
     # h2 = 'STATE:82:fffr225fr1225c/r1850c/r4662c/r10000c:3h9s|KsAh|7c5c|5d4h|2hKd|Ad8d/7d2sAs/Qh/8h:-50|-10000|0|0|0|10050:MrBlue|Pluribus|Budd|MrWhite|MrOrange|Hattori'
     # for hx in [h1,h2,h3]:
@@ -243,10 +262,16 @@ if __name__ == '__main__':
     #     h.parse()
     #     print(h.get_poker_stars_str())
     #     print(h)
-    session = 78
-    suffix = ''
-    directory = './../../Downloads/5H1AI_logs'
-    hands = read_hands_from_file('{}/sample_game_{}{}.log'.format(directory, session, suffix), session)
-    # print(hands[0].get_poker_stars_str())
-    print(hands.get_poker_stars_str())
+
+    # reading a log file:
+    # session = 78
+    # suffix = ''
+    # directory = './../../Downloads/5H1AI_logs'
+    # hands = read_hands_from_file('{}/sample_game_{}{}.log'.format(directory, session, suffix), session)
+    # print(hands.get_poker_stars_str())
+
+    # reading the whole directory:
+    sessions = read_directory('./../../Downloads/5H1AI_logs')
+    sessions.save('out')
+
 

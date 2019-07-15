@@ -1,0 +1,4167 @@
+PokerStars Hand #44051: Hold'em No Limit (50/100) - 2019/07/11 12:14:11 ET
+Table 'Pluribus Session 44-51' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [7c Ad]
+Dealt to MrOrange [2d 9d]
+Dealt to Pluribus [Js Kc]
+Dealt to ORen [Jh Qh]
+Dealt to Hattori [Ac 2c]
+Dealt to MrBlue [3h 5c]
+Pluribus: folds
+ORen: raises 100 to 200
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: calls 100
+*** FLOP *** [7d 6h Ts]
+MrOrange: checks
+ORen: bets 300
+MrOrange: raises 625 to 925
+ORen: raises 1625 to 2550
+MrOrange: folds
+Uncalled bet (1625) returned to ORen
+ORen collected 2300.0 from pot
+*** SUMMARY ***
+Total pot 2300 | Rake 0
+Board [7d 6h Ts]
+
+PokerStars Hand #44052: Hold'em No Limit (50/100) - 2019/07/11 12:14:12 ET
+Table 'Pluribus Session 44-52' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: ORen (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [6c 8s]
+Dealt to Pluribus [9d 9h]
+Dealt to ORen [Jd 7c]
+Dealt to Hattori [Jc Qc]
+Dealt to MrBlue [6s 3h]
+Dealt to Bill [Ac Kd]
+ORen: folds
+Hattori: raises 100 to 200
+MrBlue: folds
+Bill: raises 525 to 725
+MrOrange: folds
+Pluribus: folds
+Hattori: calls 525
+*** FLOP *** [Qd Kc 2d]
+Hattori: checks
+Bill: bets 1050
+Hattori: calls 1050
+*** TURN *** [Qd Kc 2d] [Qs]
+Hattori: bets 2000
+Bill: calls 2000
+*** RIVER *** [Qd Kc 2d] [Qs] [Ts]
+Hattori: bets 6225
+Bill: folds
+Uncalled bet (6225) returned to Hattori
+Hattori collected 7700.0 from pot
+*** SUMMARY ***
+Total pot 7700 | Rake 0
+Board [Qd Kc 2d Qs Ts]
+
+PokerStars Hand #44053: Hold'em No Limit (50/100) - 2019/07/11 12:14:13 ET
+Table 'Pluribus Session 44-53' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: ORen (10000 in chips)
+Seat 3: Hattori (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Pluribus: posts small blind 50
+ORen: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [Kc 3h]
+Dealt to ORen [Ks 5c]
+Dealt to Hattori [Ad 4s]
+Dealt to MrBlue [Kd Ts]
+Dealt to Bill [8d 6c]
+Dealt to MrOrange [2h Ac]
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: raises 125 to 225
+Pluribus: folds
+ORen: calls 125
+*** FLOP *** [Js 9h 6d]
+ORen: checks
+MrOrange: checks
+*** TURN *** [Js 9h 6d] [Th]
+ORen: checks
+MrOrange: checks
+*** RIVER *** [Js 9h 6d] [Th] [Qd]
+ORen: checks
+MrOrange: bets 320
+ORen: calls 320
+*** SHOWDOWN ***
+ORen: shows [Ks 5c]
+ORen collected 1140.0 from pot
+*** SUMMARY ***
+Total pot 1140 | Rake 0
+Board [Js 9h 6d Th Qd]
+
+PokerStars Hand #44054: Hold'em No Limit (50/100) - 2019/07/11 12:14:14 ET
+Table 'Pluribus Session 44-54' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [Qc 9h]
+Dealt to Hattori [6c 2d]
+Dealt to MrBlue [Ad 2c]
+Dealt to Bill [5h 3d]
+Dealt to MrOrange [9s 4s]
+Dealt to Pluribus [6h Kc]
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: raises 200 to 300
+Hattori: folds
+Uncalled bet (200) returned to ORen
+ORen collected 200.0 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0
+
+
+PokerStars Hand #44055: Hold'em No Limit (50/100) - 2019/07/11 12:14:15 ET
+Table 'Pluribus Session 44-55' 6-max (Play Money) Seat #6 is the button
+Seat 1: Hattori (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: ORen (10000 in chips)
+Hattori: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hattori [Kh Jd]
+Dealt to MrBlue [2s 8h]
+Dealt to Bill [7h Ac]
+Dealt to MrOrange [Qs 4d]
+Dealt to Pluribus [5d Ks]
+Dealt to ORen [9h Kc]
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: raises 100 to 200
+Hattori: calls 150
+MrBlue: folds
+*** FLOP *** [7c 6s 8d]
+Hattori: checks
+ORen: checks
+*** TURN *** [7c 6s 8d] [Jh]
+Hattori: bets 500
+ORen: calls 500
+*** RIVER *** [7c 6s 8d] [Jh] [3s]
+Hattori: bets 1500
+ORen: folds
+Uncalled bet (1500) returned to Hattori
+Hattori collected 1500.0 from pot
+*** SUMMARY ***
+Total pot 1500 | Rake 0
+Board [7c 6s 8d Jh 3s]
+
+PokerStars Hand #44056: Hold'em No Limit (50/100) - 2019/07/11 12:14:16 ET
+Table 'Pluribus Session 44-56' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: ORen (10000 in chips)
+Seat 6: Hattori (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [9d Qc]
+Dealt to Bill [3c 4s]
+Dealt to MrOrange [2c 3s]
+Dealt to Pluribus [Qh 7d]
+Dealt to ORen [8d 6h]
+Dealt to Hattori [3d 2s]
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Hattori: folds
+MrBlue: raises 200 to 300
+Bill: folds
+Uncalled bet (200) returned to MrBlue
+MrBlue collected 200.0 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0
+
+
+PokerStars Hand #44057: Hold'em No Limit (50/100) - 2019/07/11 12:14:17 ET
+Table 'Pluribus Session 44-57' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [Qs 2s]
+Dealt to MrOrange [4s Jh]
+Dealt to Pluribus [9c 3s]
+Dealt to ORen [Ad 2h]
+Dealt to Hattori [5d 4c]
+Dealt to MrBlue [Ac 6c]
+Pluribus: folds
+ORen: folds
+Hattori: folds
+MrBlue: raises 125 to 225
+Bill: folds
+MrOrange: folds
+Uncalled bet (125) returned to MrBlue
+MrBlue collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44058: Hold'em No Limit (50/100) - 2019/07/11 12:14:18 ET
+Table 'Pluribus Session 44-58' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: ORen (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [3s Jh]
+Dealt to Pluribus [Kh Js]
+Dealt to ORen [Kc 8d]
+Dealt to Hattori [Jd Kd]
+Dealt to MrBlue [7s Qd]
+Dealt to Bill [8c 4d]
+ORen: folds
+Hattori: raises 100 to 200
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: calls 100
+*** FLOP *** [2c 7h 6d]
+Pluribus: checks
+Hattori: checks
+*** TURN *** [2c 7h 6d] [8h]
+Pluribus: bets 225
+Hattori: folds
+Uncalled bet (225) returned to Pluribus
+Pluribus collected 450.0 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [2c 7h 6d 8h]
+
+PokerStars Hand #44059: Hold'em No Limit (50/100) - 2019/07/11 12:14:19 ET
+Table 'Pluribus Session 44-59' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: ORen (10000 in chips)
+Seat 3: Hattori (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Pluribus: posts small blind 50
+ORen: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [7s 2s]
+Dealt to ORen [Qh Ah]
+Dealt to Hattori [4c 7c]
+Dealt to MrBlue [Qd 4d]
+Dealt to Bill [Js 5d]
+Dealt to MrOrange [6c 9h]
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+Uncalled bet (50) returned to ORen
+ORen collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #44060: Hold'em No Limit (50/100) - 2019/07/11 12:14:20 ET
+Table 'Pluribus Session 44-60' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [5s 3h]
+Dealt to Hattori [Jd 4s]
+Dealt to MrBlue [Qc 2h]
+Dealt to Bill [7h Qd]
+Dealt to MrOrange [5h 4c]
+Dealt to Pluribus [Ad 5d]
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: raises 150 to 250
+ORen: folds
+Hattori: folds
+Uncalled bet (150) returned to Pluribus
+Pluribus collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44061: Hold'em No Limit (50/100) - 2019/07/11 12:14:21 ET
+Table 'Pluribus Session 44-61' 6-max (Play Money) Seat #6 is the button
+Seat 1: Hattori (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: ORen (10000 in chips)
+Hattori: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hattori [Jc 2c]
+Dealt to MrBlue [4c 6h]
+Dealt to Bill [Th 7h]
+Dealt to MrOrange [5d 4s]
+Dealt to Pluribus [Ah Qs]
+Dealt to ORen [5c 2s]
+Bill: folds
+MrOrange: folds
+Pluribus: raises 100 to 200
+ORen: folds
+Hattori: folds
+MrBlue: calls 100
+*** FLOP *** [Js 9s 8c]
+MrBlue: checks
+Pluribus: bets 225
+MrBlue: folds
+Uncalled bet (225) returned to Pluribus
+Pluribus collected 450.0 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [Js 9s 8c]
+
+PokerStars Hand #44062: Hold'em No Limit (50/100) - 2019/07/11 12:14:22 ET
+Table 'Pluribus Session 44-62' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: ORen (10000 in chips)
+Seat 6: Hattori (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [Jh 8h]
+Dealt to Bill [Ts 3h]
+Dealt to MrOrange [Th 2c]
+Dealt to Pluribus [8c 8d]
+Dealt to ORen [Qh Jc]
+Dealt to Hattori [9s Qd]
+MrOrange: folds
+Pluribus: raises 125 to 225
+ORen: folds
+Hattori: folds
+MrBlue: calls 175
+Bill: folds
+*** FLOP *** [9c 9d As]
+MrBlue: checks
+Pluribus: checks
+*** TURN *** [9c 9d As] [Kd]
+MrBlue: checks
+Pluribus: checks
+*** RIVER *** [9c 9d As] [Kd] [6c]
+MrBlue: checks
+Pluribus: checks
+*** SHOWDOWN ***
+Pluribus: shows [8c 8d]
+Pluribus collected 550.0 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 0
+Board [9c 9d As Kd 6c]
+
+PokerStars Hand #44063: Hold'em No Limit (50/100) - 2019/07/11 12:14:23 ET
+Table 'Pluribus Session 44-63' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [6s 3s]
+Dealt to MrOrange [3c Kh]
+Dealt to Pluribus [6h 9h]
+Dealt to ORen [5c 6d]
+Dealt to Hattori [9c 2h]
+Dealt to MrBlue [Ah 7d]
+Pluribus: folds
+ORen: folds
+Hattori: folds
+MrBlue: raises 125 to 225
+Bill: folds
+MrOrange: calls 125
+*** FLOP *** [4c Ks 8d]
+MrOrange: checks
+MrBlue: checks
+*** TURN *** [4c Ks 8d] [7s]
+MrOrange: bets 444
+MrBlue: folds
+Uncalled bet (444) returned to MrOrange
+MrOrange collected 500.0 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0
+Board [4c Ks 8d 7s]
+
+PokerStars Hand #44064: Hold'em No Limit (50/100) - 2019/07/11 12:14:24 ET
+Table 'Pluribus Session 44-64' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: ORen (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [Ac 3d]
+Dealt to Pluribus [Qd 5d]
+Dealt to ORen [4c 2s]
+Dealt to Hattori [Ah Qc]
+Dealt to MrBlue [7h 4s]
+Dealt to Bill [Th 6d]
+ORen: folds
+Hattori: raises 100 to 200
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: calls 100
+*** FLOP *** [8s Tc Kh]
+Pluribus: checks
+Hattori: bets 400
+Pluribus: folds
+Uncalled bet (400) returned to Hattori
+Hattori collected 450.0 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [8s Tc Kh]
+
+PokerStars Hand #44065: Hold'em No Limit (50/100) - 2019/07/11 12:14:25 ET
+Table 'Pluribus Session 44-65' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: ORen (10000 in chips)
+Seat 3: Hattori (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Pluribus: posts small blind 50
+ORen: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [2s 4h]
+Dealt to ORen [5h 2h]
+Dealt to Hattori [Ts Ks]
+Dealt to MrBlue [5d Qh]
+Dealt to Bill [9c 7h]
+Dealt to MrOrange [Qd Th]
+Hattori: raises 100 to 200
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Uncalled bet (100) returned to Hattori
+Hattori collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44066: Hold'em No Limit (50/100) - 2019/07/11 12:14:26 ET
+Table 'Pluribus Session 44-66' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [As 2h]
+Dealt to Hattori [5d 3h]
+Dealt to MrBlue [8d 6h]
+Dealt to Bill [Ks 5h]
+Dealt to MrOrange [8s Qc]
+Dealt to Pluribus [7d 8h]
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: raises 200 to 300
+Hattori: folds
+Uncalled bet (200) returned to ORen
+ORen collected 200.0 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0
+
+
+PokerStars Hand #44067: Hold'em No Limit (50/100) - 2019/07/11 12:14:27 ET
+Table 'Pluribus Session 44-67' 6-max (Play Money) Seat #6 is the button
+Seat 1: Hattori (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: ORen (10000 in chips)
+Hattori: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hattori [3s 7c]
+Dealt to MrBlue [9h 5s]
+Dealt to Bill [Kc 2h]
+Dealt to MrOrange [3h Td]
+Dealt to Pluribus [8s 8d]
+Dealt to ORen [4c 7s]
+Bill: folds
+MrOrange: folds
+Pluribus: raises 100 to 200
+ORen: folds
+Hattori: folds
+MrBlue: folds
+Uncalled bet (100) returned to Pluribus
+Pluribus collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44068: Hold'em No Limit (50/100) - 2019/07/11 12:14:28 ET
+Table 'Pluribus Session 44-68' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: ORen (10000 in chips)
+Seat 6: Hattori (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [As 3c]
+Dealt to Bill [Ks 5d]
+Dealt to MrOrange [Jc 9s]
+Dealt to Pluribus [6d 2c]
+Dealt to ORen [4d Ts]
+Dealt to Hattori [9c Jh]
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Hattori: raises 125 to 225
+MrBlue: folds
+Bill: folds
+Uncalled bet (125) returned to Hattori
+Hattori collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44069: Hold'em No Limit (50/100) - 2019/07/11 12:14:29 ET
+Table 'Pluribus Session 44-69' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [2s Ks]
+Dealt to MrOrange [Kd 7c]
+Dealt to Pluribus [9c Td]
+Dealt to ORen [5h 6h]
+Dealt to Hattori [Ad Tc]
+Dealt to MrBlue [4d Qc]
+Pluribus: folds
+ORen: raises 100 to 200
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: calls 100
+*** FLOP *** [4s 7h 7s]
+MrOrange: checks
+ORen: bets 125
+MrOrange: raises 375 to 500
+ORen: calls 375
+*** TURN *** [4s 7h 7s] [Jd]
+MrOrange: bets 600
+ORen: raises 1300 to 1900
+MrOrange: calls 1300
+*** RIVER *** [4s 7h 7s] [Jd] [8h]
+MrOrange: checks
+ORen: bets 7400
+MrOrange: calls 7400
+*** SHOWDOWN ***
+ORen: shows [5h 6h]
+ORen collected 20050.0 from pot
+*** SUMMARY ***
+Total pot 20050 | Rake 0
+Board [4s 7h 7s Jd 8h]
+
+PokerStars Hand #44070: Hold'em No Limit (50/100) - 2019/07/11 12:14:30 ET
+Table 'Pluribus Session 44-70' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: ORen (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [3s 5s]
+Dealt to Pluribus [Ts 6h]
+Dealt to ORen [Js 2d]
+Dealt to Hattori [Th Qh]
+Dealt to MrBlue [8h 4c]
+Dealt to Bill [7c Jd]
+ORen: folds
+Hattori: raises 100 to 200
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+Uncalled bet (100) returned to Hattori
+Hattori collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44071: Hold'em No Limit (50/100) - 2019/07/11 12:14:31 ET
+Table 'Pluribus Session 44-71' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: ORen (10000 in chips)
+Seat 3: Hattori (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Pluribus: posts small blind 50
+ORen: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [4h Ks]
+Dealt to ORen [Qs 2s]
+Dealt to Hattori [7d Tc]
+Dealt to MrBlue [7h 5c]
+Dealt to Bill [6d 4c]
+Dealt to MrOrange [8s 3s]
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: calls 50
+ORen: calls 0
+*** FLOP *** [Qc 2h Jc]
+Pluribus: checks
+ORen: bets 150
+Pluribus: folds
+Uncalled bet (150) returned to ORen
+ORen collected 200.0 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0
+Board [Qc 2h Jc]
+
+PokerStars Hand #44072: Hold'em No Limit (50/100) - 2019/07/11 12:14:32 ET
+Table 'Pluribus Session 44-72' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [8d Ah]
+Dealt to Hattori [Td Jh]
+Dealt to MrBlue [5h Qc]
+Dealt to Bill [5d 2c]
+Dealt to MrOrange [Jd Jc]
+Dealt to Pluribus [Tc Js]
+MrBlue: folds
+Bill: folds
+MrOrange: raises 100 to 200
+Pluribus: folds
+ORen: folds
+Hattori: calls 100
+*** FLOP *** [Kc Ts 2s]
+Hattori: checks
+MrOrange: checks
+*** TURN *** [Kc Ts 2s] [7s]
+Hattori: checks
+MrOrange: checks
+*** RIVER *** [Kc Ts 2s] [7s] [Qs]
+Hattori: checks
+MrOrange: checks
+*** SHOWDOWN ***
+MrOrange: shows [Jd Jc]
+MrOrange collected 450.0 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [Kc Ts 2s 7s Qs]
+
+PokerStars Hand #44073: Hold'em No Limit (50/100) - 2019/07/11 12:14:33 ET
+Table 'Pluribus Session 44-73' 6-max (Play Money) Seat #6 is the button
+Seat 1: Hattori (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: ORen (10000 in chips)
+Hattori: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hattori [2d Tc]
+Dealt to MrBlue [5s Ts]
+Dealt to Bill [2s 9h]
+Dealt to MrOrange [4c 4d]
+Dealt to Pluribus [7s Td]
+Dealt to ORen [Kh Ah]
+Bill: folds
+MrOrange: raises 100 to 200
+Pluribus: folds
+ORen: raises 412 to 612
+Hattori: folds
+MrBlue: folds
+MrOrange: calls 412
+*** FLOP *** [3d 8s Qd]
+MrOrange: checks
+ORen: checks
+*** TURN *** [3d 8s Qd] [6d]
+MrOrange: checks
+ORen: checks
+*** RIVER *** [3d 8s Qd] [6d] [Jd]
+MrOrange: checks
+ORen: checks
+*** SHOWDOWN ***
+MrOrange: shows [4c 4d]
+MrOrange collected 1374.0 from pot
+*** SUMMARY ***
+Total pot 1374 | Rake 0
+Board [3d 8s Qd 6d Jd]
+
+PokerStars Hand #44074: Hold'em No Limit (50/100) - 2019/07/11 12:14:34 ET
+Table 'Pluribus Session 44-74' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: ORen (10000 in chips)
+Seat 6: Hattori (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [9s 7d]
+Dealt to Bill [5d Ad]
+Dealt to MrOrange [9c 2c]
+Dealt to Pluribus [6c Ac]
+Dealt to ORen [6h 6s]
+Dealt to Hattori [9d 3s]
+MrOrange: folds
+Pluribus: raises 125 to 225
+ORen: calls 225
+Hattori: folds
+MrBlue: folds
+Bill: calls 125
+*** FLOP *** [5h Kd Th]
+Bill: checks
+Pluribus: checks
+ORen: checks
+*** TURN *** [5h Kd Th] [Kh]
+Bill: checks
+Pluribus: checks
+ORen: checks
+*** RIVER *** [5h Kd Th] [Kh] [3c]
+Bill: checks
+Pluribus: checks
+ORen: bets 275
+Bill: folds
+Pluribus: folds
+Uncalled bet (275) returned to ORen
+ORen collected 725.0 from pot
+*** SUMMARY ***
+Total pot 725 | Rake 0
+Board [5h Kd Th Kh 3c]
+
+PokerStars Hand #44075: Hold'em No Limit (50/100) - 2019/07/11 12:14:35 ET
+Table 'Pluribus Session 44-75' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [6c Jh]
+Dealt to MrOrange [5c Jd]
+Dealt to Pluribus [Kc Js]
+Dealt to ORen [Ad 5d]
+Dealt to Hattori [3h 7c]
+Dealt to MrBlue [4s 9s]
+Pluribus: folds
+ORen: raises 100 to 200
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Uncalled bet (100) returned to ORen
+ORen collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44076: Hold'em No Limit (50/100) - 2019/07/11 12:14:36 ET
+Table 'Pluribus Session 44-76' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: ORen (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [5c 7d]
+Dealt to Pluribus [Qc 7c]
+Dealt to ORen [Js 5d]
+Dealt to Hattori [As Ac]
+Dealt to MrBlue [Qs 9s]
+Dealt to Bill [Kc Jc]
+ORen: folds
+Hattori: raises 100 to 200
+MrBlue: folds
+Bill: calls 200
+MrOrange: folds
+Pluribus: calls 100
+*** FLOP *** [2s 4d 9d]
+Pluribus: checks
+Hattori: checks
+Bill: bets 250
+Pluribus: folds
+Hattori: raises 600 to 850
+Bill: folds
+Uncalled bet (600) returned to Hattori
+Hattori collected 1150.0 from pot
+*** SUMMARY ***
+Total pot 1150 | Rake 0
+Board [2s 4d 9d]
+
+PokerStars Hand #44077: Hold'em No Limit (50/100) - 2019/07/11 12:14:37 ET
+Table 'Pluribus Session 44-77' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: ORen (10000 in chips)
+Seat 3: Hattori (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Pluribus: posts small blind 50
+ORen: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [Jc 7s]
+Dealt to ORen [9s Ah]
+Dealt to Hattori [2h 4s]
+Dealt to MrBlue [2c 8s]
+Dealt to Bill [Qs Td]
+Dealt to MrOrange [Th 3d]
+Hattori: folds
+MrBlue: folds
+Bill: raises 125 to 225
+MrOrange: folds
+Pluribus: folds
+ORen: calls 125
+*** FLOP *** [8h Ks Qh]
+ORen: checks
+Bill: checks
+*** TURN *** [8h Ks Qh] [2s]
+ORen: checks
+Bill: checks
+*** RIVER *** [8h Ks Qh] [2s] [6c]
+ORen: checks
+Bill: bets 375
+ORen: folds
+Uncalled bet (375) returned to Bill
+Bill collected 500.0 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0
+Board [8h Ks Qh 2s 6c]
+
+PokerStars Hand #44078: Hold'em No Limit (50/100) - 2019/07/11 12:14:38 ET
+Table 'Pluribus Session 44-78' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [Ts 7c]
+Dealt to Hattori [8h 2s]
+Dealt to MrBlue [2c Ks]
+Dealt to Bill [9s 3s]
+Dealt to MrOrange [9d Kc]
+Dealt to Pluribus [3h 4d]
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Uncalled bet (50) returned to Hattori
+Hattori collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #44079: Hold'em No Limit (50/100) - 2019/07/11 12:14:39 ET
+Table 'Pluribus Session 44-79' 6-max (Play Money) Seat #6 is the button
+Seat 1: Hattori (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: ORen (10000 in chips)
+Hattori: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hattori [6c 4s]
+Dealt to MrBlue [7h Qs]
+Dealt to Bill [Jh 7s]
+Dealt to MrOrange [9s Tc]
+Dealt to Pluribus [Ks 5h]
+Dealt to ORen [Jc Ts]
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: raises 100 to 200
+Hattori: folds
+MrBlue: calls 100
+*** FLOP *** [6d As Kd]
+MrBlue: checks
+ORen: bets 150
+MrBlue: folds
+Uncalled bet (150) returned to ORen
+ORen collected 450.0 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [6d As Kd]
+
+PokerStars Hand #44080: Hold'em No Limit (50/100) - 2019/07/11 12:14:40 ET
+Table 'Pluribus Session 44-80' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: ORen (10000 in chips)
+Seat 6: Hattori (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [Kc Ad]
+Dealt to Bill [3s Ac]
+Dealt to MrOrange [8c 7c]
+Dealt to Pluribus [7d 8s]
+Dealt to ORen [4s 2c]
+Dealt to Hattori [Th Qh]
+MrOrange: raises 100 to 200
+Pluribus: folds
+ORen: raises 100 to 300
+Hattori: calls 300
+MrBlue: raises 1225 to 1525
+Bill: folds
+MrOrange: folds
+ORen: folds
+Hattori: folds
+Uncalled bet (1225) returned to MrBlue
+MrBlue collected 1200.0 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0
+
+
+PokerStars Hand #44081: Hold'em No Limit (50/100) - 2019/07/11 12:14:41 ET
+Table 'Pluribus Session 44-81' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [Qc 6d]
+Dealt to MrOrange [Td 3d]
+Dealt to Pluribus [5c 2h]
+Dealt to ORen [Ts Qd]
+Dealt to Hattori [3s Jh]
+Dealt to MrBlue [As 8s]
+Pluribus: folds
+ORen: folds
+Hattori: folds
+MrBlue: raises 125 to 225
+Bill: folds
+MrOrange: calls 125
+*** FLOP *** [6h 4s 8h]
+MrOrange: checks
+MrBlue: checks
+*** TURN *** [6h 4s 8h] [5h]
+MrOrange: bets 150
+MrBlue: calls 150
+*** RIVER *** [6h 4s 8h] [5h] [Tc]
+MrOrange: bets 200
+MrBlue: calls 200
+*** SHOWDOWN ***
+MrOrange: shows [Td 3d]
+MrOrange collected 1200.0 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0
+Board [6h 4s 8h 5h Tc]
+
+PokerStars Hand #44082: Hold'em No Limit (50/100) - 2019/07/11 12:14:42 ET
+Table 'Pluribus Session 44-82' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: ORen (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [3d Kd]
+Dealt to Pluribus [Js 4h]
+Dealt to ORen [Qs Kc]
+Dealt to Hattori [Jc 9c]
+Dealt to MrBlue [9h 4s]
+Dealt to Bill [Qh Ah]
+ORen: raises 100 to 200
+Hattori: folds
+MrBlue: folds
+Bill: raises 525 to 725
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Uncalled bet (525) returned to Bill
+Bill collected 550.0 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 0
+
+
+PokerStars Hand #44083: Hold'em No Limit (50/100) - 2019/07/11 12:14:43 ET
+Table 'Pluribus Session 44-83' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: ORen (10000 in chips)
+Seat 3: Hattori (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Pluribus: posts small blind 50
+ORen: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [2c 9h]
+Dealt to ORen [3h 8h]
+Dealt to Hattori [Js 9s]
+Dealt to MrBlue [Qd 6d]
+Dealt to Bill [2d Ks]
+Dealt to MrOrange [Ts Ac]
+Hattori: raises 100 to 200
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Uncalled bet (100) returned to Hattori
+Hattori collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44084: Hold'em No Limit (50/100) - 2019/07/11 12:14:44 ET
+Table 'Pluribus Session 44-84' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [8h Ks]
+Dealt to Hattori [9h 7c]
+Dealt to MrBlue [Jh 5s]
+Dealt to Bill [3s 7s]
+Dealt to MrOrange [6s 3d]
+Dealt to Pluribus [2c Kd]
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Uncalled bet (50) returned to Hattori
+Hattori collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #44085: Hold'em No Limit (50/100) - 2019/07/11 12:14:45 ET
+Table 'Pluribus Session 44-85' 6-max (Play Money) Seat #6 is the button
+Seat 1: Hattori (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: ORen (10000 in chips)
+Hattori: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hattori [Ah 7s]
+Dealt to MrBlue [8d Jd]
+Dealt to Bill [Qc 6c]
+Dealt to MrOrange [Qd 6s]
+Dealt to Pluribus [4c 5s]
+Dealt to ORen [Jc 3d]
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Hattori: raises 150 to 250
+MrBlue: calls 150
+*** FLOP *** [Kd 6h 7d]
+Hattori: checks
+MrBlue: checks
+*** TURN *** [Kd 6h 7d] [9c]
+Hattori: checks
+MrBlue: bets 375
+Hattori: calls 375
+*** RIVER *** [Kd 6h 7d] [9c] [3h]
+Hattori: checks
+MrBlue: bets 945
+Hattori: calls 945
+*** SHOWDOWN ***
+Hattori: shows [Ah 7s]
+Hattori collected 3140.0 from pot
+*** SUMMARY ***
+Total pot 3140 | Rake 0
+Board [Kd 6h 7d 9c 3h]
+
+PokerStars Hand #44086: Hold'em No Limit (50/100) - 2019/07/11 12:14:46 ET
+Table 'Pluribus Session 44-86' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: ORen (10000 in chips)
+Seat 6: Hattori (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [9d 2d]
+Dealt to Bill [2s 2c]
+Dealt to MrOrange [Ac 6h]
+Dealt to Pluribus [Js 7c]
+Dealt to ORen [Tc 9s]
+Dealt to Hattori [Jh Kh]
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Hattori: raises 125 to 225
+MrBlue: folds
+Bill: calls 125
+*** FLOP *** [6c 3h 9c]
+Bill: checks
+Hattori: checks
+*** TURN *** [6c 3h 9c] [Jd]
+Bill: checks
+Hattori: bets 200
+Bill: calls 200
+*** RIVER *** [6c 3h 9c] [Jd] [8d]
+Bill: checks
+Hattori: bets 900
+Bill: folds
+Uncalled bet (900) returned to Hattori
+Hattori collected 900.0 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0
+Board [6c 3h 9c Jd 8d]
+
+PokerStars Hand #44087: Hold'em No Limit (50/100) - 2019/07/11 12:14:47 ET
+Table 'Pluribus Session 44-87' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [4h Jd]
+Dealt to MrOrange [6d 8h]
+Dealt to Pluribus [Ah Js]
+Dealt to ORen [8d 9c]
+Dealt to Hattori [5c Qh]
+Dealt to MrBlue [6h 2c]
+Pluribus: raises 100 to 200
+ORen: folds
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Uncalled bet (100) returned to Pluribus
+Pluribus collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44088: Hold'em No Limit (50/100) - 2019/07/11 12:14:48 ET
+Table 'Pluribus Session 44-88' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: ORen (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [2c 3s]
+Dealt to Pluribus [2d As]
+Dealt to ORen [5d 9h]
+Dealt to Hattori [9c Ad]
+Dealt to MrBlue [6s Qs]
+Dealt to Bill [8h Ts]
+ORen: folds
+Hattori: folds
+MrBlue: raises 125 to 225
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+Uncalled bet (125) returned to MrBlue
+MrBlue collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44089: Hold'em No Limit (50/100) - 2019/07/11 12:14:49 ET
+Table 'Pluribus Session 44-89' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: ORen (10000 in chips)
+Seat 3: Hattori (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Pluribus: posts small blind 50
+ORen: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [Ah 9h]
+Dealt to ORen [7s Js]
+Dealt to Hattori [7h Th]
+Dealt to MrBlue [As 4c]
+Dealt to Bill [4h 3c]
+Dealt to MrOrange [Jh 6s]
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: raises 300 to 400
+ORen: calls 300
+*** FLOP *** [Jd 2h 9d]
+Pluribus: checks
+ORen: bets 650
+Pluribus: calls 650
+*** TURN *** [Jd 2h 9d] [7d]
+Pluribus: checks
+ORen: bets 1500
+Pluribus: folds
+Uncalled bet (1500) returned to ORen
+ORen collected 2100.0 from pot
+*** SUMMARY ***
+Total pot 2100 | Rake 0
+Board [Jd 2h 9d 7d]
+
+PokerStars Hand #44090: Hold'em No Limit (50/100) - 2019/07/11 12:14:50 ET
+Table 'Pluribus Session 44-90' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [6d Ah]
+Dealt to Hattori [9c 5s]
+Dealt to MrBlue [5d As]
+Dealt to Bill [Jd Ad]
+Dealt to MrOrange [Qs 7h]
+Dealt to Pluribus [4d Jc]
+MrBlue: folds
+Bill: raises 125 to 225
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Hattori: folds
+Uncalled bet (125) returned to Bill
+Bill collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44091: Hold'em No Limit (50/100) - 2019/07/11 12:14:51 ET
+Table 'Pluribus Session 44-91' 6-max (Play Money) Seat #6 is the button
+Seat 1: Hattori (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: ORen (10000 in chips)
+Hattori: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hattori [9h 3c]
+Dealt to MrBlue [5h Ad]
+Dealt to Bill [Qh 7h]
+Dealt to MrOrange [4c 6s]
+Dealt to Pluribus [3s Tc]
+Dealt to ORen [9c Ts]
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: raises 100 to 200
+Hattori: folds
+MrBlue: calls 100
+*** FLOP *** [Th 4h 6h]
+MrBlue: checks
+ORen: bets 150
+MrBlue: calls 150
+*** TURN *** [Th 4h 6h] [Qs]
+MrBlue: checks
+ORen: checks
+*** RIVER *** [Th 4h 6h] [Qs] [7c]
+MrBlue: checks
+ORen: bets 300
+MrBlue: folds
+Uncalled bet (300) returned to ORen
+ORen collected 750.0 from pot
+*** SUMMARY ***
+Total pot 750 | Rake 0
+Board [Th 4h 6h Qs 7c]
+
+PokerStars Hand #44092: Hold'em No Limit (50/100) - 2019/07/11 12:14:52 ET
+Table 'Pluribus Session 44-92' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: ORen (10000 in chips)
+Seat 6: Hattori (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [8h 9s]
+Dealt to Bill [Jc 5h]
+Dealt to MrOrange [7c 9c]
+Dealt to Pluribus [Qc 6d]
+Dealt to ORen [7s 4h]
+Dealt to Hattori [4d 6s]
+MrOrange: raises 100 to 200
+Pluribus: folds
+ORen: folds
+Hattori: folds
+MrBlue: folds
+Bill: folds
+Uncalled bet (100) returned to MrOrange
+MrOrange collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44093: Hold'em No Limit (50/100) - 2019/07/11 12:14:53 ET
+Table 'Pluribus Session 44-93' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [Td 8d]
+Dealt to MrOrange [3d 6h]
+Dealt to Pluribus [Th 9d]
+Dealt to ORen [Jc 7c]
+Dealt to Hattori [Kc Qc]
+Dealt to MrBlue [5h 8c]
+Pluribus: folds
+ORen: folds
+Hattori: raises 100 to 200
+MrBlue: folds
+Bill: raises 650 to 850
+MrOrange: folds
+Hattori: calls 650
+*** FLOP *** [9s Qs 6d]
+Bill: bets 1200
+Hattori: calls 1200
+*** TURN *** [9s Qs 6d] [Qh]
+Bill: bets 1400
+Hattori: calls 1400
+*** RIVER *** [9s Qs 6d] [Qh] [Ks]
+Bill: checks
+Hattori: bets 6550
+Bill: folds
+Uncalled bet (6550) returned to Hattori
+Hattori collected 7000.0 from pot
+*** SUMMARY ***
+Total pot 7000 | Rake 0
+Board [9s Qs 6d Qh Ks]
+
+PokerStars Hand #44094: Hold'em No Limit (50/100) - 2019/07/11 12:14:54 ET
+Table 'Pluribus Session 44-94' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: ORen (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [8c 6d]
+Dealt to Pluribus [3h 9d]
+Dealt to ORen [8d 8s]
+Dealt to Hattori [Jd 6s]
+Dealt to MrBlue [Ac Kc]
+Dealt to Bill [As 2c]
+ORen: raises 100 to 200
+Hattori: folds
+MrBlue: raises 500 to 700
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: calls 500
+*** FLOP *** [4h 2h 5c]
+ORen: checks
+MrBlue: bets 850
+ORen: calls 850
+*** TURN *** [4h 2h 5c] [Kh]
+ORen: checks
+MrBlue: bets 2500
+ORen: folds
+Uncalled bet (2500) returned to MrBlue
+MrBlue collected 3250.0 from pot
+*** SUMMARY ***
+Total pot 3250 | Rake 0
+Board [4h 2h 5c Kh]
+
+PokerStars Hand #44095: Hold'em No Limit (50/100) - 2019/07/11 12:14:55 ET
+Table 'Pluribus Session 44-95' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: ORen (10000 in chips)
+Seat 3: Hattori (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Pluribus: posts small blind 50
+ORen: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [Kc 7h]
+Dealt to ORen [7c 9c]
+Dealt to Hattori [Kd 8c]
+Dealt to MrBlue [5c 4d]
+Dealt to Bill [Jd 2d]
+Dealt to MrOrange [Ts 3c]
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: calls 50
+ORen: raises 300 to 400
+Pluribus: folds
+Uncalled bet (300) returned to ORen
+ORen collected 200.0 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0
+
+
+PokerStars Hand #44096: Hold'em No Limit (50/100) - 2019/07/11 12:14:56 ET
+Table 'Pluribus Session 44-96' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [5d Jc]
+Dealt to Hattori [5c Qs]
+Dealt to MrBlue [Ts 3s]
+Dealt to Bill [5h Qc]
+Dealt to MrOrange [Js 8d]
+Dealt to Pluribus [Kd Th]
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: raises 150 to 250
+ORen: folds
+Hattori: folds
+Uncalled bet (150) returned to Pluribus
+Pluribus collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44097: Hold'em No Limit (50/100) - 2019/07/11 12:14:57 ET
+Table 'Pluribus Session 44-97' 6-max (Play Money) Seat #6 is the button
+Seat 1: Hattori (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: ORen (10000 in chips)
+Hattori: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hattori [Jd 9h]
+Dealt to MrBlue [Ac Tc]
+Dealt to Bill [Js Td]
+Dealt to MrOrange [7d 4c]
+Dealt to Pluribus [Kc 7s]
+Dealt to ORen [As 5d]
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: raises 100 to 200
+Hattori: folds
+MrBlue: calls 100
+*** FLOP *** [Jh 4d 6s]
+MrBlue: checks
+ORen: checks
+*** TURN *** [Jh 4d 6s] [Qs]
+MrBlue: checks
+ORen: checks
+*** RIVER *** [Jh 4d 6s] [Qs] [7c]
+MrBlue: checks
+ORen: checks
+*** SHOWDOWN ***
+MrBlue: shows [Ac Tc]
+MrBlue collected 450.0 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [Jh 4d 6s Qs 7c]
+
+PokerStars Hand #44098: Hold'em No Limit (50/100) - 2019/07/11 12:14:58 ET
+Table 'Pluribus Session 44-98' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: ORen (10000 in chips)
+Seat 6: Hattori (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [Js Th]
+Dealt to Bill [Jh 6d]
+Dealt to MrOrange [8d 2s]
+Dealt to Pluribus [Qs 4s]
+Dealt to ORen [Ah 9c]
+Dealt to Hattori [Qh 5h]
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Hattori: raises 125 to 225
+MrBlue: calls 175
+Bill: folds
+*** FLOP *** [6c 3c Kc]
+MrBlue: checks
+Hattori: checks
+*** TURN *** [6c 3c Kc] [7c]
+MrBlue: bets 212
+Hattori: folds
+Uncalled bet (212) returned to MrBlue
+MrBlue collected 550.0 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 0
+Board [6c 3c Kc 7c]
+
+PokerStars Hand #44099: Hold'em No Limit (50/100) - 2019/07/11 12:14:59 ET
+Table 'Pluribus Session 44-99' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [Ks 4h]
+Dealt to MrOrange [As 8s]
+Dealt to Pluribus [Tc Ac]
+Dealt to ORen [8d 3h]
+Dealt to Hattori [9s 9c]
+Dealt to MrBlue [7d 4s]
+Pluribus: raises 100 to 200
+ORen: folds
+Hattori: calls 200
+MrBlue: folds
+Bill: folds
+MrOrange: calls 100
+*** FLOP *** [Qh Kc Qs]
+MrOrange: checks
+Pluribus: checks
+Hattori: checks
+*** TURN *** [Qh Kc Qs] [Jh]
+MrOrange: checks
+Pluribus: checks
+Hattori: checks
+*** RIVER *** [Qh Kc Qs] [Jh] [5c]
+MrOrange: checks
+Pluribus: bets 650
+Hattori: folds
+MrOrange: folds
+Uncalled bet (650) returned to Pluribus
+Pluribus collected 650.0 from pot
+*** SUMMARY ***
+Total pot 650 | Rake 0
+Board [Qh Kc Qs Jh 5c]
+
+PokerStars Hand #44100: Hold'em No Limit (50/100) - 2019/07/11 12:15:00 ET
+Table 'Pluribus Session 44-100' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: ORen (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [Ts Jc]
+Dealt to Pluribus [As 5d]
+Dealt to ORen [3s Ac]
+Dealt to Hattori [6h Qd]
+Dealt to MrBlue [Jd 5s]
+Dealt to Bill [7s 4d]
+ORen: folds
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: raises 300 to 400
+Pluribus: raises 800 to 1200
+MrOrange: folds
+Uncalled bet (800) returned to Pluribus
+Pluribus collected 800.0 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0
+
+
+PokerStars Hand #44101: Hold'em No Limit (50/100) - 2019/07/11 12:15:01 ET
+Table 'Pluribus Session 44-101' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: ORen (10000 in chips)
+Seat 3: Hattori (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Pluribus: posts small blind 50
+ORen: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [3d 3c]
+Dealt to ORen [Kc Ks]
+Dealt to Hattori [2s 6d]
+Dealt to MrBlue [7d 4c]
+Dealt to Bill [Ts 5h]
+Dealt to MrOrange [Kd 6s]
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: calls 50
+ORen: raises 300 to 400
+Pluribus: calls 300
+*** FLOP *** [6h Ah Kh]
+Pluribus: checks
+ORen: bets 250
+Pluribus: folds
+Uncalled bet (250) returned to ORen
+ORen collected 800.0 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0
+Board [6h Ah Kh]
+
+PokerStars Hand #44102: Hold'em No Limit (50/100) - 2019/07/11 12:15:02 ET
+Table 'Pluribus Session 44-102' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [7d 2d]
+Dealt to Hattori [9s Qs]
+Dealt to MrBlue [2s 9h]
+Dealt to Bill [8d Kh]
+Dealt to MrOrange [9c As]
+Dealt to Pluribus [Td 7c]
+MrBlue: folds
+Bill: folds
+MrOrange: raises 100 to 200
+Pluribus: folds
+ORen: folds
+Hattori: calls 100
+*** FLOP *** [5s 4s 5c]
+Hattori: checks
+MrOrange: checks
+*** TURN *** [5s 4s 5c] [3d]
+Hattori: bets 800
+MrOrange: folds
+Uncalled bet (800) returned to Hattori
+Hattori collected 450.0 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [5s 4s 5c 3d]
+
+PokerStars Hand #44103: Hold'em No Limit (50/100) - 2019/07/11 12:15:03 ET
+Table 'Pluribus Session 44-103' 6-max (Play Money) Seat #6 is the button
+Seat 1: Hattori (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: ORen (10000 in chips)
+Hattori: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hattori [3d 2c]
+Dealt to MrBlue [6d Jh]
+Dealt to Bill [7d Jd]
+Dealt to MrOrange [5c 9c]
+Dealt to Pluribus [Td 5s]
+Dealt to ORen [4s 3s]
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Hattori: folds
+Uncalled bet (50) returned to MrBlue
+MrBlue collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #44104: Hold'em No Limit (50/100) - 2019/07/11 12:15:04 ET
+Table 'Pluribus Session 44-104' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: ORen (10000 in chips)
+Seat 6: Hattori (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [6s 6c]
+Dealt to Bill [5s Ac]
+Dealt to MrOrange [Qc 3s]
+Dealt to Pluribus [2s Jc]
+Dealt to ORen [9h Kc]
+Dealt to Hattori [8h Kd]
+MrOrange: folds
+Pluribus: folds
+ORen: raises 100 to 200
+Hattori: folds
+MrBlue: calls 150
+Bill: raises 850 to 1050
+ORen: folds
+MrBlue: calls 850
+*** FLOP *** [4h Ah Tc]
+MrBlue: checks
+Bill: checks
+*** TURN *** [4h Ah Tc] [4s]
+MrBlue: checks
+Bill: checks
+*** RIVER *** [4h Ah Tc] [4s] [Jh]
+MrBlue: checks
+Bill: bets 750
+MrBlue: folds
+Uncalled bet (750) returned to Bill
+Bill collected 2300.0 from pot
+*** SUMMARY ***
+Total pot 2300 | Rake 0
+Board [4h Ah Tc 4s Jh]
+
+PokerStars Hand #44105: Hold'em No Limit (50/100) - 2019/07/11 12:15:05 ET
+Table 'Pluribus Session 44-105' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [Tc Kh]
+Dealt to MrOrange [3s 9c]
+Dealt to Pluribus [As 9h]
+Dealt to ORen [4c 2c]
+Dealt to Hattori [6c Ad]
+Dealt to MrBlue [4s 8h]
+Pluribus: folds
+ORen: folds
+Hattori: folds
+MrBlue: folds
+Bill: raises 200 to 300
+MrOrange: folds
+Uncalled bet (200) returned to Bill
+Bill collected 200.0 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0
+
+
+PokerStars Hand #44106: Hold'em No Limit (50/100) - 2019/07/11 12:15:06 ET
+Table 'Pluribus Session 44-106' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: ORen (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [3h Kd]
+Dealt to Pluribus [9h 2h]
+Dealt to ORen [Qh 5d]
+Dealt to Hattori [Js 8s]
+Dealt to MrBlue [8h Qs]
+Dealt to Bill [Th 2d]
+ORen: folds
+Hattori: raises 100 to 200
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: calls 100
+*** FLOP *** [9c 7d 5c]
+Pluribus: checks
+Hattori: checks
+*** TURN *** [9c 7d 5c] [Ac]
+Pluribus: checks
+Hattori: bets 180
+Pluribus: calls 180
+*** RIVER *** [9c 7d 5c] [Ac] [4c]
+Pluribus: checks
+Hattori: bets 800
+Pluribus: folds
+Uncalled bet (800) returned to Hattori
+Hattori collected 810.0 from pot
+*** SUMMARY ***
+Total pot 810 | Rake 0
+Board [9c 7d 5c Ac 4c]
+
+PokerStars Hand #44107: Hold'em No Limit (50/100) - 2019/07/11 12:15:07 ET
+Table 'Pluribus Session 44-107' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: ORen (10000 in chips)
+Seat 3: Hattori (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Pluribus: posts small blind 50
+ORen: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [6s 8d]
+Dealt to ORen [5h 2s]
+Dealt to Hattori [4d Jc]
+Dealt to MrBlue [4c 2c]
+Dealt to Bill [7s 8s]
+Dealt to MrOrange [4h 7d]
+Hattori: folds
+MrBlue: folds
+Bill: raises 125 to 225
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Uncalled bet (125) returned to Bill
+Bill collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44108: Hold'em No Limit (50/100) - 2019/07/11 12:15:08 ET
+Table 'Pluribus Session 44-108' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [4c Qd]
+Dealt to Hattori [7s Tc]
+Dealt to MrBlue [7d 4d]
+Dealt to Bill [7h 8c]
+Dealt to MrOrange [3h 6s]
+Dealt to Pluribus [4s 3c]
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Uncalled bet (50) returned to Hattori
+Hattori collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #44109: Hold'em No Limit (50/100) - 2019/07/11 12:15:09 ET
+Table 'Pluribus Session 44-109' 6-max (Play Money) Seat #6 is the button
+Seat 1: Hattori (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: ORen (10000 in chips)
+Hattori: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hattori [Js 8c]
+Dealt to MrBlue [4h 4d]
+Dealt to Bill [8s Ts]
+Dealt to MrOrange [2d Qc]
+Dealt to Pluribus [Ad 9c]
+Dealt to ORen [3d 5h]
+Bill: folds
+MrOrange: folds
+Pluribus: raises 100 to 200
+ORen: folds
+Hattori: folds
+MrBlue: calls 100
+*** FLOP *** [Jc Kd 3h]
+MrBlue: checks
+Pluribus: bets 225
+MrBlue: folds
+Uncalled bet (225) returned to Pluribus
+Pluribus collected 450.0 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [Jc Kd 3h]
+
+PokerStars Hand #44110: Hold'em No Limit (50/100) - 2019/07/11 12:15:10 ET
+Table 'Pluribus Session 44-110' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: ORen (10000 in chips)
+Seat 6: Hattori (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [5h 4c]
+Dealt to Bill [4h 9c]
+Dealt to MrOrange [Jc 2h]
+Dealt to Pluribus [Qd Ad]
+Dealt to ORen [3s 8c]
+Dealt to Hattori [6h 6c]
+MrOrange: folds
+Pluribus: raises 125 to 225
+ORen: folds
+Hattori: calls 225
+MrBlue: folds
+Bill: folds
+*** FLOP *** [Js 3h 3c]
+Pluribus: checks
+Hattori: bets 150
+Pluribus: calls 150
+*** TURN *** [Js 3h 3c] [6s]
+Pluribus: checks
+Hattori: checks
+*** RIVER *** [Js 3h 3c] [6s] [Qc]
+Pluribus: bets 450
+Hattori: raises 2050 to 2500
+Pluribus: calls 2050
+*** SHOWDOWN ***
+Hattori: shows [6h 6c]
+Hattori collected 5900.0 from pot
+*** SUMMARY ***
+Total pot 5900 | Rake 0
+Board [Js 3h 3c 6s Qc]
+
+PokerStars Hand #44111: Hold'em No Limit (50/100) - 2019/07/11 12:15:11 ET
+Table 'Pluribus Session 44-111' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [5h 3c]
+Dealt to MrOrange [Kc 6c]
+Dealt to Pluribus [Ah Js]
+Dealt to ORen [8h Ac]
+Dealt to Hattori [8c 2d]
+Dealt to MrBlue [6s 8d]
+Pluribus: raises 100 to 200
+ORen: folds
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: calls 100
+*** FLOP *** [2s As 7c]
+MrOrange: checks
+Pluribus: bets 450
+MrOrange: folds
+Uncalled bet (450) returned to Pluribus
+Pluribus collected 450.0 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [2s As 7c]
+
+PokerStars Hand #44112: Hold'em No Limit (50/100) - 2019/07/11 12:15:12 ET
+Table 'Pluribus Session 44-112' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: ORen (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [5c 7s]
+Dealt to Pluribus [7d Jd]
+Dealt to ORen [6c 8s]
+Dealt to Hattori [Ts 3c]
+Dealt to MrBlue [Td 2c]
+Dealt to Bill [Th 5s]
+ORen: folds
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Uncalled bet (50) returned to Pluribus
+Pluribus collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #44113: Hold'em No Limit (50/100) - 2019/07/11 12:15:13 ET
+Table 'Pluribus Session 44-113' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: ORen (10000 in chips)
+Seat 3: Hattori (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Pluribus: posts small blind 50
+ORen: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [Js 4s]
+Dealt to ORen [Ad Td]
+Dealt to Hattori [Jd Ah]
+Dealt to MrBlue [Jh Qh]
+Dealt to Bill [8h 6s]
+Dealt to MrOrange [Jc 3c]
+Hattori: raises 100 to 200
+MrBlue: folds
+Bill: folds
+MrOrange: raises 100 to 300
+Pluribus: folds
+ORen: raises 900 to 1200
+Hattori: folds
+MrOrange: folds
+Uncalled bet (900) returned to ORen
+ORen collected 850.0 from pot
+*** SUMMARY ***
+Total pot 850 | Rake 0
+
+
+PokerStars Hand #44114: Hold'em No Limit (50/100) - 2019/07/11 12:15:14 ET
+Table 'Pluribus Session 44-114' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [6d 8s]
+Dealt to Hattori [Th 2h]
+Dealt to MrBlue [Jc 5d]
+Dealt to Bill [5h 8c]
+Dealt to MrOrange [Jh Qh]
+Dealt to Pluribus [Ac Kd]
+MrBlue: folds
+Bill: folds
+MrOrange: raises 100 to 200
+Pluribus: raises 412 to 612
+ORen: folds
+Hattori: folds
+MrOrange: calls 412
+*** FLOP *** [2s 6c 9d]
+MrOrange: checks
+Pluribus: bets 687
+MrOrange: folds
+Uncalled bet (687) returned to Pluribus
+Pluribus collected 1374.0 from pot
+*** SUMMARY ***
+Total pot 1374 | Rake 0
+Board [2s 6c 9d]
+
+PokerStars Hand #44115: Hold'em No Limit (50/100) - 2019/07/11 12:15:15 ET
+Table 'Pluribus Session 44-115' 6-max (Play Money) Seat #6 is the button
+Seat 1: Hattori (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: ORen (10000 in chips)
+Hattori: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hattori [9s 2h]
+Dealt to MrBlue [3h 7c]
+Dealt to Bill [8c Ac]
+Dealt to MrOrange [5h 2c]
+Dealt to Pluribus [4h 7s]
+Dealt to ORen [8s Qh]
+Bill: raises 125 to 225
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Hattori: folds
+MrBlue: folds
+Uncalled bet (125) returned to Bill
+Bill collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44116: Hold'em No Limit (50/100) - 2019/07/11 12:15:16 ET
+Table 'Pluribus Session 44-116' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: ORen (10000 in chips)
+Seat 6: Hattori (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [Kc 2c]
+Dealt to Bill [9h 4s]
+Dealt to MrOrange [Ts 6c]
+Dealt to Pluribus [7d 4d]
+Dealt to ORen [6h 8h]
+Dealt to Hattori [Th 9c]
+MrOrange: folds
+Pluribus: folds
+ORen: raises 100 to 200
+Hattori: folds
+MrBlue: folds
+Bill: folds
+Uncalled bet (100) returned to ORen
+ORen collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44117: Hold'em No Limit (50/100) - 2019/07/11 12:15:17 ET
+Table 'Pluribus Session 44-117' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [Kd 2d]
+Dealt to MrOrange [Jd 6s]
+Dealt to Pluribus [3c 6d]
+Dealt to ORen [As 4s]
+Dealt to Hattori [Td Ad]
+Dealt to MrBlue [5c Js]
+Pluribus: folds
+ORen: raises 100 to 200
+Hattori: calls 200
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+*** FLOP *** [Qs 8h 5h]
+ORen: bets 400
+Hattori: folds
+Uncalled bet (400) returned to ORen
+ORen collected 550.0 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 0
+Board [Qs 8h 5h]
+
+PokerStars Hand #44118: Hold'em No Limit (50/100) - 2019/07/11 12:15:18 ET
+Table 'Pluribus Session 44-118' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: ORen (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [3s 8h]
+Dealt to Pluribus [2s 2d]
+Dealt to ORen [Ts 4d]
+Dealt to Hattori [Qh Qs]
+Dealt to MrBlue [Kh Jd]
+Dealt to Bill [7c Ad]
+ORen: folds
+Hattori: raises 100 to 200
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: calls 100
+*** FLOP *** [Jc 9s 2h]
+Pluribus: checks
+Hattori: bets 450
+Pluribus: raises 1350 to 1800
+Hattori: calls 1350
+*** TURN *** [Jc 9s 2h] [4h]
+Pluribus: bets 3037
+Hattori: calls 3037
+*** RIVER *** [Jc 9s 2h] [4h] [Ah]
+Pluribus: checks
+Hattori: checks
+*** SHOWDOWN ***
+Pluribus: shows [2s 2d]
+Pluribus collected 10124.0 from pot
+*** SUMMARY ***
+Total pot 10124 | Rake 0
+Board [Jc 9s 2h 4h Ah]
+
+PokerStars Hand #44119: Hold'em No Limit (50/100) - 2019/07/11 12:15:19 ET
+Table 'Pluribus Session 44-119' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: ORen (10000 in chips)
+Seat 3: Hattori (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Pluribus: posts small blind 50
+ORen: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [6d 9h]
+Dealt to ORen [Ks Jd]
+Dealt to Hattori [7s 3s]
+Dealt to MrBlue [Th 8h]
+Dealt to Bill [Kd Tc]
+Dealt to MrOrange [8c Jh]
+Hattori: folds
+MrBlue: raises 125 to 225
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: calls 125
+*** FLOP *** [Qh Ah Ts]
+ORen: checks
+MrBlue: checks
+*** TURN *** [Qh Ah Ts] [5c]
+ORen: bets 250
+MrBlue: calls 250
+*** RIVER *** [Qh Ah Ts] [5c] [Qc]
+ORen: checks
+MrBlue: checks
+*** SHOWDOWN ***
+ORen: shows [Ks Jd]
+ORen collected 1000.0 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0
+Board [Qh Ah Ts 5c Qc]
+
+PokerStars Hand #44120: Hold'em No Limit (50/100) - 2019/07/11 12:15:20 ET
+Table 'Pluribus Session 44-120' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [Ks Ah]
+Dealt to Hattori [2d 4s]
+Dealt to MrBlue [8d 2h]
+Dealt to Bill [Js 9c]
+Dealt to MrOrange [7c Kd]
+Dealt to Pluribus [7h 9s]
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: calls 50
+Hattori: calls 0
+*** FLOP *** [Ts Qd 6s]
+ORen: bets 200
+Hattori: folds
+Uncalled bet (200) returned to ORen
+ORen collected 200.0 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0
+Board [Ts Qd 6s]
+
+PokerStars Hand #44121: Hold'em No Limit (50/100) - 2019/07/11 12:15:21 ET
+Table 'Pluribus Session 44-121' 6-max (Play Money) Seat #6 is the button
+Seat 1: Hattori (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: ORen (10000 in chips)
+Hattori: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hattori [2h 4s]
+Dealt to MrBlue [Tc Jh]
+Dealt to Bill [9h Ah]
+Dealt to MrOrange [Jc Qh]
+Dealt to Pluribus [9d 2d]
+Dealt to ORen [Kd 2s]
+Bill: raises 125 to 225
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Hattori: folds
+MrBlue: calls 125
+*** FLOP *** [Ac Qd Ad]
+MrBlue: checks
+Bill: bets 150
+MrBlue: folds
+Uncalled bet (150) returned to Bill
+Bill collected 500.0 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0
+Board [Ac Qd Ad]
+
+PokerStars Hand #44122: Hold'em No Limit (50/100) - 2019/07/11 12:15:22 ET
+Table 'Pluribus Session 44-122' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: ORen (10000 in chips)
+Seat 6: Hattori (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [5d 3d]
+Dealt to Bill [2c 7h]
+Dealt to MrOrange [Js Jd]
+Dealt to Pluribus [Ks As]
+Dealt to ORen [2h 2s]
+Dealt to Hattori [8s Kc]
+MrOrange: raises 100 to 200
+Pluribus: raises 481 to 681
+ORen: folds
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: calls 481
+*** FLOP *** [4d Ad Ah]
+MrOrange: checks
+Pluribus: bets 378
+MrOrange: calls 378
+*** TURN *** [4d Ad Ah] [5c]
+MrOrange: checks
+Pluribus: bets 2268
+MrOrange: folds
+Uncalled bet (2268) returned to Pluribus
+Pluribus collected 2268.0 from pot
+*** SUMMARY ***
+Total pot 2268 | Rake 0
+Board [4d Ad Ah 5c]
+
+PokerStars Hand #44123: Hold'em No Limit (50/100) - 2019/07/11 12:15:23 ET
+Table 'Pluribus Session 44-123' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [Ad 9s]
+Dealt to MrOrange [6s 5s]
+Dealt to Pluribus [7h Ks]
+Dealt to ORen [4c 9d]
+Dealt to Hattori [3c 6d]
+Dealt to MrBlue [4s 8h]
+Pluribus: folds
+ORen: folds
+Hattori: folds
+MrBlue: folds
+Bill: raises 200 to 300
+MrOrange: calls 200
+*** FLOP *** [4h Ac As]
+Bill: bets 200
+MrOrange: calls 200
+*** TURN *** [4h Ac As] [8c]
+Bill: bets 750
+MrOrange: calls 750
+*** RIVER *** [4h Ac As] [8c] [3h]
+Bill: bets 2500
+MrOrange: folds
+Uncalled bet (2500) returned to Bill
+Bill collected 2500.0 from pot
+*** SUMMARY ***
+Total pot 2500 | Rake 0
+Board [4h Ac As 8c 3h]
+
+PokerStars Hand #44124: Hold'em No Limit (50/100) - 2019/07/11 12:15:24 ET
+Table 'Pluribus Session 44-124' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: ORen (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [6h 5d]
+Dealt to Pluribus [7s Tc]
+Dealt to ORen [9d Jd]
+Dealt to Hattori [Ts Ah]
+Dealt to MrBlue [Qh Js]
+Dealt to Bill [3d 8h]
+ORen: raises 100 to 200
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+Uncalled bet (100) returned to ORen
+ORen collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44125: Hold'em No Limit (50/100) - 2019/07/11 12:15:25 ET
+Table 'Pluribus Session 44-125' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: ORen (10000 in chips)
+Seat 3: Hattori (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Pluribus: posts small blind 50
+ORen: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [3c 7s]
+Dealt to ORen [Ad 3h]
+Dealt to Hattori [Jc Td]
+Dealt to MrBlue [9c 4s]
+Dealt to Bill [Tc 2c]
+Dealt to MrOrange [Qc 2s]
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+Uncalled bet (50) returned to ORen
+ORen collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #44126: Hold'em No Limit (50/100) - 2019/07/11 12:15:26 ET
+Table 'Pluribus Session 44-126' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [Jh 3c]
+Dealt to Hattori [Kc Qh]
+Dealt to MrBlue [6h 2s]
+Dealt to Bill [7d 8c]
+Dealt to MrOrange [Tc 8h]
+Dealt to Pluribus [Ts 3d]
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Uncalled bet (50) returned to Hattori
+Hattori collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #44127: Hold'em No Limit (50/100) - 2019/07/11 12:15:27 ET
+Table 'Pluribus Session 44-127' 6-max (Play Money) Seat #6 is the button
+Seat 1: Hattori (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: ORen (10000 in chips)
+Hattori: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hattori [3s 3h]
+Dealt to MrBlue [4d Qd]
+Dealt to Bill [Tc Kh]
+Dealt to MrOrange [Js Ac]
+Dealt to Pluribus [2d 3c]
+Dealt to ORen [6s 7d]
+Bill: folds
+MrOrange: raises 100 to 200
+Pluribus: folds
+ORen: folds
+Hattori: calls 150
+MrBlue: calls 100
+*** FLOP *** [6h 5c 9d]
+Hattori: checks
+MrBlue: checks
+MrOrange: checks
+*** TURN *** [6h 5c 9d] [7h]
+Hattori: checks
+MrBlue: checks
+MrOrange: checks
+*** RIVER *** [6h 5c 9d] [7h] [8d]
+Hattori: checks
+MrBlue: bets 600
+MrOrange: folds
+Hattori: folds
+Uncalled bet (600) returned to MrBlue
+MrBlue collected 600.0 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0
+Board [6h 5c 9d 7h 8d]
+
+PokerStars Hand #44128: Hold'em No Limit (50/100) - 2019/07/11 12:15:28 ET
+Table 'Pluribus Session 44-128' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: ORen (10000 in chips)
+Seat 6: Hattori (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [5d 9d]
+Dealt to Bill [Ts Qd]
+Dealt to MrOrange [2d 2s]
+Dealt to Pluribus [5h Kd]
+Dealt to ORen [8c 6c]
+Dealt to Hattori [Jd Js]
+MrOrange: raises 100 to 200
+Pluribus: folds
+ORen: folds
+Hattori: calls 200
+MrBlue: folds
+Bill: calls 100
+*** FLOP *** [8h 6s 3c]
+Bill: checks
+MrOrange: checks
+Hattori: bets 175
+Bill: folds
+MrOrange: folds
+Uncalled bet (175) returned to Hattori
+Hattori collected 650.0 from pot
+*** SUMMARY ***
+Total pot 650 | Rake 0
+Board [8h 6s 3c]
+
+PokerStars Hand #44129: Hold'em No Limit (50/100) - 2019/07/11 12:15:29 ET
+Table 'Pluribus Session 44-129' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [Qh 2s]
+Dealt to MrOrange [9h 2d]
+Dealt to Pluribus [7s 4c]
+Dealt to ORen [6h 3h]
+Dealt to Hattori [8d 4s]
+Dealt to MrBlue [9c Kd]
+Pluribus: folds
+ORen: folds
+Hattori: folds
+MrBlue: raises 125 to 225
+Bill: folds
+MrOrange: folds
+Uncalled bet (125) returned to MrBlue
+MrBlue collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44130: Hold'em No Limit (50/100) - 2019/07/11 12:15:30 ET
+Table 'Pluribus Session 44-130' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: ORen (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [Kc 2h]
+Dealt to Pluribus [6h 3h]
+Dealt to ORen [9h Td]
+Dealt to Hattori [6c 3d]
+Dealt to MrBlue [7s Kh]
+Dealt to Bill [8s 9d]
+ORen: folds
+Hattori: folds
+MrBlue: folds
+Bill: raises 150 to 250
+MrOrange: folds
+Pluribus: calls 150
+*** FLOP *** [8h Th 9c]
+Pluribus: checks
+Bill: bets 412
+Pluribus: calls 412
+*** TURN *** [8h Th 9c] [Js]
+Pluribus: checks
+Bill: checks
+*** RIVER *** [8h Th 9c] [Js] [2c]
+Pluribus: bets 687
+Bill: calls 687
+*** SHOWDOWN ***
+Bill: shows [8s 9d]
+Bill collected 2748.0 from pot
+*** SUMMARY ***
+Total pot 2748 | Rake 0
+Board [8h Th 9c Js 2c]
+
+PokerStars Hand #44131: Hold'em No Limit (50/100) - 2019/07/11 12:15:31 ET
+Table 'Pluribus Session 44-131' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: ORen (10000 in chips)
+Seat 3: Hattori (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Pluribus: posts small blind 50
+ORen: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [Jd Th]
+Dealt to ORen [Jc 7h]
+Dealt to Hattori [5h 4d]
+Dealt to MrBlue [8s Qd]
+Dealt to Bill [9c Qc]
+Dealt to MrOrange [6s 3s]
+Hattori: folds
+MrBlue: folds
+Bill: raises 125 to 225
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Uncalled bet (125) returned to Bill
+Bill collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44132: Hold'em No Limit (50/100) - 2019/07/11 12:15:32 ET
+Table 'Pluribus Session 44-132' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [6c Qh]
+Dealt to Hattori [5s 3h]
+Dealt to MrBlue [2s 5d]
+Dealt to Bill [8s 5h]
+Dealt to MrOrange [9c 4c]
+Dealt to Pluribus [Js Th]
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: raises 125 to 225
+ORen: folds
+Hattori: folds
+Uncalled bet (125) returned to Pluribus
+Pluribus collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44133: Hold'em No Limit (50/100) - 2019/07/11 12:15:33 ET
+Table 'Pluribus Session 44-133' 6-max (Play Money) Seat #6 is the button
+Seat 1: Hattori (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: ORen (10000 in chips)
+Hattori: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hattori [Qc Tc]
+Dealt to MrBlue [4c Kd]
+Dealt to Bill [Ah Qd]
+Dealt to MrOrange [2h 7h]
+Dealt to Pluribus [7s 3d]
+Dealt to ORen [Ac 3h]
+Bill: raises 125 to 225
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Hattori: calls 175
+MrBlue: folds
+*** FLOP *** [Kh 3c Kc]
+Hattori: checks
+Bill: bets 150
+Hattori: calls 150
+*** TURN *** [Kh 3c Kc] [5s]
+Hattori: checks
+Bill: checks
+*** RIVER *** [Kh 3c Kc] [5s] [4h]
+Hattori: checks
+Bill: checks
+*** SHOWDOWN ***
+Bill: shows [Ah Qd]
+Bill collected 850.0 from pot
+*** SUMMARY ***
+Total pot 850 | Rake 0
+Board [Kh 3c Kc 5s 4h]
+
+PokerStars Hand #44134: Hold'em No Limit (50/100) - 2019/07/11 12:15:34 ET
+Table 'Pluribus Session 44-134' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: ORen (10000 in chips)
+Seat 6: Hattori (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [7s 4h]
+Dealt to Bill [Qs 2d]
+Dealt to MrOrange [5h Js]
+Dealt to Pluribus [9d 8c]
+Dealt to ORen [6h 7d]
+Dealt to Hattori [Ks 9h]
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Hattori: raises 125 to 225
+MrBlue: folds
+Bill: folds
+Uncalled bet (125) returned to Hattori
+Hattori collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44135: Hold'em No Limit (50/100) - 2019/07/11 12:15:35 ET
+Table 'Pluribus Session 44-135' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [8c 6h]
+Dealt to MrOrange [Ks 3h]
+Dealt to Pluribus [5h 8d]
+Dealt to ORen [Qs 9h]
+Dealt to Hattori [7s Jd]
+Dealt to MrBlue [Kd 8h]
+Pluribus: folds
+ORen: folds
+Hattori: folds
+MrBlue: folds
+Bill: raises 200 to 300
+MrOrange: calls 200
+*** FLOP *** [Ad 7h Kh]
+Bill: bets 300
+MrOrange: calls 300
+*** TURN *** [Ad 7h Kh] [9d]
+Bill: bets 1800
+MrOrange: folds
+Uncalled bet (1800) returned to Bill
+Bill collected 1200.0 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0
+Board [Ad 7h Kh 9d]
+
+PokerStars Hand #44136: Hold'em No Limit (50/100) - 2019/07/11 12:15:36 ET
+Table 'Pluribus Session 44-136' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: ORen (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [Jd Qd]
+Dealt to Pluribus [8s 2s]
+Dealt to ORen [7c 2d]
+Dealt to Hattori [4c 7h]
+Dealt to MrBlue [3s 9d]
+Dealt to Bill [Jh Qh]
+ORen: folds
+Hattori: folds
+MrBlue: folds
+Bill: raises 150 to 250
+MrOrange: calls 200
+Pluribus: folds
+*** FLOP *** [Ks 2c 9c]
+MrOrange: checks
+Bill: checks
+*** TURN *** [Ks 2c 9c] [Qs]
+MrOrange: checks
+Bill: bets 450
+MrOrange: calls 450
+*** RIVER *** [Ks 2c 9c] [Qs] [As]
+MrOrange: checks
+Bill: checks
+*** SHOWDOWN ***
+MrOrange: shows [Jd Qd]
+Bill: shows [Jh Qh]
+MrOrange collected 750.0 from pot
+Bill collected 750.0 from pot
+*** SUMMARY ***
+Total pot 1500 | Rake 0
+Board [Ks 2c 9c Qs As]
+
+PokerStars Hand #44137: Hold'em No Limit (50/100) - 2019/07/11 12:15:37 ET
+Table 'Pluribus Session 44-137' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: ORen (10000 in chips)
+Seat 3: Hattori (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Pluribus: posts small blind 50
+ORen: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [7h 5s]
+Dealt to ORen [5h 9d]
+Dealt to Hattori [8d Kc]
+Dealt to MrBlue [Jh 3h]
+Dealt to Bill [Qs 6d]
+Dealt to MrOrange [Ac 2c]
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: raises 100 to 200
+Pluribus: folds
+ORen: folds
+Uncalled bet (100) returned to MrOrange
+MrOrange collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44138: Hold'em No Limit (50/100) - 2019/07/11 12:15:38 ET
+Table 'Pluribus Session 44-138' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [5h 2h]
+Dealt to Hattori [Js Th]
+Dealt to MrBlue [7h Jc]
+Dealt to Bill [Qc 6d]
+Dealt to MrOrange [6c 3d]
+Dealt to Pluribus [4d 2s]
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Uncalled bet (50) returned to Hattori
+Hattori collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #44139: Hold'em No Limit (50/100) - 2019/07/11 12:15:39 ET
+Table 'Pluribus Session 44-139' 6-max (Play Money) Seat #6 is the button
+Seat 1: Hattori (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: ORen (10000 in chips)
+Hattori: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hattori [3c 2d]
+Dealt to MrBlue [4c Ks]
+Dealt to Bill [9d 6d]
+Dealt to MrOrange [Ac Qd]
+Dealt to Pluribus [4s 6h]
+Dealt to ORen [2h Kd]
+Bill: folds
+MrOrange: raises 100 to 200
+Pluribus: folds
+ORen: folds
+Hattori: folds
+MrBlue: folds
+Uncalled bet (100) returned to MrOrange
+MrOrange collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44140: Hold'em No Limit (50/100) - 2019/07/11 12:15:40 ET
+Table 'Pluribus Session 44-140' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: ORen (10000 in chips)
+Seat 6: Hattori (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [Jd 6d]
+Dealt to Bill [9s 5s]
+Dealt to MrOrange [6c 5d]
+Dealt to Pluribus [4h As]
+Dealt to ORen [6s Jc]
+Dealt to Hattori [4s 7c]
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Hattori: folds
+MrBlue: calls 50
+Bill: calls 0
+*** FLOP *** [Td Ac Tc]
+MrBlue: checks
+Bill: checks
+*** TURN *** [Td Ac Tc] [8s]
+MrBlue: bets 150
+Bill: folds
+Uncalled bet (150) returned to MrBlue
+MrBlue collected 200.0 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0
+Board [Td Ac Tc 8s]
+
+PokerStars Hand #44141: Hold'em No Limit (50/100) - 2019/07/11 12:15:41 ET
+Table 'Pluribus Session 44-141' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [2d Qh]
+Dealt to MrOrange [8d 8c]
+Dealt to Pluribus [7s Kd]
+Dealt to ORen [5d 5s]
+Dealt to Hattori [9h Kc]
+Dealt to MrBlue [9d 3c]
+Pluribus: folds
+ORen: raises 100 to 200
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: calls 100
+*** FLOP *** [Jd Jh Qc]
+MrOrange: checks
+ORen: checks
+*** TURN *** [Jd Jh Qc] [8h]
+MrOrange: bets 400
+ORen: folds
+Uncalled bet (400) returned to MrOrange
+MrOrange collected 450.0 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [Jd Jh Qc 8h]
+
+PokerStars Hand #44142: Hold'em No Limit (50/100) - 2019/07/11 12:15:42 ET
+Table 'Pluribus Session 44-142' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: ORen (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [2c 4s]
+Dealt to Pluribus [8c 6s]
+Dealt to ORen [7c Th]
+Dealt to Hattori [Jd 7d]
+Dealt to MrBlue [Jh 9c]
+Dealt to Bill [2h Kd]
+ORen: folds
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Uncalled bet (50) returned to Pluribus
+Pluribus collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #44143: Hold'em No Limit (50/100) - 2019/07/11 12:15:43 ET
+Table 'Pluribus Session 44-143' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: ORen (10000 in chips)
+Seat 3: Hattori (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Pluribus: posts small blind 50
+ORen: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [3s Kc]
+Dealt to ORen [9s 2h]
+Dealt to Hattori [Jh 8h]
+Dealt to MrBlue [8c 8d]
+Dealt to Bill [7h 4s]
+Dealt to MrOrange [9d Js]
+Hattori: folds
+MrBlue: raises 125 to 225
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Uncalled bet (125) returned to MrBlue
+MrBlue collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44144: Hold'em No Limit (50/100) - 2019/07/11 12:15:44 ET
+Table 'Pluribus Session 44-144' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [Ts 3c]
+Dealt to Hattori [9d 2h]
+Dealt to MrBlue [Kc 8c]
+Dealt to Bill [9c Jd]
+Dealt to MrOrange [4c 6d]
+Dealt to Pluribus [9s 5s]
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Uncalled bet (50) returned to Hattori
+Hattori collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #44145: Hold'em No Limit (50/100) - 2019/07/11 12:15:45 ET
+Table 'Pluribus Session 44-145' 6-max (Play Money) Seat #6 is the button
+Seat 1: Hattori (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: ORen (10000 in chips)
+Hattori: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hattori [9c 4s]
+Dealt to MrBlue [6s 6h]
+Dealt to Bill [2c Kh]
+Dealt to MrOrange [Js 2s]
+Dealt to Pluribus [5s 7d]
+Dealt to ORen [8c 4c]
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Hattori: folds
+Uncalled bet (50) returned to MrBlue
+MrBlue collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #44146: Hold'em No Limit (50/100) - 2019/07/11 12:15:46 ET
+Table 'Pluribus Session 44-146' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: ORen (10000 in chips)
+Seat 6: Hattori (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [9s 3d]
+Dealt to Bill [8h 4s]
+Dealt to MrOrange [7h Jc]
+Dealt to Pluribus [9c 5s]
+Dealt to ORen [6h 8c]
+Dealt to Hattori [Kd 5h]
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Hattori: folds
+MrBlue: raises 200 to 300
+Bill: folds
+Uncalled bet (200) returned to MrBlue
+MrBlue collected 200.0 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0
+
+
+PokerStars Hand #44147: Hold'em No Limit (50/100) - 2019/07/11 12:15:47 ET
+Table 'Pluribus Session 44-147' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [4d 7c]
+Dealt to MrOrange [Kc 2c]
+Dealt to Pluribus [3c 7s]
+Dealt to ORen [5s 2d]
+Dealt to Hattori [Td 4c]
+Dealt to MrBlue [8c Qh]
+Pluribus: folds
+ORen: folds
+Hattori: folds
+MrBlue: folds
+Bill: folds
+Uncalled bet (50) returned to MrOrange
+MrOrange collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #44148: Hold'em No Limit (50/100) - 2019/07/11 12:15:48 ET
+Table 'Pluribus Session 44-148' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: ORen (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [Ac 8s]
+Dealt to Pluribus [3c 9s]
+Dealt to ORen [Jc 8c]
+Dealt to Hattori [Ks 4d]
+Dealt to MrBlue [8h 7c]
+Dealt to Bill [9d 4s]
+ORen: folds
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: raises 300 to 400
+Pluribus: folds
+Uncalled bet (300) returned to MrOrange
+MrOrange collected 200.0 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0
+
+
+PokerStars Hand #44149: Hold'em No Limit (50/100) - 2019/07/11 12:15:49 ET
+Table 'Pluribus Session 44-149' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: ORen (10000 in chips)
+Seat 3: Hattori (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Pluribus: posts small blind 50
+ORen: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [4s 5s]
+Dealt to ORen [7h 6h]
+Dealt to Hattori [Ac 3h]
+Dealt to MrBlue [Js 8s]
+Dealt to Bill [5d 8c]
+Dealt to MrOrange [5c Qd]
+Hattori: folds
+MrBlue: raises 125 to 225
+Bill: folds
+MrOrange: folds
+Pluribus: calls 175
+ORen: calls 125
+*** FLOP *** [4h Td As]
+Pluribus: bets 675
+ORen: folds
+MrBlue: folds
+Uncalled bet (675) returned to Pluribus
+Pluribus collected 675.0 from pot
+*** SUMMARY ***
+Total pot 675 | Rake 0
+Board [4h Td As]
+
+PokerStars Hand #44150: Hold'em No Limit (50/100) - 2019/07/11 12:15:50 ET
+Table 'Pluribus Session 44-150' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [3c 9s]
+Dealt to Hattori [8s 3h]
+Dealt to MrBlue [5c 5d]
+Dealt to Bill [Kh Ts]
+Dealt to MrOrange [Th Jd]
+Dealt to Pluribus [9c Ah]
+MrBlue: raises 125 to 225
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Hattori: folds
+Uncalled bet (125) returned to MrBlue
+MrBlue collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44151: Hold'em No Limit (50/100) - 2019/07/11 12:15:51 ET
+Table 'Pluribus Session 44-151' 6-max (Play Money) Seat #6 is the button
+Seat 1: Hattori (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: ORen (10000 in chips)
+Hattori: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hattori [8h Ac]
+Dealt to MrBlue [As 6d]
+Dealt to Bill [9s 6h]
+Dealt to MrOrange [2s Ad]
+Dealt to Pluribus [Kc 4s]
+Dealt to ORen [8d 8s]
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: raises 100 to 200
+Hattori: folds
+MrBlue: calls 100
+*** FLOP *** [6c Qs 5c]
+MrBlue: checks
+ORen: checks
+*** TURN *** [6c Qs 5c] [5s]
+MrBlue: checks
+ORen: bets 225
+MrBlue: calls 225
+*** RIVER *** [6c Qs 5c] [5s] [Kd]
+MrBlue: checks
+ORen: checks
+*** SHOWDOWN ***
+ORen: shows [8d 8s]
+ORen collected 900.0 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0
+Board [6c Qs 5c 5s Kd]
+
+PokerStars Hand #44152: Hold'em No Limit (50/100) - 2019/07/11 12:15:52 ET
+Table 'Pluribus Session 44-152' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: ORen (10000 in chips)
+Seat 6: Hattori (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [Qh 6h]
+Dealt to Bill [6s 2s]
+Dealt to MrOrange [Kc 3d]
+Dealt to Pluribus [Js 7d]
+Dealt to ORen [Td Tc]
+Dealt to Hattori [7c 3h]
+MrOrange: folds
+Pluribus: folds
+ORen: raises 100 to 200
+Hattori: folds
+MrBlue: folds
+Bill: calls 100
+*** FLOP *** [9s 5h Ah]
+Bill: checks
+ORen: bets 150
+Bill: folds
+Uncalled bet (150) returned to ORen
+ORen collected 450.0 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [9s 5h Ah]
+
+PokerStars Hand #44153: Hold'em No Limit (50/100) - 2019/07/11 12:15:53 ET
+Table 'Pluribus Session 44-153' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [6d 5s]
+Dealt to MrOrange [8d 7h]
+Dealt to Pluribus [Jc 6s]
+Dealt to ORen [Td 9c]
+Dealt to Hattori [Ks Kh]
+Dealt to MrBlue [7d 2s]
+Pluribus: folds
+ORen: folds
+Hattori: raises 100 to 200
+MrBlue: folds
+Bill: folds
+MrOrange: calls 100
+*** FLOP *** [Ts 9s Ac]
+MrOrange: checks
+Hattori: checks
+*** TURN *** [Ts 9s Ac] [3d]
+MrOrange: bets 700
+Hattori: folds
+Uncalled bet (700) returned to MrOrange
+MrOrange collected 450.0 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [Ts 9s Ac 3d]
+
+PokerStars Hand #44154: Hold'em No Limit (50/100) - 2019/07/11 12:15:54 ET
+Table 'Pluribus Session 44-154' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: ORen (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [4d Kc]
+Dealt to Pluribus [2c 2h]
+Dealt to ORen [7c 3c]
+Dealt to Hattori [5s Ts]
+Dealt to MrBlue [Td As]
+Dealt to Bill [5d 3d]
+ORen: folds
+Hattori: folds
+MrBlue: raises 132 to 232
+Bill: folds
+MrOrange: folds
+Pluribus: calls 132
+*** FLOP *** [Ad 6h Js]
+Pluribus: checks
+MrBlue: bets 257
+Pluribus: folds
+Uncalled bet (257) returned to MrBlue
+MrBlue collected 514.0 from pot
+*** SUMMARY ***
+Total pot 514 | Rake 0
+Board [Ad 6h Js]
+
+PokerStars Hand #44155: Hold'em No Limit (50/100) - 2019/07/11 12:15:55 ET
+Table 'Pluribus Session 44-155' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: ORen (10000 in chips)
+Seat 3: Hattori (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Pluribus: posts small blind 50
+ORen: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [Kc 6d]
+Dealt to ORen [3h 5c]
+Dealt to Hattori [8d Jd]
+Dealt to MrBlue [9c Qh]
+Dealt to Bill [3s Ts]
+Dealt to MrOrange [Td Tc]
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: raises 100 to 200
+Pluribus: folds
+ORen: folds
+Uncalled bet (100) returned to MrOrange
+MrOrange collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44156: Hold'em No Limit (50/100) - 2019/07/11 12:15:56 ET
+Table 'Pluribus Session 44-156' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [9d 7c]
+Dealt to Hattori [7h 4c]
+Dealt to MrBlue [Th 7d]
+Dealt to Bill [5c 4d]
+Dealt to MrOrange [Qc 3s]
+Dealt to Pluribus [3c 8d]
+MrBlue: folds
+Bill: folds
+MrOrange: calls 100
+Pluribus: folds
+ORen: folds
+Hattori: calls 0
+*** FLOP *** [Ad Qs 6s]
+Hattori: checks
+MrOrange: checks
+*** TURN *** [Ad Qs 6s] [8s]
+Hattori: checks
+MrOrange: checks
+*** RIVER *** [Ad Qs 6s] [8s] [5h]
+Hattori: bets 250
+MrOrange: calls 250
+*** SHOWDOWN ***
+Hattori: shows [7h 4c]
+Hattori collected 750.0 from pot
+*** SUMMARY ***
+Total pot 750 | Rake 0
+Board [Ad Qs 6s 8s 5h]
+
+PokerStars Hand #44157: Hold'em No Limit (50/100) - 2019/07/11 12:15:57 ET
+Table 'Pluribus Session 44-157' 6-max (Play Money) Seat #6 is the button
+Seat 1: Hattori (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: ORen (10000 in chips)
+Hattori: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hattori [4d Jc]
+Dealt to MrBlue [Ad 6h]
+Dealt to Bill [8s 9s]
+Dealt to MrOrange [5h 2h]
+Dealt to Pluribus [6s 8c]
+Dealt to ORen [4h Qh]
+Bill: raises 125 to 225
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Hattori: folds
+MrBlue: calls 125
+*** FLOP *** [9h 7s As]
+MrBlue: checks
+Bill: bets 250
+MrBlue: calls 250
+*** TURN *** [9h 7s As] [6d]
+MrBlue: checks
+Bill: checks
+*** RIVER *** [9h 7s As] [6d] [Qd]
+MrBlue: bets 1500
+Bill: folds
+Uncalled bet (1500) returned to MrBlue
+MrBlue collected 1000.0 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0
+Board [9h 7s As 6d Qd]
+
+PokerStars Hand #44158: Hold'em No Limit (50/100) - 2019/07/11 12:15:58 ET
+Table 'Pluribus Session 44-158' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: ORen (10000 in chips)
+Seat 6: Hattori (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [3s 9c]
+Dealt to Bill [7s 6s]
+Dealt to MrOrange [Jd 5d]
+Dealt to Pluribus [3d 7c]
+Dealt to ORen [7h 8h]
+Dealt to Hattori [6d 9s]
+MrOrange: folds
+Pluribus: folds
+ORen: raises 100 to 200
+Hattori: folds
+MrBlue: folds
+Bill: raises 700 to 900
+ORen: calls 700
+*** FLOP *** [2h Ac Tc]
+Bill: checks
+ORen: bets 600
+Bill: folds
+Uncalled bet (600) returned to ORen
+ORen collected 1850.0 from pot
+*** SUMMARY ***
+Total pot 1850 | Rake 0
+Board [2h Ac Tc]
+
+PokerStars Hand #44159: Hold'em No Limit (50/100) - 2019/07/11 12:15:59 ET
+Table 'Pluribus Session 44-159' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [Qc Qd]
+Dealt to MrOrange [Kh Kc]
+Dealt to Pluribus [2s 5d]
+Dealt to ORen [Ah Ad]
+Dealt to Hattori [Jh Jd]
+Dealt to MrBlue [2d 4d]
+Pluribus: folds
+ORen: raises 100 to 200
+Hattori: calls 200
+MrBlue: folds
+Bill: raises 900 to 1100
+MrOrange: raises 8900 to 10000
+ORen: calls 9800
+Hattori: folds
+Bill: calls 8900
+*** FLOP *** [Tc 6s 3c]
+*** TURN *** [Tc 6s 3c] [6h]
+*** RIVER *** [Tc 6s 3c] [6h] [Jc]
+*** SHOWDOWN ***
+ORen: shows [Ah Ad]
+ORen collected 30200.0 from pot
+*** SUMMARY ***
+Total pot 30200 | Rake 0
+Board [Tc 6s 3c 6h Jc]
+
+PokerStars Hand #44160: Hold'em No Limit (50/100) - 2019/07/11 12:16:00 ET
+Table 'Pluribus Session 44-160' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: ORen (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [5d 7h]
+Dealt to Pluribus [Kd Th]
+Dealt to ORen [2h Td]
+Dealt to Hattori [5c 8c]
+Dealt to MrBlue [4s 9h]
+Dealt to Bill [3s 2c]
+ORen: folds
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Uncalled bet (50) returned to Pluribus
+Pluribus collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #44161: Hold'em No Limit (50/100) - 2019/07/11 12:16:01 ET
+Table 'Pluribus Session 44-161' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: ORen (10000 in chips)
+Seat 3: Hattori (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Pluribus: posts small blind 50
+ORen: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [2h 5c]
+Dealt to ORen [Jc Qc]
+Dealt to Hattori [2d 4s]
+Dealt to MrBlue [Qd 5s]
+Dealt to Bill [Js 3s]
+Dealt to MrOrange [2s 5h]
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+Uncalled bet (50) returned to ORen
+ORen collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #44162: Hold'em No Limit (50/100) - 2019/07/11 12:16:02 ET
+Table 'Pluribus Session 44-162' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [9d 2d]
+Dealt to Hattori [3c 7d]
+Dealt to MrBlue [2s 2h]
+Dealt to Bill [4s 6h]
+Dealt to MrOrange [7s Ks]
+Dealt to Pluribus [3s 4h]
+MrBlue: raises 125 to 225
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Hattori: folds
+Uncalled bet (125) returned to MrBlue
+MrBlue collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44163: Hold'em No Limit (50/100) - 2019/07/11 12:16:03 ET
+Table 'Pluribus Session 44-163' 6-max (Play Money) Seat #6 is the button
+Seat 1: Hattori (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: ORen (10000 in chips)
+Hattori: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hattori [8h 3c]
+Dealt to MrBlue [4d 6d]
+Dealt to Bill [4s Ac]
+Dealt to MrOrange [Qd Kc]
+Dealt to Pluribus [2s Jc]
+Dealt to ORen [Ad Ks]
+Bill: folds
+MrOrange: raises 100 to 200
+Pluribus: folds
+ORen: calls 200
+Hattori: folds
+MrBlue: calls 100
+*** FLOP *** [9s 9h 2c]
+MrBlue: checks
+MrOrange: checks
+ORen: bets 175
+MrBlue: folds
+MrOrange: folds
+Uncalled bet (175) returned to ORen
+ORen collected 650.0 from pot
+*** SUMMARY ***
+Total pot 650 | Rake 0
+Board [9s 9h 2c]
+
+PokerStars Hand #44164: Hold'em No Limit (50/100) - 2019/07/11 12:16:04 ET
+Table 'Pluribus Session 44-164' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: ORen (10000 in chips)
+Seat 6: Hattori (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [8c Jh]
+Dealt to Bill [8h 2c]
+Dealt to MrOrange [7d 5h]
+Dealt to Pluribus [4c 9d]
+Dealt to ORen [3s As]
+Dealt to Hattori [5c 6s]
+MrOrange: folds
+Pluribus: folds
+ORen: raises 100 to 200
+Hattori: folds
+MrBlue: folds
+Bill: folds
+Uncalled bet (100) returned to ORen
+ORen collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44165: Hold'em No Limit (50/100) - 2019/07/11 12:16:05 ET
+Table 'Pluribus Session 44-165' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [6d 5c]
+Dealt to MrOrange [Kh Kc]
+Dealt to Pluribus [Ah 7d]
+Dealt to ORen [6h Kd]
+Dealt to Hattori [9d 8h]
+Dealt to MrBlue [9c 7c]
+Pluribus: folds
+ORen: folds
+Hattori: folds
+MrBlue: raises 125 to 225
+Bill: folds
+MrOrange: raises 975 to 1200
+MrBlue: folds
+Uncalled bet (975) returned to MrOrange
+MrOrange collected 500.0 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0
+
+
+PokerStars Hand #44166: Hold'em No Limit (50/100) - 2019/07/11 12:16:06 ET
+Table 'Pluribus Session 44-166' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: ORen (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [Jh 8c]
+Dealt to Pluribus [7s Ah]
+Dealt to ORen [5s 2d]
+Dealt to Hattori [3d Qc]
+Dealt to MrBlue [Ad Ks]
+Dealt to Bill [3h Jd]
+ORen: folds
+Hattori: folds
+MrBlue: raises 125 to 225
+Bill: folds
+MrOrange: folds
+Pluribus: calls 125
+*** FLOP *** [Qs Td 6s]
+Pluribus: checks
+MrBlue: checks
+*** TURN *** [Qs Td 6s] [8d]
+Pluribus: checks
+MrBlue: checks
+*** RIVER *** [Qs Td 6s] [8d] [4c]
+Pluribus: checks
+MrBlue: checks
+*** SHOWDOWN ***
+MrBlue: shows [Ad Ks]
+MrBlue collected 500.0 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0
+Board [Qs Td 6s 8d 4c]
+
+PokerStars Hand #44167: Hold'em No Limit (50/100) - 2019/07/11 12:16:07 ET
+Table 'Pluribus Session 44-167' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: ORen (10000 in chips)
+Seat 3: Hattori (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Pluribus: posts small blind 50
+ORen: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [5h Ts]
+Dealt to ORen [8c Kc]
+Dealt to Hattori [7c Jh]
+Dealt to MrBlue [6c 9s]
+Dealt to Bill [2h As]
+Dealt to MrOrange [9c 4c]
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+Uncalled bet (50) returned to ORen
+ORen collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #44168: Hold'em No Limit (50/100) - 2019/07/11 12:16:08 ET
+Table 'Pluribus Session 44-168' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [Ts 7s]
+Dealt to Hattori [Ks 3h]
+Dealt to MrBlue [As Qs]
+Dealt to Bill [9c 8h]
+Dealt to MrOrange [Jh Ac]
+Dealt to Pluribus [3s 7h]
+MrBlue: raises 125 to 225
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Hattori: folds
+Uncalled bet (125) returned to MrBlue
+MrBlue collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44169: Hold'em No Limit (50/100) - 2019/07/11 12:16:09 ET
+Table 'Pluribus Session 44-169' 6-max (Play Money) Seat #6 is the button
+Seat 1: Hattori (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: ORen (10000 in chips)
+Hattori: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hattori [5c 4s]
+Dealt to MrBlue [Ts 2h]
+Dealt to Bill [4c 7c]
+Dealt to MrOrange [9d 7s]
+Dealt to Pluribus [Kc Ah]
+Dealt to ORen [Jc 8d]
+Bill: folds
+MrOrange: folds
+Pluribus: raises 125 to 225
+ORen: folds
+Hattori: folds
+MrBlue: folds
+Uncalled bet (125) returned to Pluribus
+Pluribus collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+
+
+PokerStars Hand #44170: Hold'em No Limit (50/100) - 2019/07/11 12:16:10 ET
+Table 'Pluribus Session 44-170' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: ORen (10000 in chips)
+Seat 6: Hattori (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [9c 3s]
+Dealt to Bill [8h 6d]
+Dealt to MrOrange [Th Qc]
+Dealt to Pluribus [Qh Jd]
+Dealt to ORen [8d 9d]
+Dealt to Hattori [3d 2c]
+MrOrange: folds
+Pluribus: raises 125 to 225
+ORen: raises 600 to 825
+Hattori: folds
+MrBlue: folds
+Bill: folds
+Pluribus: folds
+Uncalled bet (600) returned to ORen
+ORen collected 600.0 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0
+
+
+PokerStars Hand #44171: Hold'em No Limit (50/100) - 2019/07/11 12:16:11 ET
+Table 'Pluribus Session 44-171' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [7h 3h]
+Dealt to MrOrange [Js 7c]
+Dealt to Pluribus [5s 3d]
+Dealt to ORen [Tc 8d]
+Dealt to Hattori [2s 2c]
+Dealt to MrBlue [5h Qs]
+Pluribus: folds
+ORen: folds
+Hattori: raises 100 to 200
+MrBlue: folds
+Bill: folds
+MrOrange: calls 100
+*** FLOP *** [Jd Kc 3c]
+MrOrange: checks
+Hattori: bets 112
+MrOrange: calls 112
+*** TURN *** [Jd Kc 3c] [Qd]
+MrOrange: checks
+Hattori: bets 675
+MrOrange: folds
+Uncalled bet (675) returned to Hattori
+Hattori collected 674.0 from pot
+*** SUMMARY ***
+Total pot 674 | Rake 0
+Board [Jd Kc 3c Qd]
+
+PokerStars Hand #44172: Hold'em No Limit (50/100) - 2019/07/11 12:16:12 ET
+Table 'Pluribus Session 44-172' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: ORen (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [6d 4c]
+Dealt to Pluribus [5c 5d]
+Dealt to ORen [3c 7h]
+Dealt to Hattori [2d 3s]
+Dealt to MrBlue [Kd 8s]
+Dealt to Bill [3d 8d]
+ORen: folds
+Hattori: folds
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Uncalled bet (50) returned to Pluribus
+Pluribus collected 100.0 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+
+
+PokerStars Hand #44173: Hold'em No Limit (50/100) - 2019/07/11 12:16:13 ET
+Table 'Pluribus Session 44-173' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: ORen (10000 in chips)
+Seat 3: Hattori (10000 in chips)
+Seat 4: MrBlue (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Pluribus: posts small blind 50
+ORen: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [8s 5s]
+Dealt to ORen [9d Qs]
+Dealt to Hattori [Jc Kc]
+Dealt to MrBlue [8d As]
+Dealt to Bill [3h 4c]
+Dealt to MrOrange [5d 7d]
+Hattori: raises 100 to 200
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: calls 100
+*** FLOP *** [6d 2c 8c]
+ORen: checks
+Hattori: bets 112
+ORen: folds
+Uncalled bet (112) returned to Hattori
+Hattori collected 450.0 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [6d 2c 8c]
+
+PokerStars Hand #44174: Hold'em No Limit (50/100) - 2019/07/11 12:16:14 ET
+Table 'Pluribus Session 44-174' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [Qh 8s]
+Dealt to Hattori [7c Ac]
+Dealt to MrBlue [3c 8d]
+Dealt to Bill [8h Jd]
+Dealt to MrOrange [Js 6s]
+Dealt to Pluribus [3s 3d]
+MrBlue: folds
+Bill: folds
+MrOrange: folds
+Pluribus: raises 150 to 250
+ORen: folds
+Hattori: calls 150
+*** FLOP *** [Td 9s 4d]
+Hattori: checks
+Pluribus: bets 550
+Hattori: folds
+Uncalled bet (550) returned to Pluribus
+Pluribus collected 550.0 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 0
+Board [Td 9s 4d]
+
+PokerStars Hand #44175: Hold'em No Limit (50/100) - 2019/07/11 12:16:15 ET
+Table 'Pluribus Session 44-175' 6-max (Play Money) Seat #6 is the button
+Seat 1: Hattori (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: ORen (10000 in chips)
+Hattori: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hattori [8c Td]
+Dealt to MrBlue [9c 6s]
+Dealt to Bill [6h 7h]
+Dealt to MrOrange [Ac 4s]
+Dealt to Pluribus [Kh Qd]
+Dealt to ORen [2h 3h]
+Bill: raises 125 to 225
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Hattori: folds
+MrBlue: calls 125
+*** FLOP *** [Ah 4d 7d]
+MrBlue: checks
+Bill: bets 250
+MrBlue: folds
+Uncalled bet (250) returned to Bill
+Bill collected 500.0 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0
+Board [Ah 4d 7d]
+
+PokerStars Hand #44176: Hold'em No Limit (50/100) - 2019/07/11 12:16:16 ET
+Table 'Pluribus Session 44-176' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: ORen (10000 in chips)
+Seat 6: Hattori (10000 in chips)
+MrBlue: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [9h 4s]
+Dealt to Bill [Ac Ah]
+Dealt to MrOrange [3h 8s]
+Dealt to Pluribus [Td Ts]
+Dealt to ORen [8d 9d]
+Dealt to Hattori [5d 5s]
+MrOrange: folds
+Pluribus: raises 100 to 200
+ORen: raises 412 to 612
+Hattori: folds
+MrBlue: folds
+Bill: raises 1474 to 2086
+Pluribus: folds
+ORen: folds
+Uncalled bet (1474) returned to Bill
+Bill collected 1474.0 from pot
+*** SUMMARY ***
+Total pot 1474 | Rake 0
