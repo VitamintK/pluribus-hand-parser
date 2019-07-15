@@ -1,5 +1,5 @@
 PokerStars Hand #65000: Hold'em No Limit (50/100) - 2019/07/11 18:03:20 ET
-Table 'Pluribus Session 65-0' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -27,7 +27,7 @@ Total pot 100 | Rake 0
 
 
 PokerStars Hand #65001: Hold'em No Limit (50/100) - 2019/07/11 18:03:21 ET
-Table 'Pluribus Session 65-1' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -66,7 +66,7 @@ Total pot 900 | Rake 0
 Board [Jh Qc Qs 5c 4h]
 
 PokerStars Hand #65002: Hold'em No Limit (50/100) - 2019/07/11 18:03:22 ET
-Table 'Pluribus Session 65-2' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -106,7 +106,7 @@ Total pot 1124 | Rake 0
 Board [7h 7s 6c 3c Kc]
 
 PokerStars Hand #65003: Hold'em No Limit (50/100) - 2019/07/11 18:03:23 ET
-Table 'Pluribus Session 65-3' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -145,7 +145,7 @@ Total pot 200 | Rake 0
 Board [4c Ts Th 9h 8s]
 
 PokerStars Hand #65004: Hold'em No Limit (50/100) - 2019/07/11 18:03:24 ET
-Table 'Pluribus Session 65-4' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -187,7 +187,7 @@ Total pot 10000 | Rake 0
 Board [Ah 2c 8s Jd 9h]
 
 PokerStars Hand #65005: Hold'em No Limit (50/100) - 2019/07/11 18:03:25 ET
-Table 'Pluribus Session 65-5' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -226,7 +226,7 @@ Total pot 570 | Rake 0
 Board [5h 9c 3d Tc 9h]
 
 PokerStars Hand #65006: Hold'em No Limit (50/100) - 2019/07/11 18:03:26 ET
-Table 'Pluribus Session 65-6' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -259,7 +259,7 @@ Total pot 600 | Rake 0
 Board [7c 2d 4h]
 
 PokerStars Hand #65007: Hold'em No Limit (50/100) - 2019/07/11 18:03:27 ET
-Table 'Pluribus Session 65-7' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -291,12 +291,14 @@ Bill: calls 100
 MrPink: checks
 Bill: checks
 *** SHOWDOWN ***
+MrPink collected 200.0 from pot
+Bill collected 200.0 from pot
 *** SUMMARY ***
 Total pot 400 | Rake 0
 Board [4h 5s 7d Qd Tc]
 
 PokerStars Hand #65008: Hold'em No Limit (50/100) - 2019/07/11 18:03:28 ET
-Table 'Pluribus Session 65-8' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -331,7 +333,7 @@ Total pot 650 | Rake 0
 Board [Ad 9h 8d 9d]
 
 PokerStars Hand #65009: Hold'em No Limit (50/100) - 2019/07/11 18:03:29 ET
-Table 'Pluribus Session 65-9' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -373,7 +375,7 @@ Total pot 9426 | Rake 0
 Board [8d 6d Td Ks Qd]
 
 PokerStars Hand #65010: Hold'em No Limit (50/100) - 2019/07/11 18:03:30 ET
-Table 'Pluribus Session 65-10' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -413,7 +415,7 @@ Total pot 900 | Rake 0
 Board [5d 8d 7c Qh 6d]
 
 PokerStars Hand #65011: Hold'em No Limit (50/100) - 2019/07/11 18:03:31 ET
-Table 'Pluribus Session 65-11' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -451,7 +453,7 @@ Total pot 470 | Rake 0
 Board [9d Ks 8s Qs Jh]
 
 PokerStars Hand #65012: Hold'em No Limit (50/100) - 2019/07/11 18:03:32 ET
-Table 'Pluribus Session 65-12' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -481,7 +483,7 @@ Total pot 500 | Rake 0
 
 
 PokerStars Hand #65013: Hold'em No Limit (50/100) - 2019/07/11 18:03:33 ET
-Table 'Pluribus Session 65-13' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -509,7 +511,7 @@ Total pot 100 | Rake 0
 
 
 PokerStars Hand #65014: Hold'em No Limit (50/100) - 2019/07/11 18:03:34 ET
-Table 'Pluribus Session 65-14' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -549,7 +551,7 @@ Total pot 1550 | Rake 0
 Board [4s Ac Ad Kh 5h]
 
 PokerStars Hand #65015: Hold'em No Limit (50/100) - 2019/07/11 18:03:35 ET
-Table 'Pluribus Session 65-15' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -586,7 +588,7 @@ Total pot 20300 | Rake 0
 Board [Qs Kd 8s 6d Ts]
 
 PokerStars Hand #65016: Hold'em No Limit (50/100) - 2019/07/11 18:03:36 ET
-Table 'Pluribus Session 65-16' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -619,7 +621,7 @@ Total pot 2500 | Rake 0
 Board [3c Jd 9h]
 
 PokerStars Hand #65017: Hold'em No Limit (50/100) - 2019/07/11 18:03:37 ET
-Table 'Pluribus Session 65-17' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -652,7 +654,7 @@ Total pot 550 | Rake 0
 Board [2c 6d 9d]
 
 PokerStars Hand #65018: Hold'em No Limit (50/100) - 2019/07/11 18:03:38 ET
-Table 'Pluribus Session 65-18' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -682,7 +684,7 @@ Total pot 500 | Rake 0
 
 
 PokerStars Hand #65019: Hold'em No Limit (50/100) - 2019/07/11 18:03:39 ET
-Table 'Pluribus Session 65-19' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -722,7 +724,7 @@ Total pot 5650 | Rake 0
 Board [As Kc 4s 2s Jd]
 
 PokerStars Hand #65020: Hold'em No Limit (50/100) - 2019/07/11 18:03:40 ET
-Table 'Pluribus Session 65-20' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -752,7 +754,7 @@ Total pot 500 | Rake 0
 
 
 PokerStars Hand #65021: Hold'em No Limit (50/100) - 2019/07/11 18:03:41 ET
-Table 'Pluribus Session 65-21' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -786,7 +788,7 @@ Total pot 1000 | Rake 0
 Board [2h 6d Td]
 
 PokerStars Hand #65022: Hold'em No Limit (50/100) - 2019/07/11 18:03:42 ET
-Table 'Pluribus Session 65-22' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -816,7 +818,7 @@ Total pot 494 | Rake 0
 
 
 PokerStars Hand #65023: Hold'em No Limit (50/100) - 2019/07/11 18:03:43 ET
-Table 'Pluribus Session 65-23' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -853,7 +855,7 @@ Total pot 8850 | Rake 0
 Board [Js Ks 2d 8s]
 
 PokerStars Hand #65024: Hold'em No Limit (50/100) - 2019/07/11 18:03:44 ET
-Table 'Pluribus Session 65-24' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -886,7 +888,7 @@ Total pot 500 | Rake 0
 Board [Kd 4c 2s]
 
 PokerStars Hand #65025: Hold'em No Limit (50/100) - 2019/07/11 18:03:45 ET
-Table 'Pluribus Session 65-25' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -925,7 +927,7 @@ Total pot 400 | Rake 0
 Board [Js 5c 2h 2c 5d]
 
 PokerStars Hand #65026: Hold'em No Limit (50/100) - 2019/07/11 18:03:46 ET
-Table 'Pluribus Session 65-26' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -960,7 +962,7 @@ Total pot 600 | Rake 0
 Board [6d Jc 5h Jd]
 
 PokerStars Hand #65027: Hold'em No Limit (50/100) - 2019/07/11 18:03:47 ET
-Table 'Pluribus Session 65-27' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -1000,7 +1002,7 @@ Total pot 1250 | Rake 0
 Board [6h 9c Qd 4s Kd]
 
 PokerStars Hand #65028: Hold'em No Limit (50/100) - 2019/07/11 18:03:48 ET
-Table 'Pluribus Session 65-28' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -1029,7 +1031,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65029: Hold'em No Limit (50/100) - 2019/07/11 18:03:49 ET
-Table 'Pluribus Session 65-29' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -1058,7 +1060,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65030: Hold'em No Limit (50/100) - 2019/07/11 18:03:50 ET
-Table 'Pluribus Session 65-30' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -1086,7 +1088,7 @@ Total pot 100 | Rake 0
 
 
 PokerStars Hand #65031: Hold'em No Limit (50/100) - 2019/07/11 18:03:51 ET
-Table 'Pluribus Session 65-31' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -1116,7 +1118,7 @@ Total pot 500 | Rake 0
 
 
 PokerStars Hand #65032: Hold'em No Limit (50/100) - 2019/07/11 18:03:52 ET
-Table 'Pluribus Session 65-32' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -1154,7 +1156,7 @@ Total pot 2500 | Rake 0
 Board [Kd Ks Ac 3d Jh]
 
 PokerStars Hand #65033: Hold'em No Limit (50/100) - 2019/07/11 18:03:53 ET
-Table 'Pluribus Session 65-33' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -1183,7 +1185,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65034: Hold'em No Limit (50/100) - 2019/07/11 18:03:54 ET
-Table 'Pluribus Session 65-34' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -1212,7 +1214,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65035: Hold'em No Limit (50/100) - 2019/07/11 18:03:55 ET
-Table 'Pluribus Session 65-35' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -1251,7 +1253,7 @@ Total pot 500 | Rake 0
 Board [7s 8c 6c Kh Th]
 
 PokerStars Hand #65036: Hold'em No Limit (50/100) - 2019/07/11 18:03:56 ET
-Table 'Pluribus Session 65-36' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -1285,7 +1287,7 @@ Total pot 1900 | Rake 0
 Board [Qd Qs 3c]
 
 PokerStars Hand #65037: Hold'em No Limit (50/100) - 2019/07/11 18:03:57 ET
-Table 'Pluribus Session 65-37' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -1326,7 +1328,7 @@ Total pot 20150 | Rake 0
 Board [3d 2h 7c 8d Th]
 
 PokerStars Hand #65038: Hold'em No Limit (50/100) - 2019/07/11 18:03:58 ET
-Table 'Pluribus Session 65-38' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -1356,7 +1358,7 @@ Total pot 350 | Rake 0
 
 
 PokerStars Hand #65039: Hold'em No Limit (50/100) - 2019/07/11 18:03:59 ET
-Table 'Pluribus Session 65-39' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -1385,7 +1387,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65040: Hold'em No Limit (50/100) - 2019/07/11 18:04:00 ET
-Table 'Pluribus Session 65-40' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -1413,7 +1415,7 @@ Total pot 100 | Rake 0
 
 
 PokerStars Hand #65041: Hold'em No Limit (50/100) - 2019/07/11 18:04:01 ET
-Table 'Pluribus Session 65-41' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -1442,7 +1444,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65042: Hold'em No Limit (50/100) - 2019/07/11 18:04:02 ET
-Table 'Pluribus Session 65-42' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -1480,7 +1482,7 @@ Total pot 550 | Rake 0
 Board [Qh 2s 3c 8c 7h]
 
 PokerStars Hand #65043: Hold'em No Limit (50/100) - 2019/07/11 18:04:03 ET
-Table 'Pluribus Session 65-43' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -1509,7 +1511,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65044: Hold'em No Limit (50/100) - 2019/07/11 18:04:04 ET
-Table 'Pluribus Session 65-44' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -1538,7 +1540,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65045: Hold'em No Limit (50/100) - 2019/07/11 18:04:05 ET
-Table 'Pluribus Session 65-45' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -1579,7 +1581,7 @@ Total pot 1360 | Rake 0
 Board [Kh 9s 8d 9c Jc]
 
 PokerStars Hand #65046: Hold'em No Limit (50/100) - 2019/07/11 18:04:06 ET
-Table 'Pluribus Session 65-46' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -1615,7 +1617,7 @@ Total pot 500 | Rake 0
 Board [7h 2h Jc 6c]
 
 PokerStars Hand #65047: Hold'em No Limit (50/100) - 2019/07/11 18:04:07 ET
-Table 'Pluribus Session 65-47' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -1658,7 +1660,7 @@ Total pot 1360 | Rake 0
 Board [8s 5s Qh 5c 7s]
 
 PokerStars Hand #65048: Hold'em No Limit (50/100) - 2019/07/11 18:04:08 ET
-Table 'Pluribus Session 65-48' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -1687,7 +1689,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65049: Hold'em No Limit (50/100) - 2019/07/11 18:04:09 ET
-Table 'Pluribus Session 65-49' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -1718,7 +1720,7 @@ Total pot 650 | Rake 0
 
 
 PokerStars Hand #65050: Hold'em No Limit (50/100) - 2019/07/11 18:04:10 ET
-Table 'Pluribus Session 65-50' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -1746,7 +1748,7 @@ Total pot 100 | Rake 0
 
 
 PokerStars Hand #65051: Hold'em No Limit (50/100) - 2019/07/11 18:04:11 ET
-Table 'Pluribus Session 65-51' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -1783,7 +1785,7 @@ Total pot 21400 | Rake 0
 Board [8c Ac 4h 5s Jc]
 
 PokerStars Hand #65052: Hold'em No Limit (50/100) - 2019/07/11 18:04:12 ET
-Table 'Pluribus Session 65-52' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -1814,7 +1816,7 @@ Total pot 775 | Rake 0
 
 
 PokerStars Hand #65053: Hold'em No Limit (50/100) - 2019/07/11 18:04:13 ET
-Table 'Pluribus Session 65-53' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -1852,7 +1854,7 @@ Total pot 500 | Rake 0
 Board [Qd Ts 3c 4c 5c]
 
 PokerStars Hand #65054: Hold'em No Limit (50/100) - 2019/07/11 18:04:14 ET
-Table 'Pluribus Session 65-54' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -1897,7 +1899,7 @@ Total pot 4500 | Rake 0
 Board [7s Qc Jh Qd 7h]
 
 PokerStars Hand #65055: Hold'em No Limit (50/100) - 2019/07/11 18:04:15 ET
-Table 'Pluribus Session 65-55' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -1928,7 +1930,7 @@ Total pot 2250 | Rake 0
 
 
 PokerStars Hand #65056: Hold'em No Limit (50/100) - 2019/07/11 18:04:16 ET
-Table 'Pluribus Session 65-56' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -1956,7 +1958,7 @@ Total pot 100 | Rake 0
 
 
 PokerStars Hand #65057: Hold'em No Limit (50/100) - 2019/07/11 18:04:17 ET
-Table 'Pluribus Session 65-57' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -1990,7 +1992,7 @@ Total pot 1248 | Rake 0
 Board [7h Qc 3c]
 
 PokerStars Hand #65058: Hold'em No Limit (50/100) - 2019/07/11 18:04:18 ET
-Table 'Pluribus Session 65-58' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -2018,7 +2020,7 @@ Total pot 100 | Rake 0
 
 
 PokerStars Hand #65059: Hold'em No Limit (50/100) - 2019/07/11 18:04:19 ET
-Table 'Pluribus Session 65-59' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -2051,7 +2053,7 @@ Total pot 600 | Rake 0
 Board [As 4h 3d]
 
 PokerStars Hand #65060: Hold'em No Limit (50/100) - 2019/07/11 18:04:20 ET
-Table 'Pluribus Session 65-60' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -2091,7 +2093,7 @@ Total pot 1250 | Rake 0
 Board [Kc 4d Js Jc Kh]
 
 PokerStars Hand #65061: Hold'em No Limit (50/100) - 2019/07/11 18:04:21 ET
-Table 'Pluribus Session 65-61' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -2120,7 +2122,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65062: Hold'em No Limit (50/100) - 2019/07/11 18:04:22 ET
-Table 'Pluribus Session 65-62' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -2158,7 +2160,7 @@ Total pot 500 | Rake 0
 Board [5s Th Ad 9c Ah]
 
 PokerStars Hand #65063: Hold'em No Limit (50/100) - 2019/07/11 18:04:23 ET
-Table 'Pluribus Session 65-63' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -2196,7 +2198,7 @@ Total pot 200 | Rake 0
 Board [Kd Kc Js 4s Tc]
 
 PokerStars Hand #65064: Hold'em No Limit (50/100) - 2019/07/11 18:04:24 ET
-Table 'Pluribus Session 65-64' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -2224,7 +2226,7 @@ Total pot 100 | Rake 0
 
 
 PokerStars Hand #65065: Hold'em No Limit (50/100) - 2019/07/11 18:04:25 ET
-Table 'Pluribus Session 65-65' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -2253,7 +2255,7 @@ Total pot 200 | Rake 0
 
 
 PokerStars Hand #65066: Hold'em No Limit (50/100) - 2019/07/11 18:04:26 ET
-Table 'Pluribus Session 65-66' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -2281,7 +2283,7 @@ Total pot 100 | Rake 0
 
 
 PokerStars Hand #65067: Hold'em No Limit (50/100) - 2019/07/11 18:04:27 ET
-Table 'Pluribus Session 65-67' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -2316,7 +2318,7 @@ Total pot 624 | Rake 0
 Board [9s Ac 9d 4s]
 
 PokerStars Hand #65068: Hold'em No Limit (50/100) - 2019/07/11 18:04:28 ET
-Table 'Pluribus Session 65-68' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -2345,7 +2347,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65069: Hold'em No Limit (50/100) - 2019/07/11 18:04:29 ET
-Table 'Pluribus Session 65-69' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -2374,7 +2376,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65070: Hold'em No Limit (50/100) - 2019/07/11 18:04:30 ET
-Table 'Pluribus Session 65-70' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -2413,7 +2415,7 @@ Total pot 1250 | Rake 0
 Board [9h Jc Qc 3s 2d]
 
 PokerStars Hand #65071: Hold'em No Limit (50/100) - 2019/07/11 18:04:31 ET
-Table 'Pluribus Session 65-71' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -2449,7 +2451,7 @@ Total pot 1200 | Rake 0
 Board [Qs Ks Js 8d]
 
 PokerStars Hand #65072: Hold'em No Limit (50/100) - 2019/07/11 18:04:32 ET
-Table 'Pluribus Session 65-72' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -2478,7 +2480,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65073: Hold'em No Limit (50/100) - 2019/07/11 18:04:33 ET
-Table 'Pluribus Session 65-73' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -2517,7 +2519,7 @@ Total pot 1124 | Rake 0
 Board [Qh 7h 5c Ad Js]
 
 PokerStars Hand #65074: Hold'em No Limit (50/100) - 2019/07/11 18:04:34 ET
-Table 'Pluribus Session 65-74' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -2547,7 +2549,7 @@ Total pot 550 | Rake 0
 
 
 PokerStars Hand #65075: Hold'em No Limit (50/100) - 2019/07/11 18:04:35 ET
-Table 'Pluribus Session 65-75' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -2576,7 +2578,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65076: Hold'em No Limit (50/100) - 2019/07/11 18:04:36 ET
-Table 'Pluribus Session 65-76' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -2604,7 +2606,7 @@ Total pot 100 | Rake 0
 
 
 PokerStars Hand #65077: Hold'em No Limit (50/100) - 2019/07/11 18:04:37 ET
-Table 'Pluribus Session 65-77' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -2632,7 +2634,7 @@ Total pot 100 | Rake 0
 
 
 PokerStars Hand #65078: Hold'em No Limit (50/100) - 2019/07/11 18:04:38 ET
-Table 'Pluribus Session 65-78' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -2674,7 +2676,7 @@ Total pot 6300 | Rake 0
 Board [4c 5c 3c As 5d]
 
 PokerStars Hand #65079: Hold'em No Limit (50/100) - 2019/07/11 18:04:39 ET
-Table 'Pluribus Session 65-79' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -2710,7 +2712,7 @@ Total pot 1400 | Rake 0
 Board [2h Td 6c]
 
 PokerStars Hand #65080: Hold'em No Limit (50/100) - 2019/07/11 18:04:40 ET
-Table 'Pluribus Session 65-80' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -2748,7 +2750,7 @@ Total pot 450 | Rake 0
 Board [7c 8s 8c Jc 7s]
 
 PokerStars Hand #65081: Hold'em No Limit (50/100) - 2019/07/11 18:04:41 ET
-Table 'Pluribus Session 65-81' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -2777,7 +2779,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65082: Hold'em No Limit (50/100) - 2019/07/11 18:04:42 ET
-Table 'Pluribus Session 65-82' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -2810,7 +2812,7 @@ Total pot 500 | Rake 0
 Board [9c Td Qd]
 
 PokerStars Hand #65083: Hold'em No Limit (50/100) - 2019/07/11 18:04:43 ET
-Table 'Pluribus Session 65-83' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -2850,7 +2852,7 @@ Total pot 940 | Rake 0
 Board [9c 2s 6c 5d 8s]
 
 PokerStars Hand #65084: Hold'em No Limit (50/100) - 2019/07/11 18:04:44 ET
-Table 'Pluribus Session 65-84' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -2889,7 +2891,7 @@ Total pot 600 | Rake 0
 Board [Qh 7d 9d 3c Td]
 
 PokerStars Hand #65085: Hold'em No Limit (50/100) - 2019/07/11 18:04:45 ET
-Table 'Pluribus Session 65-85' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -2919,7 +2921,7 @@ Total pot 550 | Rake 0
 
 
 PokerStars Hand #65086: Hold'em No Limit (50/100) - 2019/07/11 18:04:46 ET
-Table 'Pluribus Session 65-86' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -2960,7 +2962,7 @@ Total pot 6500 | Rake 0
 Board [4c 3h 9d Ac]
 
 PokerStars Hand #65087: Hold'em No Limit (50/100) - 2019/07/11 18:04:47 ET
-Table 'Pluribus Session 65-87' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -2991,7 +2993,7 @@ Total pot 861 | Rake 0
 
 
 PokerStars Hand #65088: Hold'em No Limit (50/100) - 2019/07/11 18:04:48 ET
-Table 'Pluribus Session 65-88' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -3019,7 +3021,7 @@ Total pot 100 | Rake 0
 
 
 PokerStars Hand #65089: Hold'em No Limit (50/100) - 2019/07/11 18:04:49 ET
-Table 'Pluribus Session 65-89' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -3047,7 +3049,7 @@ Total pot 100 | Rake 0
 
 
 PokerStars Hand #65090: Hold'em No Limit (50/100) - 2019/07/11 18:04:50 ET
-Table 'Pluribus Session 65-90' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -3077,7 +3079,7 @@ Total pot 200 | Rake 0
 
 
 PokerStars Hand #65091: Hold'em No Limit (50/100) - 2019/07/11 18:04:51 ET
-Table 'Pluribus Session 65-91' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -3110,7 +3112,7 @@ Total pot 450 | Rake 0
 Board [4h 3s 7s]
 
 PokerStars Hand #65092: Hold'em No Limit (50/100) - 2019/07/11 18:04:52 ET
-Table 'Pluribus Session 65-92' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -3147,7 +3149,7 @@ Total pot 775 | Rake 0
 Board [Js Ac Td 9d]
 
 PokerStars Hand #65093: Hold'em No Limit (50/100) - 2019/07/11 18:04:53 ET
-Table 'Pluribus Session 65-93' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -3186,7 +3188,7 @@ Total pot 3000 | Rake 0
 Board [Kd 8h Qd 8c Th]
 
 PokerStars Hand #65094: Hold'em No Limit (50/100) - 2019/07/11 18:04:54 ET
-Table 'Pluribus Session 65-94' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -3215,7 +3217,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65095: Hold'em No Limit (50/100) - 2019/07/11 18:04:55 ET
-Table 'Pluribus Session 65-95' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -3251,7 +3253,7 @@ Total pot 200 | Rake 0
 Board [5s 8s Qc Ts]
 
 PokerStars Hand #65096: Hold'em No Limit (50/100) - 2019/07/11 18:04:56 ET
-Table 'Pluribus Session 65-96' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -3286,7 +3288,7 @@ Total pot 200 | Rake 0
 Board [Qh 5c 7c Kd]
 
 PokerStars Hand #65097: Hold'em No Limit (50/100) - 2019/07/11 18:04:57 ET
-Table 'Pluribus Session 65-97' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -3323,7 +3325,7 @@ Total pot 2800 | Rake 0
 Board [5s 4c 2h 4d]
 
 PokerStars Hand #65098: Hold'em No Limit (50/100) - 2019/07/11 18:04:58 ET
-Table 'Pluribus Session 65-98' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -3362,7 +3364,7 @@ Total pot 500 | Rake 0
 Board [Ad Td Ts 3c 7s]
 
 PokerStars Hand #65099: Hold'em No Limit (50/100) - 2019/07/11 18:04:59 ET
-Table 'Pluribus Session 65-99' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -3391,7 +3393,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65100: Hold'em No Limit (50/100) - 2019/07/11 18:05:00 ET
-Table 'Pluribus Session 65-100' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -3432,7 +3434,7 @@ Total pot 1700 | Rake 0
 Board [8d Kd Qd 2h Kc]
 
 PokerStars Hand #65101: Hold'em No Limit (50/100) - 2019/07/11 18:05:01 ET
-Table 'Pluribus Session 65-101' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -3463,7 +3465,7 @@ Total pot 1760 | Rake 0
 
 
 PokerStars Hand #65102: Hold'em No Limit (50/100) - 2019/07/11 18:05:02 ET
-Table 'Pluribus Session 65-102' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -3503,7 +3505,7 @@ Total pot 720 | Rake 0
 Board [2c 8h As 7d 6c]
 
 PokerStars Hand #65103: Hold'em No Limit (50/100) - 2019/07/11 18:05:03 ET
-Table 'Pluribus Session 65-103' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -3532,7 +3534,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65104: Hold'em No Limit (50/100) - 2019/07/11 18:05:04 ET
-Table 'Pluribus Session 65-104' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -3561,7 +3563,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65105: Hold'em No Limit (50/100) - 2019/07/11 18:05:05 ET
-Table 'Pluribus Session 65-105' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -3596,7 +3598,7 @@ Total pot 500 | Rake 0
 Board [2c 5d 4c 8s]
 
 PokerStars Hand #65106: Hold'em No Limit (50/100) - 2019/07/11 18:05:06 ET
-Table 'Pluribus Session 65-106' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -3625,7 +3627,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65107: Hold'em No Limit (50/100) - 2019/07/11 18:05:07 ET
-Table 'Pluribus Session 65-107' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -3658,7 +3660,7 @@ Total pot 450 | Rake 0
 Board [As Jc 7h]
 
 PokerStars Hand #65108: Hold'em No Limit (50/100) - 2019/07/11 18:05:08 ET
-Table 'Pluribus Session 65-108' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -3687,7 +3689,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65109: Hold'em No Limit (50/100) - 2019/07/11 18:05:09 ET
-Table 'Pluribus Session 65-109' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -3726,7 +3728,7 @@ Total pot 400 | Rake 0
 Board [2d Ac 5d 3d 9c]
 
 PokerStars Hand #65110: Hold'em No Limit (50/100) - 2019/07/11 18:05:10 ET
-Table 'Pluribus Session 65-110' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -3762,7 +3764,7 @@ Total pot 800 | Rake 0
 Board [9d 6h 6d]
 
 PokerStars Hand #65111: Hold'em No Limit (50/100) - 2019/07/11 18:05:11 ET
-Table 'Pluribus Session 65-111' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -3792,7 +3794,7 @@ Total pot 600 | Rake 0
 
 
 PokerStars Hand #65112: Hold'em No Limit (50/100) - 2019/07/11 18:05:12 ET
-Table 'Pluribus Session 65-112' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -3820,7 +3822,7 @@ Total pot 100 | Rake 0
 
 
 PokerStars Hand #65113: Hold'em No Limit (50/100) - 2019/07/11 18:05:13 ET
-Table 'Pluribus Session 65-113' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -3857,7 +3859,7 @@ Total pot 1260 | Rake 0
 Board [9c Qh 4d 4s]
 
 PokerStars Hand #65114: Hold'em No Limit (50/100) - 2019/07/11 18:05:14 ET
-Table 'Pluribus Session 65-114' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -3899,7 +3901,7 @@ Total pot 1500 | Rake 0
 Board [Ad Kc Kh Ts Js]
 
 PokerStars Hand #65115: Hold'em No Limit (50/100) - 2019/07/11 18:05:15 ET
-Table 'Pluribus Session 65-115' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -3929,7 +3931,7 @@ Total pot 500 | Rake 0
 
 
 PokerStars Hand #65116: Hold'em No Limit (50/100) - 2019/07/11 18:05:16 ET
-Table 'Pluribus Session 65-116' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -3965,7 +3967,7 @@ Total pot 1200 | Rake 0
 Board [2s 3h Ts 5c]
 
 PokerStars Hand #65117: Hold'em No Limit (50/100) - 2019/07/11 18:05:17 ET
-Table 'Pluribus Session 65-117' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -3993,7 +3995,7 @@ Total pot 100 | Rake 0
 
 
 PokerStars Hand #65118: Hold'em No Limit (50/100) - 2019/07/11 18:05:18 ET
-Table 'Pluribus Session 65-118' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -4022,7 +4024,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65119: Hold'em No Limit (50/100) - 2019/07/11 18:05:19 ET
-Table 'Pluribus Session 65-119' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -4061,7 +4063,7 @@ Total pot 700 | Rake 0
 Board [Ad 4h 9d 4d 8s]
 
 PokerStars Hand #65120: Hold'em No Limit (50/100) - 2019/07/11 18:05:20 ET
-Table 'Pluribus Session 65-120' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -4091,7 +4093,7 @@ Total pot 200 | Rake 0
 
 
 PokerStars Hand #65121: Hold'em No Limit (50/100) - 2019/07/11 18:05:21 ET
-Table 'Pluribus Session 65-121' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -4124,7 +4126,7 @@ Total pot 550 | Rake 0
 Board [Js 9s 7d]
 
 PokerStars Hand #65122: Hold'em No Limit (50/100) - 2019/07/11 18:05:22 ET
-Table 'Pluribus Session 65-122' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -4163,7 +4165,7 @@ Total pot 550 | Rake 0
 Board [6h Td 4c 6c 7c]
 
 PokerStars Hand #65123: Hold'em No Limit (50/100) - 2019/07/11 18:05:23 ET
-Table 'Pluribus Session 65-123' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -4192,7 +4194,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65124: Hold'em No Limit (50/100) - 2019/07/11 18:05:24 ET
-Table 'Pluribus Session 65-124' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -4221,7 +4223,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65125: Hold'em No Limit (50/100) - 2019/07/11 18:05:25 ET
-Table 'Pluribus Session 65-125' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -4254,7 +4256,7 @@ Total pot 500 | Rake 0
 Board [Ac 2h As]
 
 PokerStars Hand #65126: Hold'em No Limit (50/100) - 2019/07/11 18:05:26 ET
-Table 'Pluribus Session 65-126' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -4293,7 +4295,7 @@ Total pot 200 | Rake 0
 Board [4h 8h Td 8c 4s]
 
 PokerStars Hand #65127: Hold'em No Limit (50/100) - 2019/07/11 18:05:27 ET
-Table 'Pluribus Session 65-127' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -4328,7 +4330,7 @@ Total pot 980 | Rake 0
 Board [7s Jh Qc Kc]
 
 PokerStars Hand #65128: Hold'em No Limit (50/100) - 2019/07/11 18:05:28 ET
-Table 'Pluribus Session 65-128' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -4361,7 +4363,7 @@ Total pot 450 | Rake 0
 Board [7c 3h 3d]
 
 PokerStars Hand #65129: Hold'em No Limit (50/100) - 2019/07/11 18:05:29 ET
-Table 'Pluribus Session 65-129' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -4400,7 +4402,7 @@ Total pot 400 | Rake 0
 Board [4d Qh Qs 7d 3d]
 
 PokerStars Hand #65130: Hold'em No Limit (50/100) - 2019/07/11 18:05:30 ET
-Table 'Pluribus Session 65-130' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -4433,7 +4435,7 @@ Total pot 2000 | Rake 0
 Board [Kd 5c 2c]
 
 PokerStars Hand #65131: Hold'em No Limit (50/100) - 2019/07/11 18:05:31 ET
-Table 'Pluribus Session 65-131' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -4466,7 +4468,7 @@ Total pot 2100 | Rake 0
 Board [Ts Kd Th]
 
 PokerStars Hand #65132: Hold'em No Limit (50/100) - 2019/07/11 18:05:32 ET
-Table 'Pluribus Session 65-132' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -4505,7 +4507,7 @@ Total pot 1000 | Rake 0
 Board [9h 3s 5h 7h Jc]
 
 PokerStars Hand #65133: Hold'em No Limit (50/100) - 2019/07/11 18:05:33 ET
-Table 'Pluribus Session 65-133' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -4535,7 +4537,7 @@ Total pot 600 | Rake 0
 
 
 PokerStars Hand #65134: Hold'em No Limit (50/100) - 2019/07/11 18:05:34 ET
-Table 'Pluribus Session 65-134' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -4564,7 +4566,7 @@ Total pot 250 | Rake 0
 
 
 PokerStars Hand #65135: Hold'em No Limit (50/100) - 2019/07/11 18:05:35 ET
-Table 'Pluribus Session 65-135' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -4603,7 +4605,7 @@ Total pot 800 | Rake 0
 Board [5d 6d Kh As 3d]
 
 PokerStars Hand #65136: Hold'em No Limit (50/100) - 2019/07/11 18:05:36 ET
-Table 'Pluribus Session 65-136' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -4640,7 +4642,7 @@ Total pot 794 | Rake 0
 Board [Kc Jd Td 5c]
 
 PokerStars Hand #65137: Hold'em No Limit (50/100) - 2019/07/11 18:05:37 ET
-Table 'Pluribus Session 65-137' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -4671,7 +4673,7 @@ Total pot 2200 | Rake 0
 
 
 PokerStars Hand #65138: Hold'em No Limit (50/100) - 2019/07/11 18:05:38 ET
-Table 'Pluribus Session 65-138' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)
@@ -4704,7 +4706,7 @@ Total pot 500 | Rake 0
 Board [8c 6c Kh]
 
 PokerStars Hand #65139: Hold'em No Limit (50/100) - 2019/07/11 18:05:39 ET
-Table 'Pluribus Session 65-139' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrPink (10000 in chips)
 Seat 2: Bill (10000 in chips)
 Seat 3: Eddie (10000 in chips)
@@ -4741,7 +4743,7 @@ Total pot 20100 | Rake 0
 Board [5h 9c 8d Kc 7s]
 
 PokerStars Hand #65140: Hold'em No Limit (50/100) - 2019/07/11 18:05:40 ET
-Table 'Pluribus Session 65-140' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
 Seat 2: Eddie (10000 in chips)
 Seat 3: Joe (10000 in chips)
@@ -4777,7 +4779,7 @@ Total pot 550 | Rake 0
 Board [5h 6s Tc 2s]
 
 PokerStars Hand #65141: Hold'em No Limit (50/100) - 2019/07/11 18:05:41 ET
-Table 'Pluribus Session 65-141' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
 Seat 2: Joe (10000 in chips)
 Seat 3: Pluribus (10000 in chips)
@@ -4818,7 +4820,7 @@ Total pot 2496 | Rake 0
 Board [Td 6h Ac Kh Js]
 
 PokerStars Hand #65142: Hold'em No Limit (50/100) - 2019/07/11 18:05:42 ET
-Table 'Pluribus Session 65-142' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Joe (10000 in chips)
 Seat 2: Pluribus (10000 in chips)
 Seat 3: MrBlue (10000 in chips)
@@ -4858,7 +4860,7 @@ Total pot 1550 | Rake 0
 Board [2s Qh 8s Ah Td]
 
 PokerStars Hand #65143: Hold'em No Limit (50/100) - 2019/07/11 18:05:43 ET
-Table 'Pluribus Session 65-143' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
 Seat 2: MrBlue (10000 in chips)
 Seat 3: MrPink (10000 in chips)
@@ -4891,7 +4893,7 @@ Total pot 450 | Rake 0
 Board [3h Jh 5s]
 
 PokerStars Hand #65144: Hold'em No Limit (50/100) - 2019/07/11 18:05:44 ET
-Table 'Pluribus Session 65-144' 6-max (Play Money) Seat #6 is the button
+Table 'Pluribus Session 65' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
 Seat 2: MrPink (10000 in chips)
 Seat 3: Bill (10000 in chips)

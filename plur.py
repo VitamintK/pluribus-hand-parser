@@ -181,7 +181,7 @@ class Hand:
         time = base_time + datetime.timedelta(seconds=1000*session + int(self.hand_number))
         hh = ''
         hh += "PokerStars Hand #{}: Hold'em No Limit (50/100) - {}\n".format(1000*session + int(self.hand_number), time.strftime("%Y/%m/%d %H:%M:%S ET"))
-        hh += "Table 'Pluribus Session {}-{}' 6-max (Play Money) Seat #6 is the button\n".format(session, self.hand_number)
+        hh += "Table 'Pluribus Session {}' 6-max (Play Money) Seat #6 is the button\n".format(session)
         for seat, player_id in enumerate(self.player_ids):
             hh += "Seat {}: {} (10000 in chips)\n".format(seat+1, player_id)
         for action in self.actions[0]:
@@ -208,6 +208,11 @@ class Hand:
             if self.uncalled_amount:
                 hh += "Uncalled bet ({}) returned to {}\n".format(self.uncalled_amount, player_id)
             hh += "{} collected {} from pot\n".format(player_id, self.pot/len(self.winners))
+        if len(self.winners) == 0:
+            # edge case where SB and BB were in a chopped pot and everyone who put money into the pot was part of the chop
+            # luckily, the only case where this happens in the data set is when exactly the SB and BB chop a pot, and I'm really fucking tired and this is the last bug, so 
+            hh += "{} collected {} from pot\n".format(self.player_ids[0], self.pot/2)
+            hh += "{} collected {} from pot\n".format(self.player_ids[1], self.pot/2)
         hh += "*** SUMMARY ***\n"
         hh += "Total pot {} | Rake 0\n".format(self.pot)
         if len(self.community_cards_by_street) > 0:
