@@ -12,6 +12,7 @@ $ python3 -i plur.py
 >>> h = Hand('STATE:42:r200fcffc/cr650cf/cr3000f:8c6h|7hJs|AdJh|9s2h|TdTs|5c3s/QdKc9d/Ac:-50|-200|-650|0|900|0:Budd|MrWhite|MrOrange|Hattori|MrBlue|Pluribus')
 >>> h.parse()
 >>> print(h.get_poker_stars_str())
+PokerStars Hand #42: Hold'em No Limit (50/100) - 2017/08/08 23:16:30 MSK [2017/08/08 16:16:30 ET]
 Table 'Pluribus Session TODO-42' 6-max (Play Money) Seat #6 is the button
 Seat 1: Budd (10000 in chips)
 Seat 2: MrWhite (10000 in chips)
@@ -28,19 +29,23 @@ Dealt to MrOrange [Ad Jh]
 Dealt to Hattori [9s 2h]
 Dealt to MrBlue [Td Ts]
 Dealt to Pluribus [5c 3s]
-MrOrange: raises whatever to 200
+MrOrange: raises 100 to 200
 Hattori: folds
-MrBlue: calls None
+MrBlue: calls 200
 Pluribus: folds
 Budd: folds
-MrWhite: calls None
+MrWhite: calls 100
 *** FLOP *** [Qd Kc 9d]
 MrWhite: checks
-MrOrange: bets 650
-MrBlue: calls None
+MrOrange: bets 450
+MrBlue: calls 450
 MrWhite: folds
 *** TURN *** [Qd Kc 9d] [Ac]
 MrOrange: checks
-MrBlue: bets 3000
+MrBlue: bets 2350
 MrOrange: folds
+MrBlue collected 3900 from pot
+*** SUMMARY ***
+Total pot 3900 | Rake 0
+Board [Qd Kc 9d Ac]
 ```
