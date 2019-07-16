@@ -210,7 +210,7 @@ class Hand:
             hh += "{} collected {} from pot\n".format(player_id, self.pot/len(self.winners))
         if len(self.winners) == 0:
             # edge case where SB and BB were in a chopped pot and everyone who put money into the pot was part of the chop
-            # luckily, the only case where this happens in the data set is when exactly the SB and BB chop a pot, and I'm really fucking tired and this is the last bug, so 
+            # luckily, the only case where this happens in the data set is when exactly the SB and BB chop a pot, and I'm really fucking tired and this is the last bug, so pretend no one else can be in the pot
             hh += "{} collected {} from pot\n".format(self.player_ids[0], self.pot/2)
             hh += "{} collected {} from pot\n".format(self.player_ids[1], self.pot/2)
         hh += "*** SUMMARY ***\n"
@@ -270,13 +270,22 @@ if __name__ == '__main__':
 
     # reading a log file:
     # session = 78
-    # suffix = ''
+    # suffix = '' # either '' or 'b'
     # directory = './../../Downloads/5H1AI_logs'
     # hands = read_hands_from_file('{}/sample_game_{}{}.log'.format(directory, session, suffix), session)
     # print(hands.get_poker_stars_str())
 
-    # reading the whole directory:
-    sessions = read_directory('./../../Downloads/5H1AI_logs')
-    sessions.save('out')
+    # reading the whole directory, converting all sessions, and saving the converted sessions to disk:
+    # sessions = read_directory('./../../Downloads/5H1AI_logs')
+    # sessions.save('out')
+
+    # get pluribus's unadjusted total net chips
+    # sessions = read_directory('./../../Downloads/5H1AI_logs')
+    # ans = 0
+    # for session in sessions:
+    #     for hand in session:
+    #         ans += hand.profits[hand.player_ids.index("Pluribus")]
+    # print(ans)
+    pass
 
 
