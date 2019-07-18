@@ -66,6 +66,9 @@ MrBlonde collected 496.0 from pot
 *** SUMMARY ***
 Total pot 496 | Rake 0
 Board [Ad 3d 9d 2h Ah]
+Seat 2: MrBlonde showed [Th Kc] and won (496.0)
+Seat 6: MrOrange showed [Ks 8s] and lost
+
 
 PokerStars Hand #50104: Hold'em No Limit (50/100) - 2019/07/11 13:55:04 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -136,6 +139,7 @@ Bill collected 500.0 from pot
 Total pot 500 | Rake 0
 Board [Ks 8s 4c Qs Kd]
 
+
 PokerStars Hand #50106: Hold'em No Limit (50/100) - 2019/07/11 13:55:06 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
@@ -174,6 +178,9 @@ Pluribus collected 550.0 from pot
 *** SUMMARY ***
 Total pot 550 | Rake 0
 Board [9h 4h 9c Ac 6s]
+Seat 2: Pluribus showed [9d Qd] and won (550.0)
+Seat 5: MrBlonde showed [7h Kh] and lost
+
 
 PokerStars Hand #50107: Hold'em No Limit (50/100) - 2019/07/11 13:55:07 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -212,6 +219,7 @@ MrOrange collected 450.0 from pot
 *** SUMMARY ***
 Total pot 450 | Rake 0
 Board [Jd 8d 8c 8s 5h]
+
 
 PokerStars Hand #50108: Hold'em No Limit (50/100) - 2019/07/11 13:55:08 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -252,6 +260,7 @@ MrBlue collected 1000.0 from pot
 Total pot 1000 | Rake 0
 Board [Kh Qh 3s Qd 4s]
 
+
 PokerStars Hand #50109: Hold'em No Limit (50/100) - 2019/07/11 13:55:09 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
@@ -286,14 +295,17 @@ MrOrange: bets 1655
 MrBlue: calls 1655
 *** RIVER *** [4s Qh 3h] [Th] [6s]
 MrBlue: checks
-MrOrange: bets 5870
-MrBlue: calls 5870
+MrOrange: bets 5870 and is all-in
+MrBlue: calls 5870 and is all-in
 *** SHOWDOWN ***
 MrBlue: shows [Qc Qd]
 MrBlue collected 20325.0 from pot
 *** SUMMARY ***
 Total pot 20325 | Rake 0
 Board [4s Qh 3h Th 6s]
+Seat 1: MrBlue showed [Qc Qd] and won (20325.0)
+Seat 6: MrOrange showed [4d 4h] and lost
+
 
 PokerStars Hand #50110: Hold'em No Limit (50/100) - 2019/07/11 13:55:10 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -329,6 +341,7 @@ Eddie collected 500.0 from pot
 *** SUMMARY ***
 Total pot 500 | Rake 0
 Board [9c 6c 2d 5s]
+
 
 PokerStars Hand #50111: Hold'em No Limit (50/100) - 2019/07/11 13:55:11 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -366,6 +379,7 @@ MrBlue collected 1550.0 from pot
 *** SUMMARY ***
 Total pot 1550 | Rake 0
 Board [5s Kc 8d Th]
+
 
 PokerStars Hand #50112: Hold'em No Limit (50/100) - 2019/07/11 13:55:12 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -459,13 +473,14 @@ Eddie: bets 1300
 MrBlue: calls 1300
 *** RIVER *** [9c Kh 2d] [4h] [5d]
 MrBlue: checks
-Eddie: bets 8365
+Eddie: bets 8365 and is all-in
 MrBlue: folds
 Uncalled bet (8365) returned to Eddie
 Eddie collected 3320.0 from pot
 *** SUMMARY ***
 Total pot 3320 | Rake 0
 Board [9c Kh 2d 4h 5d]
+
 
 PokerStars Hand #50115: Hold'em No Limit (50/100) - 2019/07/11 13:55:15 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -528,13 +543,14 @@ Eddie: bets 2400
 Bill: calls 2400
 *** RIVER *** [4s Qh 2d] [Jd] [Qs]
 Eddie: checks
-Bill: bets 5632
+Bill: bets 5632 and is all-in
 Eddie: folds
 Uncalled bet (5632) returned to Bill
 Bill collected 8786.0 from pot
 *** SUMMARY ***
 Total pot 8786 | Rake 0
 Board [4s Qh 2d Jd Qs]
+
 
 PokerStars Hand #50117: Hold'em No Limit (50/100) - 2019/07/11 13:55:17 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -570,6 +586,7 @@ Eddie collected 600.0 from pot
 *** SUMMARY ***
 Total pot 600 | Rake 0
 Board [3s 8d 8h 4h]
+
 
 PokerStars Hand #50118: Hold'em No Limit (50/100) - 2019/07/11 13:55:18 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -662,13 +679,14 @@ MrBlue: raises 2000 to 2500
 Bill: calls 2000
 *** RIVER *** [9d 2c 5d] [Qc] [5c]
 MrBlue: checks
-Bill: bets 7025
+Bill: bets 7025 and is all-in
 MrBlue: folds
 Uncalled bet (7025) returned to Bill
 Bill collected 6000.0 from pot
 *** SUMMARY ***
 Total pot 6000 | Rake 0
 Board [9d 2c 5d Qc 5c]
+
 
 PokerStars Hand #50121: Hold'em No Limit (50/100) - 2019/07/11 13:55:21 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -692,7 +710,7 @@ Bill: folds
 Pluribus: folds
 MrOrange: folds
 MrBlue: calls 50
-MrBlonde: calls 0
+MrBlonde: checks
 *** FLOP *** [Qd 7d Ad]
 MrBlue: checks
 MrBlonde: bets 150
@@ -702,6 +720,7 @@ MrBlonde collected 200.0 from pot
 *** SUMMARY ***
 Total pot 200 | Rake 0
 Board [Qd 7d Ad]
+
 
 PokerStars Hand #50122: Hold'em No Limit (50/100) - 2019/07/11 13:55:22 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -744,6 +763,9 @@ MrBlue collected 375.0 from pot
 *** SUMMARY ***
 Total pot 750 | Rake 0
 Board [4s 5c Tc As Qs]
+Seat 2: Eddie showed [3c 4h] and won (375.0)
+Seat 6: MrBlue showed [4d 8d] and won (375.0)
+
 
 PokerStars Hand #50123: Hold'em No Limit (50/100) - 2019/07/11 13:55:23 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -767,7 +789,7 @@ MrOrange: calls 100
 MrBlue: folds
 MrBlonde: folds
 Eddie: folds
-Bill: calls 0
+Bill: checks
 *** FLOP *** [Kd 8c Td]
 Bill: checks
 MrOrange: bets 100
@@ -777,6 +799,7 @@ MrOrange collected 250.0 from pot
 *** SUMMARY ***
 Total pot 250 | Rake 0
 Board [Kd 8c Td]
+
 
 PokerStars Hand #50124: Hold'em No Limit (50/100) - 2019/07/11 13:55:24 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -811,6 +834,7 @@ Eddie collected 494.0 from pot
 Total pot 494 | Rake 0
 Board [3h Js 9c]
 
+
 PokerStars Hand #50125: Hold'em No Limit (50/100) - 2019/07/11 13:55:25 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
@@ -833,7 +857,7 @@ MrBlonde: folds
 Eddie: folds
 Bill: folds
 Pluribus: calls 50
-MrOrange: calls 0
+MrOrange: checks
 *** FLOP *** [8h 4c Ac]
 Pluribus: bets 100
 MrOrange: calls 100
@@ -849,6 +873,9 @@ Pluribus collected 400.0 from pot
 *** SUMMARY ***
 Total pot 400 | Rake 0
 Board [8h 4c Ac 4s 5h]
+Seat 1: Pluribus showed [Qd 5c] and won (400.0)
+Seat 2: MrOrange showed [Kc 2h] and lost
+
 
 PokerStars Hand #50126: Hold'em No Limit (50/100) - 2019/07/11 13:55:26 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -889,6 +916,7 @@ Bill collected 1250.0 from pot
 *** SUMMARY ***
 Total pot 1250 | Rake 0
 Board [Ad Ks 4h Ah 4s]
+
 
 PokerStars Hand #50127: Hold'em No Limit (50/100) - 2019/07/11 13:55:27 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -1046,6 +1074,7 @@ MrOrange collected 974.0 from pot
 Total pot 974 | Rake 0
 Board [Kh 4h 3h Kc 5s]
 
+
 PokerStars Hand #50132: Hold'em No Limit (50/100) - 2019/07/11 13:55:32 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrOrange (10000 in chips)
@@ -1085,6 +1114,9 @@ MrBlonde collected 3100.0 from pot
 *** SUMMARY ***
 Total pot 3100 | Rake 0
 Board [9h 2s 5c Js 7s]
+Seat 3: MrBlonde showed [Qd Qc] and won (3100.0)
+Seat 6: Pluribus showed [8d 8s] and lost
+
 
 PokerStars Hand #50133: Hold'em No Limit (50/100) - 2019/07/11 13:55:33 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -1177,6 +1209,7 @@ MrOrange collected 474.0 from pot
 Total pot 474 | Rake 0
 Board [3c 2s Tc]
 
+
 PokerStars Hand #50136: Hold'em No Limit (50/100) - 2019/07/11 13:55:36 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
@@ -1210,13 +1243,14 @@ Eddie: bets 1120
 Pluribus: calls 1120
 *** RIVER *** [Ac Qh Kc] [3s] [9d]
 Pluribus: checks
-Eddie: bets 8208
+Eddie: bets 8208 and is all-in
 Pluribus: folds
 Uncalled bet (8208) returned to Eddie
 Eddie collected 3634.0 from pot
 *** SUMMARY ***
 Total pot 3634 | Rake 0
 Board [Ac Qh Kc 3s 9d]
+
 
 PokerStars Hand #50137: Hold'em No Limit (50/100) - 2019/07/11 13:55:37 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -1402,6 +1436,7 @@ Pluribus collected 494.0 from pot
 Total pot 494 | Rake 0
 Board [9d 4h 8h Td]
 
+
 PokerStars Hand #50143: Hold'em No Limit (50/100) - 2019/07/11 13:55:43 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
@@ -1440,6 +1475,9 @@ Pluribus collected 500.0 from pot
 *** SUMMARY ***
 Total pot 500 | Rake 0
 Board [9d 5h 6s Ah 5s]
+Seat 1: Pluribus showed [6h 6d] and won (500.0)
+Seat 2: MrOrange showed [Jc Qh] and lost
+
 
 PokerStars Hand #50144: Hold'em No Limit (50/100) - 2019/07/11 13:55:44 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -1510,6 +1548,7 @@ MrOrange collected 2150.0 from pot
 *** SUMMARY ***
 Total pot 2150 | Rake 0
 Board [7s 7c 9c 3s 5h]
+
 
 PokerStars Hand #50146: Hold'em No Limit (50/100) - 2019/07/11 13:55:46 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -1635,6 +1674,9 @@ MrOrange collected 450.0 from pot
 *** SUMMARY ***
 Total pot 450 | Rake 0
 Board [Qd Kd 5h 6s Ac]
+Seat 2: MrOrange showed [Td As] and won (450.0)
+Seat 5: Eddie showed [8h Qh] and lost
+
 
 PokerStars Hand #50150: Hold'em No Limit (50/100) - 2019/07/11 13:55:50 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -1735,6 +1777,9 @@ MrBlue collected 1100.0 from pot
 *** SUMMARY ***
 Total pot 1100 | Rake 0
 Board [5c 4c 4s 5d Kh]
+Seat 4: Pluribus showed [Th 8h] and lost
+Seat 6: MrBlue showed [Tc As] and won (1100.0)
+
 
 PokerStars Hand #50153: Hold'em No Limit (50/100) - 2019/07/11 13:55:53 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -1804,6 +1849,9 @@ MrOrange collected 3000.0 from pot
 *** SUMMARY ***
 Total pot 3000 | Rake 0
 Board [Jd 5h 6d 3d 6s]
+Seat 1: Bill showed [9s 9d] and lost
+Seat 3: MrOrange showed [Jc Ac] and won (3000.0)
+
 
 PokerStars Hand #50155: Hold'em No Limit (50/100) - 2019/07/11 13:55:55 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -1840,6 +1888,7 @@ MrBlue collected 500.0 from pot
 *** SUMMARY ***
 Total pot 500 | Rake 0
 Board [9d 4d Td 4h]
+
 
 PokerStars Hand #50156: Hold'em No Limit (50/100) - 2019/07/11 13:55:56 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -1879,6 +1928,9 @@ MrBlue collected 2024.0 from pot
 *** SUMMARY ***
 Total pot 2024 | Rake 0
 Board [8s 6c 5d 9h 2c]
+Seat 2: MrBlue showed [7s Qs] and won (2024.0)
+Seat 4: Eddie showed [8h Kh] and lost
+
 
 PokerStars Hand #50157: Hold'em No Limit (50/100) - 2019/07/11 13:55:57 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -1921,6 +1973,10 @@ Bill collected 675.0 from pot
 *** SUMMARY ***
 Total pot 675 | Rake 0
 Board [9s As 6d 5c Ah]
+Seat 1: MrBlue showed [Th Kc] and lost
+Seat 2: MrBlonde showed [Qd Jc] and lost
+Seat 4: Bill showed [Qc Kd] and won (675.0)
+
 
 PokerStars Hand #50158: Hold'em No Limit (50/100) - 2019/07/11 13:55:58 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -2015,6 +2071,7 @@ Pluribus collected 494.0 from pot
 *** SUMMARY ***
 Total pot 494 | Rake 0
 Board [9d Th 4c 2d]
+
 
 PokerStars Hand #50161: Hold'em No Limit (50/100) - 2019/07/11 13:56:01 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -2139,6 +2196,7 @@ Eddie collected 830.0 from pot
 Total pot 830 | Rake 0
 Board [8c 4d 9h 2c]
 
+
 PokerStars Hand #50165: Hold'em No Limit (50/100) - 2019/07/11 13:56:05 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
@@ -2179,6 +2237,9 @@ MrBlue collected 5200.0 from pot
 *** SUMMARY ***
 Total pot 5200 | Rake 0
 Board [2c Jh Ac 9h 4c]
+Seat 5: MrBlue showed [As 9s] and won (5200.0)
+Seat 6: MrBlonde showed [Ts Qs] and lost
+
 
 PokerStars Hand #50166: Hold'em No Limit (50/100) - 2019/07/11 13:56:06 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -2275,6 +2336,7 @@ MrOrange collected 700.0 from pot
 Total pot 700 | Rake 0
 Board [3h Tc 8d 7d]
 
+
 PokerStars Hand #50169: Hold'em No Limit (50/100) - 2019/07/11 13:56:09 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
@@ -2310,6 +2372,7 @@ Pluribus collected 1200.0 from pot
 *** SUMMARY ***
 Total pot 1200 | Rake 0
 Board [As 6c 3s 7h]
+
 
 PokerStars Hand #50170: Hold'em No Limit (50/100) - 2019/07/11 13:56:10 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -2435,6 +2498,7 @@ MrOrange collected 2700.0 from pot
 Total pot 2700 | Rake 0
 Board [Js Kd 3c 6d]
 
+
 PokerStars Hand #50174: Hold'em No Limit (50/100) - 2019/07/11 13:56:14 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrOrange (10000 in chips)
@@ -2471,6 +2535,7 @@ Bill collected 500.0 from pot
 Total pot 500 | Rake 0
 Board [8h Td Jh 7d]
 
+
 PokerStars Hand #50175: Hold'em No Limit (50/100) - 2019/07/11 13:56:15 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
@@ -2503,14 +2568,17 @@ MrOrange: checks
 MrBlue: checks
 MrOrange: checks
 *** RIVER *** [Qc 7h Jd] [Jc] [5h]
-MrBlue: bets 7645
-MrOrange: calls 7645
+MrBlue: bets 7645 and is all-in
+MrOrange: calls 7645 and is all-in
 *** SHOWDOWN ***
 MrOrange: shows [Jh Kc]
 MrOrange collected 20100.0 from pot
 *** SUMMARY ***
 Total pot 20100 | Rake 0
 Board [Qc 7h Jd Jc 5h]
+Seat 1: MrBlue showed [8s 9s] and lost
+Seat 6: MrOrange showed [Jh Kc] and won (20100.0)
+
 
 PokerStars Hand #50176: Hold'em No Limit (50/100) - 2019/07/11 13:56:16 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -2579,6 +2647,7 @@ MrBlonde collected 560.0 from pot
 *** SUMMARY ***
 Total pot 560 | Rake 0
 Board [6d Ad Qs As 4c]
+
 
 PokerStars Hand #50178: Hold'em No Limit (50/100) - 2019/07/11 13:56:18 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -2649,6 +2718,9 @@ Eddie collected 926.0 from pot
 *** SUMMARY ***
 Total pot 926 | Rake 0
 Board [7h Kc 2d Qc 9h]
+Seat 5: Eddie showed [8d 8c] and won (926.0)
+Seat 6: Bill showed [6s 7s] and lost
+
 
 PokerStars Hand #50180: Hold'em No Limit (50/100) - 2019/07/11 13:56:20 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -2740,6 +2812,7 @@ MrBlue collected 550.0 from pot
 Total pot 550 | Rake 0
 Board [4c Th Kh]
 
+
 PokerStars Hand #50183: Hold'em No Limit (50/100) - 2019/07/11 13:56:23 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
@@ -2778,6 +2851,9 @@ Bill collected 300.0 from pot
 *** SUMMARY ***
 Total pot 600 | Rake 0
 Board [Kc Jh 8c 8d 3c]
+Seat 1: Eddie showed [Ah 6d] and lost
+Seat 2: Bill showed [7c As] and lost
+
 
 PokerStars Hand #50184: Hold'em No Limit (50/100) - 2019/07/11 13:56:24 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -2817,6 +2893,7 @@ MrBlue collected 2900.0 from pot
 Total pot 2900 | Rake 0
 Board [8d Ah 7h 2d]
 
+
 PokerStars Hand #50185: Hold'em No Limit (50/100) - 2019/07/11 13:56:25 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
@@ -2849,6 +2926,7 @@ Eddie collected 450.0 from pot
 *** SUMMARY ***
 Total pot 450 | Rake 0
 Board [Js 3s Jh]
+
 
 PokerStars Hand #50186: Hold'em No Limit (50/100) - 2019/07/11 13:56:26 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -2883,6 +2961,7 @@ Bill collected 500.0 from pot
 Total pot 500 | Rake 0
 Board [Kc 3d 6h]
 
+
 PokerStars Hand #50187: Hold'em No Limit (50/100) - 2019/07/11 13:56:27 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
@@ -2905,7 +2984,7 @@ Bill: folds
 Pluribus: folds
 MrOrange: folds
 MrBlue: calls 50
-MrBlonde: calls 0
+MrBlonde: checks
 *** FLOP *** [9d 6h Ac]
 MrBlue: checks
 MrBlonde: checks
@@ -2921,6 +3000,9 @@ MrBlue collected 200.0 from pot
 *** SUMMARY ***
 Total pot 200 | Rake 0
 Board [9d 6h Ac 4h 9s]
+Seat 1: MrBlue showed [3s 3h] and won (200.0)
+Seat 2: MrBlonde showed [8d 2s] and lost
+
 
 PokerStars Hand #50188: Hold'em No Limit (50/100) - 2019/07/11 13:56:28 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -3013,6 +3095,7 @@ MrBlonde collected 560.0 from pot
 Total pot 560 | Rake 0
 Board [6h 9d 5h]
 
+
 PokerStars Hand #50191: Hold'em No Limit (50/100) - 2019/07/11 13:56:31 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
@@ -3054,6 +3137,9 @@ Eddie collected 425.0 from pot
 *** SUMMARY ***
 Total pot 850 | Rake 0
 Board [5s Kc Qh 2d 2c]
+Seat 3: MrBlue showed [Ad 8d] and won (425.0)
+Seat 5: Eddie showed [Ac Js] and won (425.0)
+
 
 PokerStars Hand #50192: Hold'em No Limit (50/100) - 2019/07/11 13:56:32 ET
 Table 'Pluribus Session 50' 6-max (Play Money) Seat #6 is the button
@@ -3078,7 +3164,7 @@ Bill: raises 425 to 625
 Pluribus: folds
 MrOrange: folds
 MrBlue: raises 1075 to 1700
-Eddie: raises 8300 to 10000
+Eddie: raises 8300 to 10000 and is all-in
 Bill: folds
 MrBlue: folds
 Uncalled bet (8300) returned to Eddie

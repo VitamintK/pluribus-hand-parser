@@ -89,7 +89,8 @@ class Hand:
             marginal_amount = self._parse_max_money_in_pot - prev_amount
         elif action_type in ['ch']:
             pass
-        self.actions[self._parse_cur_street].append(Action(self.player_ids[player_seat], action_type, total_amount, marginal_amount))
+        is_all_in = self._parse_money_in_pot[player_seat] == 10000
+        self.actions[self._parse_cur_street].append(Action(self.player_ids[player_seat], action_type, total_amount, marginal_amount, is_all_in))
         if action_type == 'ca':
             self.uncalled_amount = 0
         elif marginal_amount:
@@ -126,7 +127,7 @@ class Hand:
         self.uncalled_amount = None
 
         # start build actions ###############################
-        players_active = [1 for i in self.player_ids]
+        self.players_active = [1 for i in self.player_ids]
         self._parse_max_money_in_pot_after_last_round = 0
         self._parse_cur_street = 0
         self._parse_max_money_in_pot = 0
@@ -144,7 +145,7 @@ class Hand:
             actions_for_street = []
             actions_for_street_string = Hand.get_action_groups(street)
             for action in actions_for_street_string:
-                while not players_active[cur_player]:
+                while not self.players_active[cur_player]:
                     cur_player = (cur_player +1)%6
                 action_type = action[0]
                 amount = None
@@ -156,9 +157,9 @@ class Hand:
                         action_type = 'r'
                     can_check = False
                 elif action_type == 'f':
-                    players_active[cur_player] = 0
+                    self.players_active[cur_player] = 0
                 elif action_type == 'c':
-                    if can_check:
+                    if can_check or (self._parse_cur_street == 1 and cur_player == 1 and self._parse_max_money_in_pot == 100):
                         action_type = 'ch'
                     else:
                         action_type = 'ca'
@@ -200,9 +201,12 @@ class Hand:
                 for action in self.actions[street_no+2]:
                     hh += action.get_poker_stars_str() + '\n'
         if len(self.community_cards_by_street) == 3 and self.actions[-1][-1].action_type in ['ca', 'ch']:
+            saw_showdown = True
             hh += "*** SHOWDOWN ***\n"
             for player_no in self.winners:
                 hh += "{}: shows {}\n".format(self.player_ids[player_no], self.player_hole_cards[player_no].get_poker_stars_str())
+        else:
+            saw_showdown = False
         for player_no in self.winners:
             player_id = self.player_ids[player_no]
             if self.uncalled_amount:
@@ -216,23 +220,36 @@ class Hand:
         hh += "*** SUMMARY ***\n"
         hh += "Total pot {} | Rake 0\n".format(self.pot)
         if len(self.community_cards_by_street) > 0:
-            hh += "Board {}".format(sum(self.community_cards_by_street, Cards('')).get_poker_stars_str())
-        # for seat, player_id in enumerate(self.player_ids):
-        #     hh += "Seat {}: {}"
+            hh += "Board {}\n".format(sum(self.community_cards_by_street, Cards('')).get_poker_stars_str())
+        for seat, player_id in enumerate(self.player_ids):
+            # HACK: pokerstars actually also includes type of hand e.g. "Hero: shows [Jd Ac] (a pair of Fives - lower kicker)"
+            # but poker tracker doesn't seem to actually need this info, so I leave it out.
+            if saw_showdown and self.players_active[seat]:
+                winloss_string = "won ({})".format(self.pot/len(self.winners)) if self.profits[seat] > 0 else "lost"
+                hh += "Seat {}: {} showed {} and {}\n".format(seat+1, player_id, self.player_hole_cards[seat].get_poker_stars_str(), winloss_string)
+            # TODO: add Seat {}: {} strings for folding
         return hh
 
-class Action(namedtuple('Action', ['player_id', 'action_type', 'amount', 'marginal_amount'], defaults=[None, None])):
-    __slots__ = ()
+class Action:
+    def __init__(self, player_id, action_type, amount=None, marginal_amount=None, is_all_in=False):
+        self.player_id = player_id
+        self.action_type = action_type
+        self.amount = amount
+        self.marginal_amount = marginal_amount
+        self.is_all_in = is_all_in
     def get_poker_stars_str(self):
         action_type_to_string = {'b': 'bets', 'f': 'folds', 'ca': 'calls', 'ch': 'checks', 'r': 'raises', 'sb': 'posts small blind', 'bb': 'posts big blind'}
         if self.action_type == 'r':
-            return "{}: {} {} to {}".format(self.player_id, action_type_to_string[self.action_type], self.marginal_amount, self.amount)
+            ans = "{}: {} {} to {}".format(self.player_id, action_type_to_string[self.action_type], self.marginal_amount, self.amount)
         elif self.action_type in ['sb', 'bb', 'b']:
-            return "{}: {} {}".format(self.player_id, action_type_to_string[self.action_type], self.amount)
+            ans = "{}: {} {}".format(self.player_id, action_type_to_string[self.action_type], self.amount)
         elif self.action_type in ['ca']:
-            return "{}: {} {}".format(self.player_id, action_type_to_string[self.action_type], self.marginal_amount)
+            ans = "{}: {} {}".format(self.player_id, action_type_to_string[self.action_type], self.marginal_amount)
         else:
-            return "{}: {}".format(self.player_id, action_type_to_string[self.action_type])
+            ans = "{}: {}".format(self.player_id, action_type_to_string[self.action_type])
+        if self.is_all_in:
+            ans += " and is all-in"
+        return ans
 
 class Cards:
     def __init__(self, cards_string):
@@ -276,8 +293,8 @@ if __name__ == '__main__':
     # print(hands.get_poker_stars_str())
 
     # reading the whole directory, converting all sessions, and saving the converted sessions to disk:
-    # sessions = read_directory('./../../Downloads/5H1AI_logs')
-    # sessions.save('out')
+    sessions = read_directory('./../../../Downloads/aay2400_Data_File_S1/5H1AI_logs')
+    sessions.save('out')
 
     # get pluribus's unadjusted total net chips
     # sessions = read_directory('./../../Downloads/5H1AI_logs')

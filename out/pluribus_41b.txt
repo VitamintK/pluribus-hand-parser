@@ -63,6 +63,7 @@ Pluribus collected 900.0 from pot
 Total pot 900 | Rake 0
 Board [4h 8s Ks 7s]
 
+
 PokerStars Hand #41116: Hold'em No Limit (50/100) - 2019/07/11 11:25:16 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
@@ -97,6 +98,7 @@ ORen collected 600.0 from pot
 *** SUMMARY ***
 Total pot 600 | Rake 0
 Board [Ad 8c 4d]
+
 
 PokerStars Hand #41117: Hold'em No Limit (50/100) - 2019/07/11 11:25:17 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -164,6 +166,7 @@ MrBlue collected 500.0 from pot
 *** SUMMARY ***
 Total pot 500 | Rake 0
 Board [Kc 6h Qd 7s Qc]
+
 
 PokerStars Hand #41119: Hold'em No Limit (50/100) - 2019/07/11 11:25:19 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -263,6 +266,9 @@ MrBlue collected 2500.0 from pot
 *** SUMMARY ***
 Total pot 2500 | Rake 0
 Board [Qh 5d 7s Jd 8d]
+Seat 2: MrBlue showed [Kc Qc] and won (2500.0)
+Seat 3: Bill showed [9h Ah] and lost
+
 
 PokerStars Hand #41122: Hold'em No Limit (50/100) - 2019/07/11 11:25:22 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -286,7 +292,7 @@ Pluribus: folds
 ORen: folds
 Hattori: folds
 MrBlue: calls 50
-Bill: calls 0
+Bill: checks
 *** FLOP *** [Qs 3h 5c]
 MrBlue: checks
 Bill: bets 100
@@ -302,6 +308,7 @@ MrBlue collected 400.0 from pot
 *** SUMMARY ***
 Total pot 400 | Rake 0
 Board [Qs 3h 5c 7h 5s]
+
 
 PokerStars Hand #41123: Hold'em No Limit (50/100) - 2019/07/11 11:25:23 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -344,6 +351,9 @@ ORen collected 1850.0 from pot
 *** SUMMARY ***
 Total pot 1850 | Rake 0
 Board [Jc 9s As 6c 8d]
+Seat 4: ORen showed [Ah Tc] and won (1850.0)
+Seat 6: MrBlue showed [Ac 4c] and lost
+
 
 PokerStars Hand #41124: Hold'em No Limit (50/100) - 2019/07/11 11:25:24 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -380,6 +390,7 @@ Pluribus collected 600.0 from pot
 *** SUMMARY ***
 Total pot 600 | Rake 0
 Board [6c Qc 9c 2s]
+
 
 PokerStars Hand #41125: Hold'em No Limit (50/100) - 2019/07/11 11:25:25 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -477,6 +488,9 @@ MrBlue collected 450.0 from pot
 *** SUMMARY ***
 Total pot 450 | Rake 0
 Board [4c Ad 4d 2c 7c]
+Seat 2: MrBlue showed [2s 5s] and won (450.0)
+Seat 4: MrOrange showed [Kh Qc] and lost
+
 
 PokerStars Hand #41128: Hold'em No Limit (50/100) - 2019/07/11 11:25:28 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -543,6 +557,7 @@ Pluribus collected 450.0 from pot
 *** SUMMARY ***
 Total pot 450 | Rake 0
 Board [5h Qd 5d Jc]
+
 
 PokerStars Hand #41130: Hold'em No Limit (50/100) - 2019/07/11 11:25:30 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -638,6 +653,7 @@ ORen collected 900.0 from pot
 Total pot 900 | Rake 0
 Board [Ad Ks 4h 3s]
 
+
 PokerStars Hand #41133: Hold'em No Limit (50/100) - 2019/07/11 11:25:33 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
 Seat 1: Hattori (10000 in chips)
@@ -707,6 +723,9 @@ Bill collected 3000.0 from pot
 *** SUMMARY ***
 Total pot 3000 | Rake 0
 Board [Kd 3c 9d 5c 7h]
+Seat 1: MrBlue showed [As 9s] and lost
+Seat 2: Bill showed [Jd Ks] and won (3000.0)
+
 
 PokerStars Hand #41135: Hold'em No Limit (50/100) - 2019/07/11 11:25:35 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -854,13 +873,14 @@ Pluribus: calls 863
 *** TURN *** [8s Td 4c] [5h]
 MrOrange: bets 100
 Pluribus: raises 2337 to 2437
-MrOrange: raises 5401 to 7838
+MrOrange: raises 5401 to 7838 and is all-in
 Pluribus: folds
 Uncalled bet (5401) returned to MrOrange
 MrOrange collected 9348.0 from pot
 *** SUMMARY ***
 Total pot 9348 | Rake 0
 Board [8s Td 4c 5h]
+
 
 PokerStars Hand #41140: Hold'em No Limit (50/100) - 2019/07/11 11:25:40 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -988,6 +1008,7 @@ MrOrange collected 980.0 from pot
 Total pot 980 | Rake 0
 Board [Kd Th 2h 7d]
 
+
 PokerStars Hand #41144: Hold'em No Limit (50/100) - 2019/07/11 11:25:44 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
 Seat 1: ORen (10000 in chips)
@@ -1038,7 +1059,7 @@ MrOrange: folds
 Pluribus: folds
 ORen: folds
 Hattori: calls 50
-MrBlue: calls 0
+MrBlue: checks
 *** FLOP *** [Kh 5d 7h]
 Hattori: checks
 MrBlue: bets 100
@@ -1056,6 +1077,7 @@ Hattori collected 3000.0 from pot
 *** SUMMARY ***
 Total pot 3000 | Rake 0
 Board [Kh 5d 7h Qh 2h]
+
 
 PokerStars Hand #41146: Hold'em No Limit (50/100) - 2019/07/11 11:25:46 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -1128,6 +1150,7 @@ Hattori collected 650.0 from pot
 *** SUMMARY ***
 Total pot 650 | Rake 0
 Board [Js 9c Ah Qh 8s]
+
 
 PokerStars Hand #41148: Hold'em No Limit (50/100) - 2019/07/11 11:25:48 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -1223,6 +1246,7 @@ Pluribus collected 3300.0 from pot
 Total pot 3300 | Rake 0
 Board [Kh Ad 3c]
 
+
 PokerStars Hand #41151: Hold'em No Limit (50/100) - 2019/07/11 11:25:51 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
 Seat 1: Hattori (10000 in chips)
@@ -1262,6 +1286,7 @@ ORen collected 650.0 from pot
 Total pot 650 | Rake 0
 Board [5h 9d 7h 9s]
 
+
 PokerStars Hand #41152: Hold'em No Limit (50/100) - 2019/07/11 11:25:52 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
@@ -1295,6 +1320,7 @@ Hattori collected 1690.0 from pot
 *** SUMMARY ***
 Total pot 1690 | Rake 0
 Board [6h 5s 6c]
+
 
 PokerStars Hand #41153: Hold'em No Limit (50/100) - 2019/07/11 11:25:53 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -1336,6 +1362,7 @@ MrBlue collected 1250.0 from pot
 Total pot 1250 | Rake 0
 Board [Tc Qh Js Ks Th]
 
+
 PokerStars Hand #41154: Hold'em No Limit (50/100) - 2019/07/11 11:25:54 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrOrange (10000 in chips)
@@ -1375,6 +1402,9 @@ Pluribus collected 2750.0 from pot
 *** SUMMARY ***
 Total pot 2750 | Rake 0
 Board [7h 7s 4c Ts 5c]
+Seat 2: Pluribus showed [Qd Ac] and won (2750.0)
+Seat 6: Bill showed [Ah 8h] and lost
+
 
 PokerStars Hand #41155: Hold'em No Limit (50/100) - 2019/07/11 11:25:55 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -1414,6 +1444,9 @@ Hattori collected 7450.0 from pot
 *** SUMMARY ***
 Total pot 7450 | Rake 0
 Board [7s Tc As 8c 7d]
+Seat 2: ORen showed [Kh Js] and lost
+Seat 3: Hattori showed [9h Th] and won (7450.0)
+
 
 PokerStars Hand #41156: Hold'em No Limit (50/100) - 2019/07/11 11:25:56 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -1481,6 +1514,7 @@ Bill collected 1250.0 from pot
 Total pot 1250 | Rake 0
 Board [4d 9s Th 2c]
 
+
 PokerStars Hand #41158: Hold'em No Limit (50/100) - 2019/07/11 11:25:58 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
@@ -1522,6 +1556,10 @@ MrOrange collected 700.0 from pot
 *** SUMMARY ***
 Total pot 700 | Rake 0
 Board [Qc As Qh 8c Td]
+Seat 1: MrBlue showed [Kd Ts] and lost
+Seat 3: MrOrange showed [6h Ah] and won (700.0)
+Seat 5: ORen showed [2h 2c] and lost
+
 
 PokerStars Hand #41159: Hold'em No Limit (50/100) - 2019/07/11 11:25:59 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -1562,6 +1600,9 @@ Bill collected 5400.0 from pot
 *** SUMMARY ***
 Total pot 5400 | Rake 0
 Board [6s Ah Ad 2s Kh]
+Seat 1: Bill showed [Ts Tc] and won (5400.0)
+Seat 4: ORen showed [8d 8h] and lost
+
 
 PokerStars Hand #41160: Hold'em No Limit (50/100) - 2019/07/11 11:26:00 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -1601,6 +1642,7 @@ Pluribus collected 500.0 from pot
 Total pot 500 | Rake 0
 Board [Jc 2c Kc 5c 8s]
 
+
 PokerStars Hand #41161: Hold'em No Limit (50/100) - 2019/07/11 11:26:01 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
 Seat 1: Pluribus (10000 in chips)
@@ -1633,6 +1675,7 @@ Bill collected 500.0 from pot
 *** SUMMARY ***
 Total pot 500 | Rake 0
 Board [Jc 3s 7s]
+
 
 PokerStars Hand #41162: Hold'em No Limit (50/100) - 2019/07/11 11:26:02 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -1670,6 +1713,7 @@ MrBlue collected 1000.0 from pot
 *** SUMMARY ***
 Total pot 1000 | Rake 0
 Board [9d 4h Qc Kd]
+
 
 PokerStars Hand #41163: Hold'em No Limit (50/100) - 2019/07/11 11:26:03 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -1739,6 +1783,7 @@ Pluribus collected 1350.0 from pot
 *** SUMMARY ***
 Total pot 1350 | Rake 0
 Board [Qd 8h 8c Qc 2h]
+
 
 PokerStars Hand #41165: Hold'em No Limit (50/100) - 2019/07/11 11:26:05 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -1830,6 +1875,7 @@ ORen collected 1000.0 from pot
 *** SUMMARY ***
 Total pot 1000 | Rake 0
 Board [7s 6c 7h]
+
 
 PokerStars Hand #41168: Hold'em No Limit (50/100) - 2019/07/11 11:26:08 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -2011,14 +2057,17 @@ Pluribus: checks
 ORen: checks
 *** RIVER *** [2s 5s 5c] [7s] [Ks]
 Pluribus: checks
-ORen: bets 7100
-Pluribus: calls 7100
+ORen: bets 7100 and is all-in
+Pluribus: calls 7100 and is all-in
 *** SHOWDOWN ***
 Pluribus: shows [7c 7h]
 Pluribus collected 21400.0 from pot
 *** SUMMARY ***
 Total pot 21400 | Rake 0
 Board [2s 5s 5c 7s Ks]
+Seat 1: Pluribus showed [7c 7h] and won (21400.0)
+Seat 2: ORen showed [Qs Qh] and lost
+
 
 PokerStars Hand #41174: Hold'em No Limit (50/100) - 2019/07/11 11:26:14 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -2086,6 +2135,7 @@ ORen collected 1250.0 from pot
 Total pot 1250 | Rake 0
 Board [Qs 4h Ts 5c]
 
+
 PokerStars Hand #41176: Hold'em No Limit (50/100) - 2019/07/11 11:26:16 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
@@ -2124,6 +2174,9 @@ MrOrange collected 1250.0 from pot
 *** SUMMARY ***
 Total pot 1250 | Rake 0
 Board [9c 6h 8d Ah 5d]
+Seat 1: MrBlue showed [4s 3s] and lost
+Seat 3: MrOrange showed [Qd Ad] and won (1250.0)
+
 
 PokerStars Hand #41177: Hold'em No Limit (50/100) - 2019/07/11 11:26:17 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -2154,8 +2207,8 @@ Bill: bets 900
 Hattori: calls 900
 *** TURN *** [4h 7d 6d] [Ts]
 Bill: bets 2400
-Hattori: raises 5850 to 8250
-Bill: calls 5850
+Hattori: raises 5850 to 8250 and is all-in
+Bill: calls 5850 and is all-in
 *** RIVER *** [4h 7d 6d] [Ts] [4d]
 *** SHOWDOWN ***
 Hattori: shows [7h 7s]
@@ -2163,6 +2216,9 @@ Hattori collected 20100.0 from pot
 *** SUMMARY ***
 Total pot 20100 | Rake 0
 Board [4h 7d 6d Ts 4d]
+Seat 1: Bill showed [9h 8h] and lost
+Seat 5: Hattori showed [7h 7s] and won (20100.0)
+
 
 PokerStars Hand #41178: Hold'em No Limit (50/100) - 2019/07/11 11:26:18 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -2200,6 +2256,7 @@ Bill collected 1100.0 from pot
 *** SUMMARY ***
 Total pot 1100 | Rake 0
 Board [Qc 6h 7h Jd]
+
 
 PokerStars Hand #41179: Hold'em No Limit (50/100) - 2019/07/11 11:26:19 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -2241,6 +2298,9 @@ ORen collected 3000.0 from pot
 *** SUMMARY ***
 Total pot 3000 | Rake 0
 Board [6s 4h 6c Ad Td]
+Seat 2: ORen showed [7c 6h] and won (3000.0)
+Seat 5: Bill showed [8h Ah] and lost
+
 
 PokerStars Hand #41180: Hold'em No Limit (50/100) - 2019/07/11 11:26:20 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -2280,6 +2340,9 @@ ORen collected 1250.0 from pot
 *** SUMMARY ***
 Total pot 1250 | Rake 0
 Board [8s 3c 2h Kc Tc]
+Seat 1: ORen showed [Jd Jh] and won (1250.0)
+Seat 3: MrBlue showed [6c 6h] and lost
+
 
 PokerStars Hand #41181: Hold'em No Limit (50/100) - 2019/07/11 11:26:21 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -2319,6 +2382,9 @@ Bill collected 900.0 from pot
 *** SUMMARY ***
 Total pot 900 | Rake 0
 Board [5s 4s 7d Js 2d]
+Seat 2: MrBlue showed [Td 9h] and lost
+Seat 3: Bill showed [4c Ac] and won (900.0)
+
 
 PokerStars Hand #41182: Hold'em No Limit (50/100) - 2019/07/11 11:26:22 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -2359,6 +2425,9 @@ Pluribus collected 3600.0 from pot
 *** SUMMARY ***
 Total pot 3600 | Rake 0
 Board [4h Jc 3s 3d Jd]
+Seat 2: Bill showed [8s 8h] and lost
+Seat 4: Pluribus showed [Js Kc] and won (3600.0)
+
 
 PokerStars Hand #41183: Hold'em No Limit (50/100) - 2019/07/11 11:26:23 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -2451,6 +2520,7 @@ MrOrange collected 450.0 from pot
 Total pot 450 | Rake 0
 Board [Qd Tc 6c]
 
+
 PokerStars Hand #41186: Hold'em No Limit (50/100) - 2019/07/11 11:26:26 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
 Seat 1: ORen (10000 in chips)
@@ -2491,6 +2561,9 @@ MrBlue collected 1225.0 from pot
 *** SUMMARY ***
 Total pot 1225 | Rake 0
 Board [3h 5d 8s 2c Js]
+Seat 2: Hattori showed [Qc 8c] and lost
+Seat 3: MrBlue showed [8d Kd] and won (1225.0)
+
 
 PokerStars Hand #41187: Hold'em No Limit (50/100) - 2019/07/11 11:26:27 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -2532,6 +2605,9 @@ MrBlue collected 3700.0 from pot
 *** SUMMARY ***
 Total pot 3700 | Rake 0
 Board [5h 8h 6s Kc Ah]
+Seat 2: MrBlue showed [Jh 4h] and won (3700.0)
+Seat 5: Pluribus showed [Ad Td] and lost
+
 
 PokerStars Hand #41188: Hold'em No Limit (50/100) - 2019/07/11 11:26:28 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -2575,6 +2651,7 @@ MrBlue collected 2811.0 from pot
 Total pot 2811 | Rake 0
 Board [5d Qd 4d Qh 2h]
 
+
 PokerStars Hand #41189: Hold'em No Limit (50/100) - 2019/07/11 11:26:29 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
@@ -2610,6 +2687,7 @@ MrOrange collected 600.0 from pot
 *** SUMMARY ***
 Total pot 600 | Rake 0
 Board [6h 3d 3c 5h]
+
 
 PokerStars Hand #41190: Hold'em No Limit (50/100) - 2019/07/11 11:26:30 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -2662,7 +2740,7 @@ MrBlue: folds
 Bill: folds
 MrOrange: folds
 Pluribus: calls 50
-ORen: calls 0
+ORen: checks
 *** FLOP *** [8c 6d Td]
 Pluribus: bets 100
 ORen: folds
@@ -2671,6 +2749,7 @@ Pluribus collected 200.0 from pot
 *** SUMMARY ***
 Total pot 200 | Rake 0
 Board [8c 6d Td]
+
 
 PokerStars Hand #41192: Hold'em No Limit (50/100) - 2019/07/11 11:26:32 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -2704,6 +2783,7 @@ Bill collected 500.0 from pot
 *** SUMMARY ***
 Total pot 500 | Rake 0
 Board [Ks Qs Td]
+
 
 PokerStars Hand #41193: Hold'em No Limit (50/100) - 2019/07/11 11:26:33 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -2739,13 +2819,14 @@ MrBlue: calls 850
 *** RIVER *** [Js 9h Qc] [4c] [3d]
 MrBlue: checks
 MrOrange: bets 2250
-MrBlue: raises 6375 to 8625
+MrBlue: raises 6375 to 8625 and is all-in
 MrOrange: folds
 Uncalled bet (6375) returned to MrBlue
 MrBlue collected 7300.0 from pot
 *** SUMMARY ***
 Total pot 7300 | Rake 0
 Board [Js 9h Qc 4c 3d]
+
 
 PokerStars Hand #41194: Hold'em No Limit (50/100) - 2019/07/11 11:26:34 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -2785,6 +2866,9 @@ MrBlue collected 3960.0 from pot
 *** SUMMARY ***
 Total pot 3960 | Rake 0
 Board [8h 4s 2s Js 4h]
+Seat 1: MrBlue showed [8c Ac] and won (3960.0)
+Seat 2: Bill showed [9h 8s] and lost
+
 
 PokerStars Hand #41195: Hold'em No Limit (50/100) - 2019/07/11 11:26:35 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -2827,6 +2911,9 @@ Pluribus collected 6560.0 from pot
 *** SUMMARY ***
 Total pot 6560 | Rake 0
 Board [Ks 8c 4c 6d Qh]
+Seat 1: Bill showed [Ts Tc] and lost
+Seat 3: Pluribus showed [Jh Kh] and won (6560.0)
+
 
 PokerStars Hand #41196: Hold'em No Limit (50/100) - 2019/07/11 11:26:36 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -2891,6 +2978,7 @@ MrOrange collected 450.0 from pot
 Total pot 450 | Rake 0
 Board [Qc 2d Td]
 
+
 PokerStars Hand #41198: Hold'em No Limit (50/100) - 2019/07/11 11:26:38 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
 Seat 1: ORen (10000 in chips)
@@ -2930,6 +3018,9 @@ ORen collected 1700.0 from pot
 *** SUMMARY ***
 Total pot 1700 | Rake 0
 Board [3h Ac Ad 9h Qd]
+Seat 1: ORen showed [Ts Ah] and won (1700.0)
+Seat 6: Pluribus showed [Jd Js] and lost
+
 
 PokerStars Hand #41199: Hold'em No Limit (50/100) - 2019/07/11 11:26:39 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -2953,7 +3044,7 @@ MrOrange: folds
 Pluribus: folds
 ORen: folds
 Hattori: calls 50
-MrBlue: calls 0
+MrBlue: checks
 *** FLOP *** [9d 9s Kc]
 Hattori: bets 100
 MrBlue: calls 100
@@ -2968,6 +3059,7 @@ Hattori collected 400.0 from pot
 *** SUMMARY ***
 Total pot 400 | Rake 0
 Board [9d 9s Kc 5d 8h]
+
 
 PokerStars Hand #41200: Hold'em No Limit (50/100) - 2019/07/11 11:26:40 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -3035,6 +3127,7 @@ Pluribus collected 824.0 from pot
 *** SUMMARY ***
 Total pot 824 | Rake 0
 Board [Kd Kh 9h 4s 7d]
+
 
 PokerStars Hand #41202: Hold'em No Limit (50/100) - 2019/07/11 11:26:42 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -3108,6 +3201,7 @@ MrOrange collected 2400.0 from pot
 Total pot 2400 | Rake 0
 Board [Kh Ts Qd 4h 7c]
 
+
 PokerStars Hand #41204: Hold'em No Limit (50/100) - 2019/07/11 11:26:44 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
 Seat 1: ORen (10000 in chips)
@@ -3150,6 +3244,9 @@ Bill collected 3949.5 from pot
 *** SUMMARY ***
 Total pot 7899 | Rake 0
 Board [Ac Kd 6h Qc 3c]
+Seat 1: ORen showed [Ks Qs] and won (3949.5)
+Seat 4: Bill showed [Qh Kh] and won (3949.5)
+
 
 PokerStars Hand #41205: Hold'em No Limit (50/100) - 2019/07/11 11:26:45 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -3215,6 +3312,7 @@ Pluribus collected 1100.0 from pot
 *** SUMMARY ***
 Total pot 1100 | Rake 0
 Board [8s 7c 9h 4h]
+
 
 PokerStars Hand #41207: Hold'em No Limit (50/100) - 2019/07/11 11:26:47 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -3284,6 +3382,9 @@ MrOrange collected 3200.0 from pot
 *** SUMMARY ***
 Total pot 3200 | Rake 0
 Board [4s Qh 6c As Js]
+Seat 1: MrOrange showed [6s Ad] and won (3200.0)
+Seat 2: Pluribus showed [8c Ac] and lost
+
 
 PokerStars Hand #41209: Hold'em No Limit (50/100) - 2019/07/11 11:26:49 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -3349,6 +3450,7 @@ Bill collected 1100.0 from pot
 *** SUMMARY ***
 Total pot 1100 | Rake 0
 Board [3d 2s 8c Qd]
+
 
 PokerStars Hand #41211: Hold'em No Limit (50/100) - 2019/07/11 11:26:51 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -3490,7 +3592,7 @@ MrBlue: folds
 Bill: folds
 MrOrange: folds
 Pluribus: calls 50
-ORen: calls 0
+ORen: checks
 *** FLOP *** [Kd 3d Jc]
 Pluribus: bets 200
 ORen: calls 200
@@ -3503,6 +3605,7 @@ ORen collected 1200.0 from pot
 *** SUMMARY ***
 Total pot 1200 | Rake 0
 Board [Kd 3d Jc 6h]
+
 
 PokerStars Hand #41216: Hold'em No Limit (50/100) - 2019/07/11 11:26:56 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -3568,6 +3671,7 @@ ORen collected 600.0 from pot
 Total pot 600 | Rake 0
 Board [Qh Td Jh]
 
+
 PokerStars Hand #41218: Hold'em No Limit (50/100) - 2019/07/11 11:26:58 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrBlue (10000 in chips)
@@ -3590,7 +3694,7 @@ Pluribus: folds
 ORen: folds
 Hattori: folds
 MrBlue: calls 50
-Bill: calls 0
+Bill: checks
 *** FLOP *** [9c 6h Jd]
 MrBlue: checks
 Bill: bets 150
@@ -3600,6 +3704,7 @@ Bill collected 200.0 from pot
 *** SUMMARY ***
 Total pot 200 | Rake 0
 Board [9c 6h Jd]
+
 
 PokerStars Hand #41219: Hold'em No Limit (50/100) - 2019/07/11 11:26:59 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -3670,6 +3775,9 @@ MrBlue collected 1200.0 from pot
 *** SUMMARY ***
 Total pot 1200 | Rake 0
 Board [7d 6c Tc Kh 9s]
+Seat 5: MrBlue showed [Qs Ts] and won (1200.0)
+Seat 6: Bill showed [7c 5c] and lost
+
 
 PokerStars Hand #41221: Hold'em No Limit (50/100) - 2019/07/11 11:27:01 ET
 Table 'Pluribus Session 41' 6-max (Play Money) Seat #6 is the button
@@ -3731,11 +3839,13 @@ Pluribus: calls 800
 Hattori: bets 1450
 Pluribus: calls 1450
 *** RIVER *** [9h Ad As] [3s] [Ts]
-Hattori: bets 6400
-Pluribus: calls 6400
+Hattori: bets 6400 and is all-in
+Pluribus: calls 6400 and is all-in
 *** SHOWDOWN ***
 Pluribus: shows [Th Tc]
 Pluribus collected 20050.0 from pot
 *** SUMMARY ***
 Total pot 20050 | Rake 0
 Board [9h Ad As 3s Ts]
+Seat 2: Hattori showed [Ac Qs] and lost
+Seat 6: Pluribus showed [Th Tc] and won (20050.0)

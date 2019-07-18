@@ -37,6 +37,9 @@ Pluribus collected 1000.0 from pot
 *** SUMMARY ***
 Total pot 1000 | Rake 0
 Board [5d Kd As 5h 6h]
+Seat 2: Gogo showed [7d 7c] and lost
+Seat 6: Pluribus showed [Kc 8d] and won (1000.0)
+
 
 PokerStars Hand #35001: Hold'em No Limit (50/100) - 2019/07/11 09:43:21 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -131,6 +134,7 @@ Bill collected 2800.0 from pot
 Total pot 2800 | Rake 0
 Board [4h 2h 7h 4c]
 
+
 PokerStars Hand #35004: Hold'em No Limit (50/100) - 2019/07/11 09:43:24 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
@@ -200,6 +204,9 @@ MrWhite collected 4100.0 from pot
 *** SUMMARY ***
 Total pot 4100 | Rake 0
 Board [3d 4c Kc 9h 6h]
+Seat 2: MrWhite showed [9d 9s] and won (4100.0)
+Seat 4: Budd showed [Ac Qc] and lost
+
 
 PokerStars Hand #35006: Hold'em No Limit (50/100) - 2019/07/11 09:43:26 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -233,13 +240,14 @@ MrWhite: bets 2475
 Bill: calls 2475
 *** RIVER *** [Kh 2h Th] [7d] [6c]
 MrWhite: checks
-Bill: bets 5925
+Bill: bets 5925 and is all-in
 MrWhite: folds
 Uncalled bet (5925) returned to Bill
 Bill collected 8250.0 from pot
 *** SUMMARY ***
 Total pot 8250 | Rake 0
 Board [Kh 2h Th 7d 6c]
+
 
 PokerStars Hand #35007: Hold'em No Limit (50/100) - 2019/07/11 09:43:27 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -308,6 +316,9 @@ Gogo collected 7050.0 from pot
 *** SUMMARY ***
 Total pot 7050 | Rake 0
 Board [7s Js 9c Jd 3c]
+Seat 2: Eddie showed [Kh Th] and lost
+Seat 6: Gogo showed [Ad 7h] and won (7050.0)
+
 
 PokerStars Hand #35009: Hold'em No Limit (50/100) - 2019/07/11 09:43:29 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -331,7 +342,7 @@ MrWhite: folds
 Gogo: folds
 Budd: folds
 Eddie: calls 50
-Bill: calls 0
+Bill: checks
 *** FLOP *** [As 7d 5h]
 Eddie: checks
 Bill: bets 100
@@ -348,6 +359,7 @@ Bill collected 400.0 from pot
 *** SUMMARY ***
 Total pot 400 | Rake 0
 Board [As 7d 5h Qc 6s]
+
 
 PokerStars Hand #35010: Hold'em No Limit (50/100) - 2019/07/11 09:43:30 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -381,6 +393,7 @@ Eddie collected 600.0 from pot
 *** SUMMARY ***
 Total pot 600 | Rake 0
 Board [5d 4d 2h]
+
 
 PokerStars Hand #35011: Hold'em No Limit (50/100) - 2019/07/11 09:43:31 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -422,6 +435,7 @@ Gogo collected 1874.0 from pot
 *** SUMMARY ***
 Total pot 1874 | Rake 0
 Board [3h Ts Kh 2c 6c]
+
 
 PokerStars Hand #35012: Hold'em No Limit (50/100) - 2019/07/11 09:43:32 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -492,6 +506,7 @@ Pluribus collected 750.0 from pot
 Total pot 750 | Rake 0
 Board [4h 8c Ac 3h 9c]
 
+
 PokerStars Hand #35014: Hold'em No Limit (50/100) - 2019/07/11 09:43:34 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
 Seat 1: Budd (10000 in chips)
@@ -526,6 +541,7 @@ Budd collected 600.0 from pot
 *** SUMMARY ***
 Total pot 600 | Rake 0
 Board [8c Ad Jh 3c]
+
 
 PokerStars Hand #35015: Hold'em No Limit (50/100) - 2019/07/11 09:43:35 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -654,6 +670,7 @@ Pluribus collected 1850.0 from pot
 Total pot 1850 | Rake 0
 Board [8c Kc 4h 6c]
 
+
 PokerStars Hand #35019: Hold'em No Limit (50/100) - 2019/07/11 09:43:39 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
 Seat 1: Gogo (10000 in chips)
@@ -723,6 +740,7 @@ Gogo collected 1600.0 from pot
 Total pot 1600 | Rake 0
 Board [5c 5s Ks Ts]
 
+
 PokerStars Hand #35021: Hold'em No Limit (50/100) - 2019/07/11 09:43:41 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
@@ -754,6 +772,7 @@ Eddie collected 600.0 from pot
 *** SUMMARY ***
 Total pot 600 | Rake 0
 Board [Jd Kd 2h]
+
 
 PokerStars Hand #35022: Hold'em No Limit (50/100) - 2019/07/11 09:43:42 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -819,6 +838,7 @@ MrWhite collected 500.0 from pot
 Total pot 500 | Rake 0
 Board [5s 3d 8s Qh]
 
+
 PokerStars Hand #35024: Hold'em No Limit (50/100) - 2019/07/11 09:43:44 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrWhite (10000 in chips)
@@ -852,6 +872,7 @@ Gogo collected 800.0 from pot
 *** SUMMARY ***
 Total pot 800 | Rake 0
 Board [7h Jh Kh]
+
 
 PokerStars Hand #35025: Hold'em No Limit (50/100) - 2019/07/11 09:43:45 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -890,6 +911,7 @@ Pluribus collected 900.0 from pot
 Total pot 900 | Rake 0
 Board [5d Qc 7h Tc]
 
+
 PokerStars Hand #35026: Hold'em No Limit (50/100) - 2019/07/11 09:43:46 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
 Seat 1: Budd (10000 in chips)
@@ -923,6 +945,7 @@ Pluribus collected 1200.0 from pot
 *** SUMMARY ***
 Total pot 1200 | Rake 0
 Board [5c 8s 9c]
+
 
 PokerStars Hand #35027: Hold'em No Limit (50/100) - 2019/07/11 09:43:47 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -993,6 +1016,9 @@ Pluribus collected 1874.0 from pot
 *** SUMMARY ***
 Total pot 1874 | Rake 0
 Board [6d Jc 5s 9h 7s]
+Seat 2: Pluribus showed [Th Js] and won (1874.0)
+Seat 3: MrWhite showed [Kd Ah] and lost
+
 
 PokerStars Hand #35029: Hold'em No Limit (50/100) - 2019/07/11 09:43:49 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -1093,6 +1119,7 @@ Pluribus collected 1470.0 from pot
 Total pot 1470 | Rake 0
 Board [7d 5d 4s 2c Ah]
 
+
 PokerStars Hand #35032: Hold'em No Limit (50/100) - 2019/07/11 09:43:52 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
 Seat 1: Budd (10000 in chips)
@@ -1126,6 +1153,7 @@ Bill collected 500.0 from pot
 Total pot 500 | Rake 0
 Board [Qc Jh Kh]
 
+
 PokerStars Hand #35033: Hold'em No Limit (50/100) - 2019/07/11 09:43:53 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
@@ -1148,7 +1176,7 @@ MrWhite: folds
 Gogo: folds
 Budd: folds
 Eddie: calls 50
-Bill: calls 0
+Bill: checks
 *** FLOP *** [4d 3c 5c]
 Eddie: checks
 Bill: checks
@@ -1165,6 +1193,9 @@ Bill collected 500.0 from pot
 *** SUMMARY ***
 Total pot 500 | Rake 0
 Board [4d 3c 5c Js 2h]
+Seat 1: Eddie showed [4c Ks] and lost
+Seat 2: Bill showed [Jd 8s] and won (500.0)
+
 
 PokerStars Hand #35034: Hold'em No Limit (50/100) - 2019/07/11 09:43:54 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -1204,6 +1235,9 @@ Eddie collected 494.0 from pot
 *** SUMMARY ***
 Total pot 494 | Rake 0
 Board [5c Qh Kd 9h 3h]
+Seat 2: Pluribus showed [7s 5s] and lost
+Seat 6: Eddie showed [Jd Jc] and won (494.0)
+
 
 PokerStars Hand #35035: Hold'em No Limit (50/100) - 2019/07/11 09:43:55 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -1239,6 +1273,7 @@ Bill collected 750.0 from pot
 *** SUMMARY ***
 Total pot 750 | Rake 0
 Board [As 7s 6s]
+
 
 PokerStars Hand #35036: Hold'em No Limit (50/100) - 2019/07/11 09:43:56 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -1278,6 +1313,7 @@ Pluribus collected 650.0 from pot
 *** SUMMARY ***
 Total pot 650 | Rake 0
 Board [As 4d Qh Kc]
+
 
 PokerStars Hand #35037: Hold'em No Limit (50/100) - 2019/07/11 09:43:57 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -1374,6 +1410,7 @@ Bill collected 2200.0 from pot
 Total pot 2200 | Rake 0
 Board [7s 9h 9s 8c]
 
+
 PokerStars Hand #35040: Hold'em No Limit (50/100) - 2019/07/11 09:44:00 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
 Seat 1: Bill (10000 in chips)
@@ -1415,6 +1452,9 @@ Budd collected 6250.0 from pot
 *** SUMMARY ***
 Total pot 6250 | Rake 0
 Board [5h 3h 5c 7s Ah]
+Seat 4: Gogo showed [6h 6d] and lost
+Seat 5: Budd showed [9s 9d] and won (6250.0)
+
 
 PokerStars Hand #35041: Hold'em No Limit (50/100) - 2019/07/11 09:44:01 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -1451,6 +1491,7 @@ Bill collected 550.0 from pot
 *** SUMMARY ***
 Total pot 550 | Rake 0
 Board [7h Qs 8s Kd]
+
 
 PokerStars Hand #35042: Hold'em No Limit (50/100) - 2019/07/11 09:44:02 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -1515,6 +1556,7 @@ Budd collected 500.0 from pot
 Total pot 500 | Rake 0
 Board [7c 9h Td 5c]
 
+
 PokerStars Hand #35044: Hold'em No Limit (50/100) - 2019/07/11 09:44:04 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
 Seat 1: Budd (10000 in chips)
@@ -1547,6 +1589,7 @@ MrWhite collected 500.0 from pot
 *** SUMMARY ***
 Total pot 500 | Rake 0
 Board [5c 9h Kc]
+
 
 PokerStars Hand #35045: Hold'em No Limit (50/100) - 2019/07/11 09:44:05 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -1628,7 +1671,7 @@ Budd: folds
 Eddie: folds
 Bill: folds
 Pluribus: calls 50
-MrWhite: calls 0
+MrWhite: checks
 *** FLOP *** [Qs Kc 3c]
 Pluribus: checks
 MrWhite: checks
@@ -1643,6 +1686,7 @@ Pluribus collected 200.0 from pot
 *** SUMMARY ***
 Total pot 200 | Rake 0
 Board [Qs Kc 3c 5h Jd]
+
 
 PokerStars Hand #35048: Hold'em No Limit (50/100) - 2019/07/11 09:44:08 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -1684,6 +1728,9 @@ MrWhite collected 3000.0 from pot
 *** SUMMARY ***
 Total pot 3000 | Rake 0
 Board [2h Qs As 8s 2d]
+Seat 1: MrWhite showed [9h Qh] and won (3000.0)
+Seat 2: Gogo showed [Kd 6h] and lost
+
 
 PokerStars Hand #35049: Hold'em No Limit (50/100) - 2019/07/11 09:44:09 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -1752,6 +1799,7 @@ Eddie collected 500.0 from pot
 Total pot 500 | Rake 0
 Board [2s 2c Qh 5c Tc]
 
+
 PokerStars Hand #35051: Hold'em No Limit (50/100) - 2019/07/11 09:44:11 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
@@ -1774,7 +1822,7 @@ MrWhite: folds
 Gogo: folds
 Budd: folds
 Eddie: calls 50
-Bill: calls 0
+Bill: checks
 *** FLOP *** [Qs 9d 5s]
 Eddie: checks
 Bill: checks
@@ -1791,6 +1839,7 @@ Bill collected 500.0 from pot
 *** SUMMARY ***
 Total pot 500 | Rake 0
 Board [Qs 9d 5s 6h 7d]
+
 
 PokerStars Hand #35052: Hold'em No Limit (50/100) - 2019/07/11 09:44:12 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -1826,13 +1875,14 @@ Budd: bets 1800
 Gogo: calls 1800
 *** RIVER *** [Js 2s 3s] [Qh] [7s]
 Gogo: checks
-Budd: bets 6950
+Budd: bets 6950 and is all-in
 Gogo: folds
 Uncalled bet (6950) returned to Budd
 Budd collected 6250.0 from pot
 *** SUMMARY ***
 Total pot 6250 | Rake 0
 Board [Js 2s 3s Qh 7s]
+
 
 PokerStars Hand #35053: Hold'em No Limit (50/100) - 2019/07/11 09:44:13 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -1953,6 +2003,7 @@ Gogo collected 450.0 from pot
 Total pot 450 | Rake 0
 Board [2c Jd Jh]
 
+
 PokerStars Hand #35057: Hold'em No Limit (50/100) - 2019/07/11 09:44:17 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
 Seat 1: Eddie (10000 in chips)
@@ -1993,6 +2044,9 @@ Bill collected 3124.0 from pot
 *** SUMMARY ***
 Total pot 3124 | Rake 0
 Board [2c 8c 3s Qs 5c]
+Seat 2: Bill showed [2s 6s] and won (3124.0)
+Seat 4: MrWhite showed [As 9s] and lost
+
 
 PokerStars Hand #35058: Hold'em No Limit (50/100) - 2019/07/11 09:44:18 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -2061,6 +2115,7 @@ Eddie collected 1600.0 from pot
 *** SUMMARY ***
 Total pot 1600 | Rake 0
 Board [Qd Td 3s Kc Qc]
+
 
 PokerStars Hand #35060: Hold'em No Limit (50/100) - 2019/07/11 09:44:20 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -2151,6 +2206,7 @@ Gogo collected 450.0 from pot
 *** SUMMARY ***
 Total pot 450 | Rake 0
 Board [6s Jh Ad]
+
 
 PokerStars Hand #35063: Hold'em No Limit (50/100) - 2019/07/11 09:44:23 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -2249,6 +2305,7 @@ Eddie collected 2100.0 from pot
 Total pot 2100 | Rake 0
 Board [7d Ah 8c 7h]
 
+
 PokerStars Hand #35066: Hold'em No Limit (50/100) - 2019/07/11 09:44:26 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
 Seat 1: MrWhite (10000 in chips)
@@ -2281,6 +2338,7 @@ Pluribus collected 500.0 from pot
 *** SUMMARY ***
 Total pot 500 | Rake 0
 Board [Jc Kd 4s]
+
 
 PokerStars Hand #35067: Hold'em No Limit (50/100) - 2019/07/11 09:44:27 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -2343,6 +2401,7 @@ Gogo collected 450.0 from pot
 *** SUMMARY ***
 Total pot 450 | Rake 0
 Board [As 7h 4c]
+
 
 PokerStars Hand #35069: Hold'em No Limit (50/100) - 2019/07/11 09:44:29 ET
 Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
@@ -2444,3 +2503,6 @@ MrWhite collected 600.0 from pot
 *** SUMMARY ***
 Total pot 600 | Rake 0
 Board [2d 4c 7d 4d 3c]
+Seat 1: Pluribus showed [5h 5d] and lost
+Seat 2: MrWhite showed [Ad 7h] and won (600.0)
+Seat 3: Gogo showed [Ac Qh] and lost
