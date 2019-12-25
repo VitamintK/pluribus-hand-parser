@@ -1,9 +1,9 @@
 # pluribus-hand-parser
 Standalone parser for the hands that pluribus played
 
-available by downloading [Data File S1 here](https://science.sciencemag.org/content/suppl/2019/07/10/science.aay2400.DC1).
+the raw data is available by downloading [Data File S1 here](https://science.sciencemag.org/content/suppl/2019/07/10/science.aay2400.DC1).
 
-THIS API IS SUBJECT TO EXTREME CHANGE.  This is version -1
+THIS API IS SUBJECT TO EXTREME CHANGE.  This is version -1.
 
 # Usage
 
@@ -49,3 +49,10 @@ MrBlue collected 3900 from pot
 Total pot 3900 | Rake 0
 Board [Qd Kc 9d Ac]
 ```
+
+# Updates and ongoing work
+
+Sorry to those who have requested a version that works with Hold'em Manager - I'll get around to approving that pull request eventually.  It looks like Hold'em Manager doesn't like the "play money" designation and needs $ amount to function correctly.
+
+# Discussion
+[reddit post](https://www.reddit.com/r/poker/comments/cdhasb/download_all_10000_hands_that_pluribus_poker_ai/)
